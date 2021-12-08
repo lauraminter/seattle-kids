@@ -6,22 +6,26 @@ import pandas as pd
 
 app = dash.Dash()
 
-df = pd.read_csv(
-    "https://raw.githubusercontent.com/ThuwarakeshM/geting-started-with-plottly-dash/main/life_expectancy.csv"
+ucvpop = pd.read_csv(
+    "./data/citydata/Urban_Centers_and_Villages_with_PL_94-171_Redistricting__Data_for_1990-2020.csv"
 )
-print(df.head())
+ucvpop['change'] = ucvpop['F2020_PL_data_TOT_POP'] - ucvpop['F2010_PL_data_TOT_POP']
+ucvpop['perc_change'] = (ucvpop['F2020_PL_data_TOT_POP'] - ucvpop['F2010_PL_data_TOT_POP'])/ucvpop['F2010_PL_data_TOT_POP']
+
+
+print(ucvpop.head())
 fig = px.scatter(
-    df,
-    x="GDP",
-    y="Life expectancy",
-    size="Population",
-    color="continent",
-    hover_name="Country",
+    ucvpop,
+    x="AREA_ACRES",
+    y="perc_change",
+    size="F2020_PL_data_TOT_POP",
+    #color="continent",
+    hover_name="NEIGH_NAME",
     log_x=True,
     size_max=60,
 )
 
-app.layout = html.Div([dcc.Graph(id="life-exp-vs-gdp", figure=fig)])
+app.layout = html.Div([dcc.Graph(id="perc_change_vs_area", figure=fig)])
 
 
 if __name__ == "__main__":
