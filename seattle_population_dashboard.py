@@ -1,4 +1,4 @@
-# 
+# seattle_population_dashboard.py
 # based on the dash tutorial: https://dash.plotly.com/interactive-graphing
 # modified by L. Minter
 
@@ -13,27 +13,24 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-#df = pd.read_csv('https://plotly.github.io/datasets/country_indicators.csv')
-#df = pd.read_csv("./data/seattle_ucv_kids_cleaned.csv")
+# read in our data
 df = pd.read_csv('./data/dash-data.csv')
 
-print(df.head())
 app = dash.Dash(__name__)
 
-
-
+# get the list of available indicators from the dataframe
 available_indicators = df['Indicator Name'].unique()
-#available_indicators = ['population','10_year_growth','10_year_frac_growth','density']
-print(df.columns)
 
+# set the layout of the dashboard
 app.layout = html.Div([
     html.Div([
 
         html.Div([
+            html.Label(['choose horizontal axis:']),
             dcc.Dropdown(
                 id='crossfilter-xaxis-column',
                 options=[{'label': i, 'value': i} for i in available_indicators],
-                value='population)'
+                value='population'
             ),
             dcc.RadioItems(
                 id='crossfilter-xaxis-type',
@@ -45,6 +42,7 @@ app.layout = html.Div([
         style={'width': '49%', 'display': 'inline-block'}),
 
         html.Div([
+            html.Label(['choose vertical axis:']),
             dcc.Dropdown(
                 id='crossfilter-yaxis-column',
                 options=[{'label': i, 'value': i} for i in available_indicators],
