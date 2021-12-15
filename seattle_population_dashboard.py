@@ -14,7 +14,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # read in our data
-df = pd.read_csv('./data/dash-data.csv')
+df = pd.read_csv('./data/dash-data-combined.csv')
 
 app = dash.Dash(__name__)
 
@@ -30,7 +30,7 @@ app.layout = html.Div([
             dcc.Dropdown(
                 id='crossfilter-xaxis-column',
                 options=[{'label': i, 'value': i} for i in available_indicators],
-                value='population'
+                value='total population'
             ),
             dcc.RadioItems(
                 id='crossfilter-xaxis-type',
@@ -46,7 +46,7 @@ app.layout = html.Div([
             dcc.Dropdown(
                 id='crossfilter-yaxis-column',
                 options=[{'label': i, 'value': i} for i in available_indicators],
-                value='10_year_frac_growth'
+                value='10_year_frac_growth_all'
             ),
             dcc.RadioItems(
                 id='crossfilter-yaxis-type',
