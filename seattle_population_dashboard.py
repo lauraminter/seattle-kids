@@ -16,6 +16,7 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 # read in our data
 df = pd.read_csv('./data/dash-data-combined.csv')
 
+# instantiate the Dash class
 app = dash.Dash(__name__)
 
 # get the list of available indicators from the dataframe
@@ -81,6 +82,7 @@ app.layout = html.Div([
 ])
 
 
+# callbacks
 @app.callback(
     dash.dependencies.Output('crossfilter-indicator-scatter', 'figure'),
     [dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
