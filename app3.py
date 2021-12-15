@@ -12,9 +12,7 @@ colors = {
     'titletext':'mediumslateblue'
 }
 
-df = pd.read_csv(
-    "./data/seattle_ucv_kids_cleaned.csv")
-df
+df = pd.read_csv("./data/seattle_ucv_kids_cleaned.csv")
 
 print(df.head())
 fig = px.scatter(
@@ -71,6 +69,10 @@ app.layout = html.Div([
     [Input(component_id='my_dropdown', component_property='value')]
 )
 
+@app.callback(
+    Output(component_id='my-output', component_property='children'),
+    Input(component_id='my-input', component_property='value')
+)
 
 def update_graph(parameter_dropdown):
     dff = df
