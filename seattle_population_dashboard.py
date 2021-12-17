@@ -2,6 +2,10 @@
 # based on the dash tutorial: https://dash.plotly.com/interactive-graphing
 # modified by L. Minter
 
+# to do:
+# rename variables to be more readable (jupyter)
+# make it pretty!
+
 import dash
 from dash import dcc
 from dash import html
@@ -14,7 +18,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # read in our data
-df = pd.read_csv('./data/dash-data-combined.csv')
+df = pd.read_csv('./data/dashdata/dash-data-combined.csv')
 
 # instantiate the Dash class
 app = dash.Dash(__name__)
