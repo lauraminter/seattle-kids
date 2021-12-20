@@ -1,16 +1,16 @@
 ,Service Area,School Name,Year,Indicator Name,Value
-0,Aki Kurose,MLK Jr,2010,Enrollment,369.0
+0,Aki Kurose,Martin Luther King Jr.,2010,Enrollment,369.0
 1,Aki Kurose,Dunlap,2010,Enrollment,414.0
 2,Aki Kurose,Emerson,2010,Enrollment,376.0
 3,Aki Kurose,Graham Hill,2010,Enrollment,400.0
 4,Aki Kurose,South Shore,2010,Enrollment,601.0
 5,Aki Kurose,Wing Luke,2010,Enrollment,357.0
 6,Denny,Arbor Heights,2010,Enrollment,376.0
-7,Denny,Concord Intl.,2010,Enrollment,373.0
+7,Denny,Concord Intl,2010,Enrollment,373.0
 8,Denny,Highland Park,2010,Enrollment,420.0
 9,Denny,Roxhill,2010,Enrollment,334.0
 10,Denny,Sanislo,2010,Enrollment,315.0
-11,Denny,West Seattle El,2010,Enrollment,360.0
+11,Denny,West Seattle Elem,2010,Enrollment,360.0
 12,Eckstein,AS #1,2010,Enrollment,150.0
 13,Eckstein,Bryant,2010,Enrollment,570.0
 14,Eckstein,Green Lake,2010,Enrollment,285.0
@@ -24,9 +24,9 @@
 22,Eckstein,View Ridge,2010,Enrollment,546.0
 23,Eckstein,Wedgwood,2010,Enrollment,449.0
 24,Hamilton,B. F. Day,2010,Enrollment,331.0
-25,Hamilton,J. Stanford Intl.,2010,Enrollment,426.0
+25,Hamilton,J. Stanford Intl,2010,Enrollment,426.0
 26,Hamilton,Laurelhurst,2010,Enrollment,437.0
-27,Hamilton,McDonald,2010,Enrollment,57.0
+27,Hamilton,McDonald Intl,2010,Enrollment,57.0
 28,Hamilton,West Woodland,2010,Enrollment,459.0
 29,Madison,Alki,2010,Enrollment,363.0
 30,Madison,Gatewood,2010,Enrollment,462.0
@@ -38,7 +38,7 @@
 36,McClure,John Hay,2010,Enrollment,487.0
 37,McClure,Lawton,2010,Enrollment,436.0
 38,McClure,Queen Anne,2010,Enrollment,113.0
-39,Mercer,Beacon Hill Intl.,2010,Enrollment,448.0
+39,Mercer,Beacon Hill Intl,2010,Enrollment,448.0
 40,Mercer,Dearborn Park,2010,Enrollment,358.0
 41,Mercer,Hawthorne,2010,Enrollment,299.0
 42,Mercer,Kimball,2010,Enrollment,497.0
@@ -65,9 +65,9 @@
 63,Whitman,Salmon Bay,2010,Enrollment,589.0
 64,Whitman,Whittier,2010,Enrollment,453.0
 65,Middle Schools,Aki Kurose,2010,Enrollment,588.0
-66,Middle Schools,Denny Intl.,2010,Enrollment,781.0
+66,Middle Schools,Denny Intl,2010,Enrollment,781.0
 67,Middle Schools,Eckstein,2010,Enrollment,1213.0
-68,Middle Schools,Hamilton Intl.,2010,Enrollment,853.0
+68,Middle Schools,Hamilton Intl,2010,Enrollment,853.0
 69,Middle Schools,Madison,2010,Enrollment,849.0
 70,Middle Schools,McClure,2010,Enrollment,514.0
 71,Middle Schools,Mercer,2010,Enrollment,807.0
@@ -75,7 +75,7 @@
 73,Middle Schools,Whitman,2010,Enrollment,954.0
 74,High Schools,Ballard,2010,Enrollment,1610.0
 75,High Schools,Center School,2010,Enrollment,299.0
-76,High Schools,Chief Sealth Intl.,2010,Enrollment,1078.0
+76,High Schools,Chief Sealth Intl,2010,Enrollment,1078.0
 77,High Schools,Cleveland,2010,Enrollment,738.0
 78,High Schools,Franklin,2010,Enrollment,1301.0
 79,High Schools,Garfield,2010,Enrollment,1788.0
@@ -101,11 +101,11 @@
 5,Aki Kurose,South Shore,2011,Enrollment,594.0
 6,Aki Kurose,Wing Luke,2011,Enrollment,351.0
 7,Denny,Arbor Heights,2011,Enrollment,363.0
-8,Denny,Concord Intl.,2011,Enrollment,391.0
+8,Denny,Concord Intl,2011,Enrollment,391.0
 9,Denny,Highland Park,2011,Enrollment,434.0
 10,Denny,Roxhill,2011,Enrollment,377.0
 11,Denny,Sanislo,2011,Enrollment,302.0
-12,Denny,West Seattle Elem.,2011,Enrollment,406.0
+12,Denny,West Seattle Elem,2011,Enrollment,406.0
 13,Eckstein,Bryant,2011,Enrollment,548.0
 14,Eckstein,Green Lake,2011,Enrollment,264.0
 15,Eckstein,Jane Addams,2011,Enrollment,533.0
@@ -119,9 +119,9 @@
 23,Eckstein,View Ridge,2011,Enrollment,590.0
 24,Eckstein,Wedgwood,2011,Enrollment,446.0
 25,Hamilton,B. F. Day,2011,Enrollment,321.0
-26,Hamilton,J. Stanford Intl.,2011,Enrollment,460.0
+26,Hamilton,J. Stanford Intl,2011,Enrollment,460.0
 27,Hamilton,Laurelhurst,2011,Enrollment,420.0
-28,Hamilton,McDonald,2011,Enrollment,187.0
+28,Hamilton,McDonald Intl,2011,Enrollment,187.0
 29,Hamilton,West Woodland,2011,Enrollment,473.0
 30,Madison,Alki,2011,Enrollment,355.0
 31,Madison,Gatewood,2011,Enrollment,484.0
@@ -133,7 +133,7 @@
 37,McClure,John Hay,2011,Enrollment,530.0
 38,McClure,Lawton,2011,Enrollment,440.0
 39,McClure,Queen Anne,2011,Enrollment,223.0
-40,Mercer,Beacon Hill Intl.,2011,Enrollment,452.0
+40,Mercer,Beacon Hill Intl,2011,Enrollment,452.0
 41,Mercer,Dearborn Park,2011,Enrollment,309.0
 42,Mercer,Hawthorne,2011,Enrollment,296.0
 43,Mercer,Kimball,2011,Enrollment,471.0
@@ -161,9 +161,9 @@
 65,Whitman,Viewlands,2011,Enrollment,176.0
 66,Whitman,Whittier,2011,Enrollment,460.0
 67,Middle Schools,Aki Kurose,2011,Enrollment,658.0
-68,Middle Schools,Denny Intl.,2011,Enrollment,861.0
+68,Middle Schools,Denny Intl,2011,Enrollment,861.0
 69,Middle Schools,Eckstein,2011,Enrollment,1278.0
-70,Middle Schools,Hamilton Intl.,2011,Enrollment,919.0
+70,Middle Schools,Hamilton Intl,2011,Enrollment,919.0
 71,Middle Schools,Madison,2011,Enrollment,828.0
 72,Middle Schools,McClure,2011,Enrollment,483.0
 73,Middle Schools,Mercer,2011,Enrollment,924.0
@@ -171,7 +171,7 @@
 75,Middle Schools,Whitman,2011,Enrollment,983.0
 76,High Schools,Ballard,2011,Enrollment,1636.0
 77,High Schools,Center School,2011,Enrollment,278.0
-78,High Schools,Chief Sealth Intl.,2011,Enrollment,1239.0
+78,High Schools,Chief Sealth Intl,2011,Enrollment,1239.0
 79,High Schools,Cleveland,2011,Enrollment,819.0
 80,High Schools,Franklin,2011,Enrollment,1415.0
 81,High Schools,Garfield,2011,Enrollment,1721.0
@@ -197,12 +197,12 @@
 5,Aki Kurose,South Shore,2012,Enrollment,621.0
 6,Aki Kurose,Wing Luke,2012,Enrollment,331.0
 7,Denny,Arbor Heights,2012,Enrollment,337.0
-8,Denny,Concord Intl.,2012,Enrollment,409.0
+8,Denny,Concord Intl,2012,Enrollment,409.0
 9,Denny,Highland Park,2012,Enrollment,427.0
 10,Denny,K-5 STEM at Boren,2012,Enrollment,268.0
 11,Denny,Roxhill,2012,Enrollment,368.0
 12,Denny,Sanislo,2012,Enrollment,281.0
-13,Denny,West Seattle Elem.,2012,Enrollment,399.0
+13,Denny,West Seattle Elem,2012,Enrollment,399.0
 14,Eckstein,Bryant,2012,Enrollment,579.0
 15,Eckstein,Green Lake,2012,Enrollment,259.0
 16,Eckstein,Jane Addams,2012,Enrollment,581.0
@@ -217,9 +217,9 @@
 25,Eckstein,Wedgwood,2012,Enrollment,471.0
 26,Hamilton,APP at Lincoln,2012,Enrollment,524.0
 27,Hamilton,B. F. Day,2012,Enrollment,336.0
-28,Hamilton,J. Stanford Intl.,2012,Enrollment,451.0
+28,Hamilton,J. Stanford Intl,2012,Enrollment,451.0
 29,Hamilton,Laurelhurst,2012,Enrollment,410.0
-30,Hamilton,McDonald,2012,Enrollment,277.0
+30,Hamilton,McDonald Intl,2012,Enrollment,277.0
 31,Hamilton,West Woodland,2012,Enrollment,486.0
 32,Madison,Alki,2012,Enrollment,357.0
 33,Madison,Gatewood,2012,Enrollment,461.0
@@ -231,7 +231,7 @@
 39,McClure,John Hay,2012,Enrollment,546.0
 40,McClure,Lawton,2012,Enrollment,433.0
 41,McClure,Queen Anne,2012,Enrollment,279.0
-42,Mercer,Beacon Hill Intl.,2012,Enrollment,461.0
+42,Mercer,Beacon Hill Intl,2012,Enrollment,461.0
 43,Mercer,Dearborn Park,2012,Enrollment,337.0
 44,Mercer,Hawthorne,2012,Enrollment,321.0
 45,Mercer,Kimball,2012,Enrollment,475.0
@@ -241,7 +241,7 @@
 49,Washington,Gatzert,2012,Enrollment,378.0
 50,Washington,John Muir,2012,Enrollment,459.0
 51,Washington,Leschi,2012,Enrollment,366.0
-52,Washington,Lowell*,2012,Enrollment,182.0
+52,Washington,Lowell,2012,Enrollment,182.0
 53,Washington,Madrona,2012,Enrollment,275.0
 54,Washington,McGilvra,2012,Enrollment,301.0
 55,Washington,Montlake,2012,Enrollment,238.0
@@ -259,9 +259,9 @@
 67,Whitman,Viewlands,2012,Enrollment,246.0
 68,Whitman,Whittier,2012,Enrollment,466.0
 69,Middle Schools,Aki Kurose,2012,Enrollment,743.0
-70,Middle Schools,Denny Intl.,2012,Enrollment,896.0
+70,Middle Schools,Denny Intl,2012,Enrollment,896.0
 71,Middle Schools,Eckstein,2012,Enrollment,1298.0
-72,Middle Schools,Hamilton Intl.,2012,Enrollment,974.0
+72,Middle Schools,Hamilton Intl,2012,Enrollment,974.0
 73,Middle Schools,Madison,2012,Enrollment,752.0
 74,Middle Schools,McClure,2012,Enrollment,448.0
 75,Middle Schools,Mercer,2012,Enrollment,983.0
@@ -269,7 +269,7 @@
 77,Middle Schools,Whitman,2012,Enrollment,971.0
 78,High Schools,Ballard,2012,Enrollment,1609.0
 79,High Schools,Center School,2012,Enrollment,285.0
-80,High Schools,Chief Sealth Intl.,2012,Enrollment,1275.0
+80,High Schools,Chief Sealth Intl,2012,Enrollment,1275.0
 81,High Schools,Cleveland,2012,Enrollment,838.0
 82,High Schools,Franklin,2012,Enrollment,1445.0
 83,High Schools,Garfield,2012,Enrollment,1669.0
@@ -295,15 +295,15 @@
 5,Aki Kurose,South Shore,2013,Enrollment,625.0
 6,Aki Kurose,Wing Luke,2013,Enrollment,350.0
 7,Denny,Arbor Heights,2013,Enrollment,364.0
-8,Denny,Concord Intl.,2013,Enrollment,394.0
+8,Denny,Concord Intl,2013,Enrollment,394.0
 9,Denny,Highland Park,2013,Enrollment,419.0
 10,Denny,K-5 STEM at Boren,2013,Enrollment,327.0
 11,Denny,Roxhill,2013,Enrollment,377.0
 12,Denny,Sanislo,2013,Enrollment,273.0
-13,Denny,West Seattle Elem.,2013,Enrollment,424.0
+13,Denny,West Seattle Elem,2013,Enrollment,424.0
 14,Eckstein,Bryant,2013,Enrollment,594.0
 15,Eckstein,Green Lake,2013,Enrollment,257.0
-16,Eckstein,Jane Addams*,2013,Enrollment,737.0
+16,Eckstein,Jane Addams,2013,Enrollment,737.0
 17,Eckstein,John Rogers,2013,Enrollment,323.0
 18,Eckstein,Laurelhurst,2013,Enrollment,427.0
 19,Eckstein,Olympic Hills,2013,Enrollment,297.0
@@ -316,8 +316,8 @@
 26,Eckstein,Wedgwood,2013,Enrollment,482.0
 27,Hamilton,APP at Lincoln,2013,Enrollment,598.0
 28,Hamilton,B. F. Day,2013,Enrollment,324.0
-29,Hamilton,J. Stanford Intl.,2013,Enrollment,458.0
-30,Hamilton,McDonald,2013,Enrollment,365.0
+29,Hamilton,J. Stanford Intl,2013,Enrollment,458.0
+30,Hamilton,McDonald Intl,2013,Enrollment,365.0
 31,Hamilton,West Woodland,2013,Enrollment,519.0
 32,Madison,Alki,2013,Enrollment,384.0
 33,Madison,Gatewood,2013,Enrollment,500.0
@@ -329,7 +329,7 @@
 39,McClure,John Hay,2013,Enrollment,547.0
 40,McClure,Lawton,2013,Enrollment,422.0
 41,McClure,Queen Anne,2013,Enrollment,338.0
-42,Mercer,Beacon Hill Intl.,2013,Enrollment,465.0
+42,Mercer,Beacon Hill Intl,2013,Enrollment,465.0
 43,Mercer,Dearborn Park,2013,Enrollment,349.0
 44,Mercer,Hawthorne,2013,Enrollment,348.0
 45,Mercer,Kimball,2013,Enrollment,447.0
@@ -357,9 +357,9 @@
 67,Whitman,Viewlands,2013,Enrollment,314.0
 68,Whitman,Whittier,2013,Enrollment,476.0
 69,Middle Schools,Aki Kurose,2013,Enrollment,741.0
-70,Middle Schools,Denny Intl.,2013,Enrollment,944.0
+70,Middle Schools,Denny Intl,2013,Enrollment,944.0
 71,Middle Schools,Eckstein,2013,Enrollment,1220.0
-72,Middle Schools,Hamilton Intl.,2013,Enrollment,1108.0
+72,Middle Schools,Hamilton Intl,2013,Enrollment,1108.0
 73,Middle Schools,Madison,2013,Enrollment,777.0
 74,Middle Schools,McClure,2013,Enrollment,520.0
 75,Middle Schools,Mercer,2013,Enrollment,967.0
@@ -367,7 +367,7 @@
 77,Middle Schools,Whitman,2013,Enrollment,955.0
 78,High Schools,Ballard,2013,Enrollment,1582.0
 79,High Schools,Center School,2013,Enrollment,283.0
-80,High Schools,Chief Sealth Intl.,2013,Enrollment,1249.0
+80,High Schools,Chief Sealth Intl,2013,Enrollment,1249.0
 81,High Schools,Cleveland,2013,Enrollment,843.0
 82,High Schools,Franklin,2013,Enrollment,1373.0
 83,High Schools,Garfield,2013,Enrollment,1604.0
@@ -388,109 +388,109 @@
 0,Aki Kurose ,Dunlap,2014,Enrollment,380.0
 1,Aki Kurose ,Emerson,2014,Enrollment,274.0
 2,Aki Kurose ,Graham Hill,2014,Enrollment,385.0
-3,Aki Kurose ,Martin Luther King Jr. ,2014,Enrollment,367.0
-4,Aki Kurose ,Rainier View ,2014,Enrollment,188.0
-5,Aki Kurose ,South Shore K-8 ,2014,Enrollment,641.0
-6,Aki Kurose ,Wing Luke ,2014,Enrollment,348.0
-7,Denny ,Arbor Heights ,2014,Enrollment,371.0
-8,Denny ,Concord Intl. ,2014,Enrollment,412.0
+3,Aki Kurose ,Martin Luther King Jr.,2014,Enrollment,367.0
+4,Aki Kurose ,Rainier View,2014,Enrollment,188.0
+5,Aki Kurose ,South Shore,2014,Enrollment,641.0
+6,Aki Kurose ,Wing Luke,2014,Enrollment,348.0
+7,Denny ,Arbor Heights,2014,Enrollment,371.0
+8,Denny ,Concord Intl,2014,Enrollment,412.0
 9,Denny ,Highland Park,2014,Enrollment,363.0
 10,Denny ,K-5 STEM at Boren,2014,Enrollment,354.0
 11,Denny ,Roxhill,2014,Enrollment,372.0
 12,Denny ,Sanislo,2014,Enrollment,280.0
-13,Denny ,West Seattle Elem. ,2014,Enrollment,421.0
+13,Denny ,West Seattle Elem,2014,Enrollment,421.0
 14,Eckstein ,Bryant,2014,Enrollment,589.0
-15,Eckstein ,Hazel Wolf K-8 ,2014,Enrollment,711.0
-16,Eckstein ,Laurelhurst ,2014,Enrollment,421.0
-17,Eckstein ,Olympic View ,2014,Enrollment,472.0
-18,Eckstein ,Sand Point ,2014,Enrollment,259.0
-19,Eckstein ,Thornton Creek ,2014,Enrollment,402.0
-20,Eckstein ,View Ridge ,2014,Enrollment,588.0
-21,Eckstein ,Wedgwood ,2014,Enrollment,469.0
+15,Eckstein ,Hazel Wolf K-8,2014,Enrollment,711.0
+16,Eckstein ,Laurelhurst,2014,Enrollment,421.0
+17,Eckstein ,Olympic View,2014,Enrollment,472.0
+18,Eckstein ,Sand Point,2014,Enrollment,259.0
+19,Eckstein ,Thornton Creek,2014,Enrollment,402.0
+20,Eckstein ,View Ridge,2014,Enrollment,588.0
+21,Eckstein ,Wedgwood,2014,Enrollment,469.0
 22,Hamilton ,APP at Lincoln,2014,Enrollment,686.0
 23,Hamilton ,B. F. Day,2014,Enrollment,324.0
 24,Hamilton ,Green Lake,2014,Enrollment,296.0
-25,Hamilton ,J. Stanford Intl.,2014,Enrollment,469.0
-26,Hamilton , Licton Springs K-8 ,2014,Enrollment,116.0
-27,Hamilton ,McDonald Int'l ,2014,Enrollment,408.0
-28,Hamilton ,West Woodland ,2014,Enrollment,520.0
-29,Jane Addams,John Rogers ,2014,Enrollment,352.0
-30,Jane Addams,Olympic Hills ,2014,Enrollment,300.0
-31,Jane Addams,Sacajawea ,2014,Enrollment,242.0
+25,Hamilton ,J. Stanford Intl,2014,Enrollment,469.0
+26,Hamilton ,Licton Springs K-8,2014,Enrollment,116.0
+27,Hamilton ,McDonald Intl,2014,Enrollment,408.0
+28,Hamilton ,West Woodland,2014,Enrollment,520.0
+29,Jane Addams,John Rogers,2014,Enrollment,352.0
+30,Jane Addams,Olympic Hills,2014,Enrollment,300.0
+31,Jane Addams,Sacajawea,2014,Enrollment,242.0
 32,Madison,Alki,2014,Enrollment,410.0
-33,Madison,Fairmount Park* ,2014,Enrollment,364.0
+33,Madison,Fairmount Park,2014,Enrollment,364.0
 34,Madison,Gatewood,2014,Enrollment,405.0
-35,Madison, Lafayette ,2014,Enrollment,505.0
-36,Madison,Pathfinder K-8 ,2014,Enrollment,505.0
-37,Madison,Schmitz Park ,2014,Enrollment,606.0
-38,McClure,Catharine Blaine K-8 ,2014,Enrollment,673.0
-39,McClure,Coe ,2014,Enrollment,500.0
-40,McClure,John Hay ,2014,Enrollment,518.0
-41,McClure,Lawton ,2014,Enrollment,419.0
-42,McClure,Queen Anne ,2014,Enrollment,398.0
-43,Mercer ,Beacon Hill Intl. ,2014,Enrollment,479.0
+35,Madison,Lafayette,2014,Enrollment,505.0
+36,Madison,Pathfinder,2014,Enrollment,505.0
+37,Madison,Schmitz Park,2014,Enrollment,606.0
+38,McClure,Catharine Blaine,2014,Enrollment,673.0
+39,McClure,Coe,2014,Enrollment,500.0
+40,McClure,John Hay,2014,Enrollment,518.0
+41,McClure,Lawton,2014,Enrollment,419.0
+42,McClure,Queen Anne,2014,Enrollment,398.0
+43,Mercer ,Beacon Hill Intl,2014,Enrollment,479.0
 44,Mercer ,Dearborn Park,2014,Enrollment,370.0
-45,Mercer , Hawthorne ,2014,Enrollment,362.0
-46,Mercer ,Kimball ,2014,Enrollment,436.0
-47,Mercer ,Maple ,2014,Enrollment,469.0
-48,Mercer ,Orca K-8 ,2014,Enrollment,475.0
-49,Mercer ,Van Asselt ,2014,Enrollment,524.0
-50,Washington ,Bailey Gatzert ,2014,Enrollment,337.0
-51,Washington ,John Muir ,2014,Enrollment,439.0
+45,Mercer ,Hawthorne,2014,Enrollment,362.0
+46,Mercer ,Kimball,2014,Enrollment,436.0
+47,Mercer ,Maple,2014,Enrollment,469.0
+48,Mercer ,Orca,2014,Enrollment,475.0
+49,Mercer ,Van Asselt,2014,Enrollment,524.0
+50,Washington ,Bailey Gatzert,2014,Enrollment,337.0
+51,Washington ,John Muir,2014,Enrollment,439.0
 52,Washington ,Leschi,2014,Enrollment,382.0
-53,Washington ,Lowell ,2014,Enrollment,266.0
-54,Washington ,Madrona K-8 ,2014,Enrollment,290.0
-55,Washington ,McGilvra ,2014,Enrollment,286.0
-56,Washington ,Montlake ,2014,Enrollment,251.0
-57,Washington ,Stevens ,2014,Enrollment,365.0
-58,Washington ,T. Marshall ,2014,Enrollment,500.0
-59,Washington ,TOPS K-8 ,2014,Enrollment,493.0
-60,Whitman ,Adams ,2014,Enrollment,533.0
-61,Whitman ,Broadview-Thomson K-8 ,2014,Enrollment,671.0
-62,Whitman ,Daniel Bagley ,2014,Enrollment,429.0
+53,Washington ,Lowell,2014,Enrollment,266.0
+54,Washington ,Madrona,2014,Enrollment,290.0
+55,Washington ,McGilvra,2014,Enrollment,286.0
+56,Washington ,Montlake,2014,Enrollment,251.0
+57,Washington ,Stevens,2014,Enrollment,365.0
+58,Washington ,T. Marshall,2014,Enrollment,500.0
+59,Washington ,TOPS,2014,Enrollment,493.0
+60,Whitman ,Adams,2014,Enrollment,533.0
+61,Whitman ,Broadview-Thomson,2014,Enrollment,671.0
+62,Whitman ,Daniel Bagley,2014,Enrollment,429.0
 63,Whitman ,Greenwood,2014,Enrollment,369.0
 64,Whitman ,Loyal Heights,2014,Enrollment,450.0
 65,Whitman ,North Beach,2014,Enrollment,294.0
 66,Whitman ,Northgate,2014,Enrollment,207.0
-67,Whitman ,Salmon Bay K-8 ,2014,Enrollment,673.0
+67,Whitman ,Salmon Bay,2014,Enrollment,673.0
 68,Whitman ,Viewlands,2014,Enrollment,358.0
-69,Whitman ,Whittier ,2014,Enrollment,468.0
-70,Middle Schools ,Aki Kurose ,2014,Enrollment,730.0
-71,Middle Schools ,Denny Intl. ,2014,Enrollment,912.0
-72,Middle Schools ,Eckstein ,2014,Enrollment,881.0
-73,Middle Schools ,Hamilton Intl.,2014,Enrollment,956.0
-74,Middle Schools ,Jane Addams*,2014,Enrollment,728.0
-75,Middle Schools , Madison ,2014,Enrollment,764.0
-76,Middle Schools ,McClure ,2014,Enrollment,540.0
-77,Middle Schools ,Mercer Intl. ,2014,Enrollment,1074.0
-78,Middle Schools ,Washington ,2014,Enrollment,1137.0
+69,Whitman ,Whittier,2014,Enrollment,468.0
+70,Middle Schools ,Aki Kurose,2014,Enrollment,730.0
+71,Middle Schools ,Denny Intl,2014,Enrollment,912.0
+72,Middle Schools ,Eckstein,2014,Enrollment,881.0
+73,Middle Schools ,Hamilton Intl,2014,Enrollment,956.0
+74,Middle Schools ,Jane Addams,2014,Enrollment,728.0
+75,Middle Schools ,Madison,2014,Enrollment,764.0
+76,Middle Schools ,McClure,2014,Enrollment,540.0
+77,Middle Schools ,Mercer,2014,Enrollment,1074.0
+78,Middle Schools ,Washington,2014,Enrollment,1137.0
 79,Middle Schools ,Whitman,2014,Enrollment,906.0
 80,High Schools ,Ballard,2014,Enrollment,1634.0
-81,High Schools ,Center School ,2014,Enrollment,276.0
-82,High Schools ,Chief Sealth Intl. ,2014,Enrollment,1212.0
-83,High Schools ,Cleveland ,2014,Enrollment,820.0
-84,High Schools ,Franklin ,2014,Enrollment,1336.0
-85,High Schools ,Garfield ,2014,Enrollment,1586.0
-86,High Schools ,Ingraham ,2014,Enrollment,1203.0
-87,High Schools ,Nathan Hale ,2014,Enrollment,1141.0
+81,High Schools ,Center School,2014,Enrollment,276.0
+82,High Schools ,Chief Sealth Intl,2014,Enrollment,1212.0
+83,High Schools ,Cleveland,2014,Enrollment,820.0
+84,High Schools ,Franklin,2014,Enrollment,1336.0
+85,High Schools ,Garfield,2014,Enrollment,1586.0
+86,High Schools ,Ingraham,2014,Enrollment,1203.0
+87,High Schools ,Nathan Hale,2014,Enrollment,1141.0
 88,High Schools ,Nova,2014,Enrollment,341.0
-89,High Schools ,Rainier Beach ,2014,Enrollment,600.0
+89,High Schools ,Rainier Beach,2014,Enrollment,600.0
 90,High Schools ,Roosevelt,2014,Enrollment,1695.0
-91,High Schools ,West Seattle ,2014,Enrollment,998.0
+91,High Schools ,West Seattle,2014,Enrollment,998.0
 92,Service Schools ,Cascade Parent Partnership Program,2014,Enrollment,146.0
 93,Service Schools ,Education Service Ctrs,2014,Enrollment,13.0
 94,Service Schools ,InterAgency,2014,Enrollment,406.0
-95,Service Schools ,Middle College ,2014,Enrollment,206.0
-96,Service Schools ,Seattle World School ,2014,Enrollment,244.0
+95,Service Schools ,Middle College,2014,Enrollment,206.0
+96,Service Schools ,Seattle World School,2014,Enrollment,244.0
 97,Service Schools ,South Lake,2014,Enrollment,111.0
-98,Service Schools ,SpEd Consortium ,2014,Enrollment,133.0
-99,All,Total,2014,Enrollment,51988.0
+98,Service Schools ,SpEd Consortium,2014,Enrollment,133.0
+99,All,TOTAL,2014,Enrollment,51988.0
 0,Aki Kurose,Dunlap,2015,Enrollment,300.0
 1,Aki Kurose,Emerson,2015,Enrollment,314.0
 2,Aki Kurose,Graham Hill,2015,Enrollment,351.0
 3,Aki Kurose,Martin Luther King Jr.,2015,Enrollment,323.0
 4,Aki Kurose,Rainier View,2015,Enrollment,236.0
-5,Aki Kurose,South Shore PK-8,2015,Enrollment,618.0
+5,Aki Kurose,South Shore,2015,Enrollment,618.0
 6,Aki Kurose,Wing Luke,2015,Enrollment,361.0
 7,Denny,Arbor Heights,2015,Enrollment,408.0
 8,Denny,Concord Intl,2015,Enrollment,401.0
@@ -517,13 +517,13 @@
 29,Jane Addams,Olympic Hills,2015,Enrollment,294.0
 30,Jane Addams,Sacajawea,2015,Enrollment,232.0
 31,Madison,Alki,2015,Enrollment,413.0
-32,Madison,Fairmount Park*,2015,Enrollment,474.0
+32,Madison,Fairmount Park,2015,Enrollment,474.0
 33,Madison,Gatewood,2015,Enrollment,430.0
 34,Madison,Lafayette,2015,Enrollment,480.0
-35,Madison,Pathfinder K-8,2015,Enrollment,506.0
+35,Madison,Pathfinder,2015,Enrollment,506.0
 36,Madison,Sanislo,2015,Enrollment,273.0
 37,Madison,Schmitz Park,2015,Enrollment,643.0
-38,McClure,Catharine Blaine K-8,2015,Enrollment,736.0
+38,McClure,Catharine Blaine,2015,Enrollment,736.0
 39,McClure,Coe,2015,Enrollment,545.0
 40,McClure,John Hay,2015,Enrollment,500.0
 41,McClure,Lawton,2015,Enrollment,426.0
@@ -533,42 +533,42 @@
 45,Mercer,Hawthorne,2015,Enrollment,391.0
 46,Mercer,Kimball,2015,Enrollment,429.0
 47,Mercer,Maple,2015,Enrollment,480.0
-48,Mercer,Orca K-8,2015,Enrollment,415.0
+48,Mercer,Orca,2015,Enrollment,415.0
 49,Mercer,Van Asselt,2015,Enrollment,511.0
 50,Washington,Bailey Gatzert,2015,Enrollment,295.0
 51,Washington,John Muir,2015,Enrollment,396.0
 52,Washington,Leschi,2015,Enrollment,368.0
 53,Washington,Lowell,2015,Enrollment,314.0
-54,Washington,Madrona K-8,2015,Enrollment,289.0
+54,Washington,Madrona,2015,Enrollment,289.0
 55,Washington,McGilvra,2015,Enrollment,275.0
 56,Washington,Montlake,2015,Enrollment,264.0
 57,Washington,Stevens,2015,Enrollment,337.0
 58,Washington,T. Marshall,2015,Enrollment,528.0
-59,Washington,TOPS K-8,2015,Enrollment,484.0
+59,Washington,TOPS,2015,Enrollment,484.0
 60,Whitman,Adams,2015,Enrollment,544.0
-61,Whitman,Broadview-Thomson K-8,2015,Enrollment,612.0
+61,Whitman,Broadview-Thomson,2015,Enrollment,612.0
 62,Whitman,Daniel Bagley,2015,Enrollment,432.0
 63,Whitman,Greenwood,2015,Enrollment,346.0
 64,Whitman,Loyal Heights,2015,Enrollment,427.0
 65,Whitman,North Beach,2015,Enrollment,293.0
 66,Whitman,Northgate,2015,Enrollment,242.0
-67,Whitman,Salmon Bay K-8,2015,Enrollment,670.0
+67,Whitman,Salmon Bay,2015,Enrollment,670.0
 68,Whitman,Viewlands,2015,Enrollment,383.0
 69,Whitman,Whittier,2015,Enrollment,469.0
 70,Middle Schools,Aki Kurose,2015,Enrollment,720.0
 71,Middle Schools,Denny Intl,2015,Enrollment,864.0
 72,Middle Schools,Eckstein,2015,Enrollment,907.0
 73,Middle Schools,Hamilton Intl,2015,Enrollment,1098.0
-74,Middle Schools,Jane Addams*,2015,Enrollment,825.0
+74,Middle Schools,Jane Addams,2015,Enrollment,825.0
 75,Middle Schools,Madison,2015,Enrollment,777.0
 76,Middle Schools,McClure,2015,Enrollment,554.0
-77,Middle Schools,Mercer Intl,2015,Enrollment,1101.0
+77,Middle Schools,Mercer,2015,Enrollment,1101.0
 78,Middle Schools,Washington,2015,Enrollment,1079.0
 79,Middle Schools,Whitman,2015,Enrollment,860.0
 80,High Schools,Ballard,2015,Enrollment,1665.0
 81,High Schools,Center School,2015,Enrollment,263.0
 82,High Schools,Chief Sealth Intl,2015,Enrollment,1147.0
-83,High Schools,Cleveland STEM,2015,Enrollment,834.0
+83,High Schools,Cleveland,2015,Enrollment,834.0
 84,High Schools,Franklin,2015,Enrollment,1290.0
 85,High Schools,Garfield,2015,Enrollment,1672.0
 86,High Schools,Ingraham,2015,Enrollment,1211.0
@@ -577,7 +577,7 @@
 89,High Schools,Rainier Beach,2015,Enrollment,655.0
 90,High Schools,Roosevelt,2015,Enrollment,1689.0
 91,High Schools,West Seattle,2015,Enrollment,934.0
-92,Service Schools,Bridges Transition Program**,2015,Enrollment,85.0
+92,Service Schools,Bridges Transition Program,2015,Enrollment,85.0
 93,Service Schools,Cascade Parent Partnership Program,2015,Enrollment,151.0
 94,Service Schools,Education Service Ctrs,2015,Enrollment,15.0
 95,Service Schools,InterAgency,2015,Enrollment,352.0
@@ -591,7 +591,7 @@
 2,Aki Kurose,Graham Hill,2016,Enrollment,352.0
 3,Aki Kurose,Martin Luther King Jr.,2016,Enrollment,292.0
 4,Aki Kurose,Rainier View,2016,Enrollment,226.0
-5,Aki Kurose,South Shore PK-8,2016,Enrollment,613.0
+5,Aki Kurose,South Shore,2016,Enrollment,613.0
 6,Aki Kurose,Wing Luke,2016,Enrollment,356.0
 7,Denny,Arbor Heights,2016,Enrollment,459.0
 8,Denny,Concord Intl,2016,Enrollment,356.0
@@ -600,7 +600,7 @@
 11,Denny,Sanislo,2016,Enrollment,257.0
 12,Denny,STEM K-8,2016,Enrollment,470.0
 13,Denny,West Seattle Elem,2016,Enrollment,443.0
-14,Eagle Staff,Broadview-Thomson K-8,2016,Enrollment,613.0
+14,Eagle Staff,Broadview-Thomson,2016,Enrollment,613.0
 15,Eagle Staff,Cascadia,2016,Enrollment,754.0
 16,Eagle Staff,Daniel Bagley,2016,Enrollment,427.0
 17,Eagle Staff,Greenwood,2016,Enrollment,349.0
@@ -627,25 +627,25 @@
 40,Madison,Gatewood,2016,Enrollment,388.0
 41,Madison,Genesee Hill,2016,Enrollment,691.0
 42,Madison,Lafayette,2016,Enrollment,448.0
-43,Madison,Pathfinder K-8,2016,Enrollment,492.0
-44,McClure,Catharine Blaine K-8,2016,Enrollment,771.0
+43,Madison,Pathfinder,2016,Enrollment,492.0
+44,McClure,Catharine Blaine,2016,Enrollment,771.0
 45,McClure,Coe,2016,Enrollment,560.0
 46,McClure,John Hay,2016,Enrollment,499.0
 47,McClure,Lawton,2016,Enrollment,443.0
 48,McClure,Queen Anne,2016,Enrollment,418.0
 49,Meany,Leschi,2016,Enrollment,401.0
 50,Meany,Lowell,2016,Enrollment,330.0
-51,Meany,Madrona*,2016,Enrollment,297.0
+51,Meany,Madrona,2016,Enrollment,297.0
 52,Meany,McGilvra,2016,Enrollment,282.0
 53,Meany,Montlake,2016,Enrollment,264.0
 54,Meany,Stevens,2016,Enrollment,300.0
-55,Meany,TOPS K-8,2016,Enrollment,471.0
+55,Meany,TOPS,2016,Enrollment,471.0
 56,Mercer,Beacon Hill Intl,2016,Enrollment,422.0
-57,Mercer,Dearborn Park Intl,2016,Enrollment,354.0
+57,Mercer,Dearborn Park,2016,Enrollment,354.0
 58,Mercer,Hawthorne,2016,Enrollment,385.0
 59,Mercer,Kimball,2016,Enrollment,414.0
 60,Mercer,Maple,2016,Enrollment,502.0
-61,Mercer,Orca K-8,2016,Enrollment,371.0
+61,Mercer,Orca,2016,Enrollment,371.0
 62,Mercer,Van Asselt,2016,Enrollment,474.0
 63,Washington,Bailey Gatzert,2016,Enrollment,302.0
 64,Washington,John Muir,2016,Enrollment,402.0
@@ -653,7 +653,7 @@
 66,Whitman,Adams,2016,Enrollment,573.0
 67,Whitman,Loyal Heights,2016,Enrollment,411.0
 68,Whitman,North Beach,2016,Enrollment,319.0
-69,Whitman,Salmon Bay K-8,2016,Enrollment,658.0
+69,Whitman,Salmon Bay,2016,Enrollment,658.0
 70,Whitman,Viewlands,2016,Enrollment,377.0
 71,Whitman,Whittier,2016,Enrollment,477.0
 72,Middle Schools,Aki Kurose,2016,Enrollment,741.0
@@ -663,13 +663,13 @@
 77,Middle Schools,Jane Addams,2016,Enrollment,930.0
 78,Middle Schools,Madison,2016,Enrollment,866.0
 79,Middle Schools,McClure,2016,Enrollment,552.0
-81,Middle Schools,Mercer Intl,2016,Enrollment,1181.0
+81,Middle Schools,Mercer,2016,Enrollment,1181.0
 82,Middle Schools,Washington,2016,Enrollment,1090.0
 83,Middle Schools,Whitman,2016,Enrollment,855.0
 84,High Schools,Ballard,2016,Enrollment,1798.0
 85,High Schools,Center School,2016,Enrollment,221.0
 86,High Schools,Chief Sealth Intl,2016,Enrollment,1090.0
-87,High Schools,Cleveland STEM,2016,Enrollment,844.0
+87,High Schools,Cleveland,2016,Enrollment,844.0
 88,High Schools,Franklin,2016,Enrollment,1237.0
 89,High Schools,Garfield,2016,Enrollment,1716.0
 90,High Schools,Ingraham,2016,Enrollment,1305.0
@@ -693,7 +693,7 @@
 2,Aki Kurose,Graham Hill,2017,Enrollment,358.0
 3,Aki Kurose,Martin Luther King Jr.,2017,Enrollment,278.0
 4,Aki Kurose,Rainier View,2017,Enrollment,243.0
-5,Aki Kurose,South Shore PK-8,2017,Enrollment,520.0
+5,Aki Kurose,South Shore,2017,Enrollment,520.0
 6,Aki Kurose,Wing Luke,2017,Enrollment,337.0
 7,Denny,Arbor Heights,2017,Enrollment,521.0
 8,Denny,Concord Intl,2017,Enrollment,347.0
@@ -702,7 +702,7 @@
 11,Denny,Sanislo,2017,Enrollment,236.0
 12,Denny,STEM K-8,2017,Enrollment,535.0
 13,Denny,West Seattle Elem,2017,Enrollment,434.0
-14,Eagle Staff,Broadview-Thomson K-8,2017,Enrollment,531.0
+14,Eagle Staff,Broadview-Thomson,2017,Enrollment,531.0
 15,Eagle Staff,Cascadia,2017,Enrollment,525.0
 16,Eagle Staff,Daniel Bagley,2017,Enrollment,426.0
 17,Eagle Staff,Greenwood,2017,Enrollment,345.0
@@ -731,25 +731,25 @@
 40,Madison,Gatewood,2017,Enrollment,376.0
 41,Madison,Genesee Hill,2017,Enrollment,718.0
 42,Madison,Lafayette,2017,Enrollment,394.0
-43,Madison,Pathfinder K-8,2017,Enrollment,487.0
-44,McClure,Catharine Blaine K-8,2017,Enrollment,781.0
+43,Madison,Pathfinder,2017,Enrollment,487.0
+44,McClure,Catharine Blaine,2017,Enrollment,781.0
 45,McClure,Coe,2017,Enrollment,560.0
 46,McClure,John Hay,2017,Enrollment,491.0
 47,McClure,Lawton,2017,Enrollment,453.0
 48,McClure,Queen Anne,2017,Enrollment,352.0
 49,Meany,Leschi,2017,Enrollment,402.0
 50,Meany,Lowell,2017,Enrollment,358.0
-51,Meany,Madrona*,2017,Enrollment,234.0
+51,Meany,Madrona,2017,Enrollment,234.0
 52,Meany,McGilvra,2017,Enrollment,242.0
 53,Meany,Montlake,2017,Enrollment,269.0
 54,Meany,Stevens,2017,Enrollment,287.0
-55,Meany,TOPS K-8,2017,Enrollment,471.0
+55,Meany,TOPS,2017,Enrollment,471.0
 56,Mercer,Beacon Hill Intl,2017,Enrollment,417.0
-57,Mercer,Dearborn Park Intl,2017,Enrollment,352.0
+57,Mercer,Dearborn Park,2017,Enrollment,352.0
 58,Mercer,Hawthorne,2017,Enrollment,407.0
 59,Mercer,Kimball,2017,Enrollment,443.0
 60,Mercer,Maple,2017,Enrollment,532.0
-61,Mercer,Orca K-8,2017,Enrollment,391.0
+61,Mercer,Orca,2017,Enrollment,391.0
 62,Mercer,Van Asselt,2017,Enrollment,428.0
 63,Washington,Bailey Gatzert,2017,Enrollment,284.0
 64,Washington,John Muir,2017,Enrollment,367.0
@@ -757,7 +757,7 @@
 66,Whitman,Adams,2017,Enrollment,551.0
 67,Whitman,Loyal Heights,2017,Enrollment,398.0
 68,Whitman,North Beach,2017,Enrollment,328.0
-69,Whitman,Salmon Bay K-8,2017,Enrollment,659.0
+69,Whitman,Salmon Bay,2017,Enrollment,659.0
 70,Whitman,Viewlands,2017,Enrollment,399.0
 71,Whitman,Whittier,2017,Enrollment,495.0
 72,Middle Schools,Aki Kurose,2017,Enrollment,686.0
@@ -769,13 +769,13 @@
 78,Middle Schools,Madison,2017,Enrollment,881.0
 79,Middle Schools,McClure,2017,Enrollment,540.0
 80,Middle Schools,Meany,2017,Enrollment,492.0
-81,Middle Schools,Mercer Intl,2017,Enrollment,1136.0
+81,Middle Schools,Mercer,2017,Enrollment,1136.0
 82,Middle Schools,Washington,2017,Enrollment,712.0
 83,Middle Schools,Whitman,2017,Enrollment,566.0
 84,High Schools,Ballard,2017,Enrollment,1882.0
 85,High Schools,Center School,2017,Enrollment,229.0
 86,High Schools,Chief Sealth Intl,2017,Enrollment,1015.0
-87,High Schools,Cleveland STEM,2017,Enrollment,849.0
+87,High Schools,Cleveland,2017,Enrollment,849.0
 88,High Schools,Franklin,2017,Enrollment,1284.0
 89,High Schools,Garfield,2017,Enrollment,1774.0
 90,High Schools,Ingraham,2017,Enrollment,1342.0
@@ -799,7 +799,7 @@
 2,Aki Kurose,Graham Hill,2018,Enrollment,322.0
 3,Aki Kurose,Martin Luther King Jr.,2018,Enrollment,276.0
 4,Aki Kurose,Rainier View,2018,Enrollment,237.0
-5,Aki Kurose,South Shore PK-8,2018,Enrollment,531.0
+5,Aki Kurose,South Shore,2018,Enrollment,531.0
 6,Aki Kurose,Wing Luke,2018,Enrollment,333.0
 7,Denny,Arbor Heights,2018,Enrollment,548.0
 8,Denny,Concord Intl,2018,Enrollment,360.0
@@ -808,7 +808,7 @@
 11,Denny,Sanislo,2018,Enrollment,218.0
 12,Denny,STEM K-8,2018,Enrollment,538.0
 13,Denny,West Seattle Elem,2018,Enrollment,428.0
-14,Eagle Staff,Broadview-Thomson K-8,2018,Enrollment,503.0
+14,Eagle Staff,Broadview-Thomson,2018,Enrollment,503.0
 15,Eagle Staff,Cascadia,2018,Enrollment,512.0
 16,Eagle Staff,Daniel Bagley,2018,Enrollment,403.0
 17,Eagle Staff,Greenwood,2018,Enrollment,327.0
@@ -837,25 +837,25 @@
 40,Madison,Gatewood,2018,Enrollment,396.0
 41,Madison,Genesee Hill,2018,Enrollment,678.0
 42,Madison,Lafayette,2018,Enrollment,415.0
-43,Madison,Pathfinder K-8,2018,Enrollment,489.0
-44,McClure,Catharine Blaine K-8,2018,Enrollment,759.0
+43,Madison,Pathfinder,2018,Enrollment,489.0
+44,McClure,Catharine Blaine,2018,Enrollment,759.0
 45,McClure,Coe,2018,Enrollment,535.0
 46,McClure,John Hay,2018,Enrollment,481.0
 47,McClure,Lawton,2018,Enrollment,468.0
 48,McClure,Queen Anne,2018,Enrollment,292.0
 49,Meany,Leschi,2018,Enrollment,376.0
 50,Meany,Lowell,2018,Enrollment,272.0
-51,Meany,Madrona*,2018,Enrollment,244.0
+51,Meany,Madrona,2018,Enrollment,244.0
 52,Meany,McGilvra,2018,Enrollment,247.0
 53,Meany,Montlake,2018,Enrollment,252.0
 54,Meany,Stevens,2018,Enrollment,246.0
-55,Meany,TOPS K-8,2018,Enrollment,484.0
+55,Meany,TOPS,2018,Enrollment,484.0
 56,Mercer,Beacon Hill Intl,2018,Enrollment,413.0
-57,Mercer,Dearborn Park Intl,2018,Enrollment,322.0
+57,Mercer,Dearborn Park,2018,Enrollment,322.0
 58,Mercer,Hawthorne,2018,Enrollment,402.0
 59,Mercer,Kimball,2018,Enrollment,440.0
 60,Mercer,Maple,2018,Enrollment,546.0
-61,Mercer,Orca K-8,2018,Enrollment,394.0
+61,Mercer,Orca,2018,Enrollment,394.0
 62,Mercer,Van Asselt,2018,Enrollment,402.0
 63,Washington,Bailey Gatzert,2018,Enrollment,279.0
 64,Washington,John Muir,2018,Enrollment,342.0
@@ -863,7 +863,7 @@
 66,Whitman,Adams,2018,Enrollment,535.0
 67,Whitman,Loyal Heights,2018,Enrollment,449.0
 68,Whitman,North Beach,2018,Enrollment,370.0
-69,Whitman,Salmon Bay K-8,2018,Enrollment,654.0
+69,Whitman,Salmon Bay,2018,Enrollment,654.0
 70,Whitman,Viewlands,2018,Enrollment,363.0
 71,Whitman,Whittier,2018,Enrollment,441.0
 72,Middle Schools,Aki Kurose,2018,Enrollment,664.0
@@ -875,13 +875,13 @@
 78,Middle Schools,Madison,2018,Enrollment,951.0
 79,Middle Schools,McClure,2018,Enrollment,537.0
 80,Middle Schools,Meany,2018,Enrollment,498.0
-81,Middle Schools,Mercer Intl,2018,Enrollment,1146.0
+81,Middle Schools,Mercer,2018,Enrollment,1146.0
 82,Middle Schools,Washington,2018,Enrollment,669.0
 83,Middle Schools,Whitman,2018,Enrollment,574.0
 84,High Schools,Ballard,2018,Enrollment,1971.0
 85,High Schools,Center School,2018,Enrollment,233.0
 86,High Schools,Chief Sealth Intl,2018,Enrollment,994.0
-87,High Schools,Cleveland STEM,2018,Enrollment,848.0
+87,High Schools,Cleveland,2018,Enrollment,848.0
 88,High Schools,Franklin,2018,Enrollment,1178.0
 89,High Schools,Garfield,2018,Enrollment,1658.0
 90,High Schools,Ingraham,2018,Enrollment,1346.0
@@ -895,7 +895,7 @@
 98,Service Schools,InterAgency,2018,Enrollment,360.0
 99,Service Schools,Middle College,2018,Enrollment,45.0
 100,Service Schools,Non Public Agencies,2018,Enrollment,28.0
-101,Service Schools,Nova**,2018,Enrollment,266.0
+101,Service Schools,Nova,2018,Enrollment,266.0
 102,Service Schools,Seattle World School,2018,Enrollment,241.0
 103,Service Schools,South Lake,2018,Enrollment,59.0
 104,Service Schools,SpEd Consortium,2018,Enrollment,68.0
@@ -905,7 +905,7 @@
 2,Aki Kurose,Graham Hill,2019,Enrollment,331.0
 3,Aki Kurose,Martin Luther King Jr.,2019,Enrollment,276.0
 4,Aki Kurose,Rainier View,2019,Enrollment,244.0
-5,Aki Kurose,South Shore PK-8,2019,Enrollment,550.0
+5,Aki Kurose,South Shore,2019,Enrollment,550.0
 6,Aki Kurose,Wing Luke,2019,Enrollment,311.0
 7,Denny,Arbor Heights,2019,Enrollment,565.0
 8,Denny,Concord Intl,2019,Enrollment,325.0
@@ -914,7 +914,7 @@
 11,Denny,Sanislo,2019,Enrollment,218.0
 12,Denny,STEM K-8,2019,Enrollment,542.0
 13,Denny,West Seattle Elem,2019,Enrollment,430.0
-14,Eagle Staff,Broadview-Thomson K-8,2019,Enrollment,570.0
+14,Eagle Staff,Broadview-Thomson,2019,Enrollment,570.0
 15,Eagle Staff,Cascadia,2019,Enrollment,506.0
 16,Eagle Staff,Daniel Bagley,2019,Enrollment,389.0
 17,Eagle Staff,Greenwood,2019,Enrollment,321.0
@@ -943,8 +943,8 @@
 40,Madison,Gatewood,2019,Enrollment,401.0
 41,Madison,Genesee Hill,2019,Enrollment,650.0
 42,Madison,Lafayette,2019,Enrollment,425.0
-43,Madison,Pathfinder K-8,2019,Enrollment,494.0
-44,McClure,Catharine Blaine K-8,2019,Enrollment,629.0
+43,Madison,Pathfinder,2019,Enrollment,494.0
+44,McClure,Catharine Blaine,2019,Enrollment,629.0
 45,McClure,Coe,2019,Enrollment,553.0
 46,McClure,John Hay,2019,Enrollment,497.0
 47,McClure,Lawton,2019,Enrollment,413.0
@@ -952,17 +952,17 @@
 49,McClure,Queen Anne,2019,Enrollment,222.0
 50,Meany,Leschi,2019,Enrollment,358.0
 51,Meany,Lowell,2019,Enrollment,273.0
-52,Meany,Madrona*,2019,Enrollment,261.0
+52,Meany,Madrona,2019,Enrollment,261.0
 53,Meany,McGilvra,2019,Enrollment,238.0
 54,Meany,Montlake,2019,Enrollment,251.0
 55,Meany,Stevens,2019,Enrollment,229.0
-56,Meany,TOPS K-8,2019,Enrollment,491.0
+56,Meany,TOPS,2019,Enrollment,491.0
 57,Mercer,Beacon Hill Intl,2019,Enrollment,418.0
-58,Mercer,Dearborn Park Intl,2019,Enrollment,327.0
+58,Mercer,Dearborn Park,2019,Enrollment,327.0
 59,Mercer,Hawthorne,2019,Enrollment,430.0
 60,Mercer,Kimball,2019,Enrollment,435.0
 61,Mercer,Maple,2019,Enrollment,537.0
-62,Mercer,Orca K-8,2019,Enrollment,401.0
+62,Mercer,Orca,2019,Enrollment,401.0
 63,Mercer,Rising Star,2019,Enrollment,401.0
 64,Washington,Bailey Gatzert,2019,Enrollment,304.0
 65,Washington,John Muir,2019,Enrollment,325.0
@@ -970,7 +970,7 @@
 67,Whitman,Adams,2019,Enrollment,500.0
 68,Whitman,Loyal Heights,2019,Enrollment,462.0
 69,Whitman,North Beach,2019,Enrollment,389.0
-70,Whitman,Salmon Bay K-8,2019,Enrollment,675.0
+70,Whitman,Salmon Bay,2019,Enrollment,675.0
 71,Whitman,Viewlands,2019,Enrollment,369.0
 72,Whitman,Whittier,2019,Enrollment,444.0
 73,Middle Schools,Aki Kurose,2019,Enrollment,656.0
@@ -982,13 +982,13 @@
 79,Middle Schools,Madison,2019,Enrollment,989.0
 80,Middle Schools,McClure,2019,Enrollment,534.0
 81,Middle Schools,Meany,2019,Enrollment,516.0
-82,Middle Schools,Mercer Intl,2019,Enrollment,1115.0
+82,Middle Schools,Mercer,2019,Enrollment,1115.0
 83,Middle Schools,Washington,2019,Enrollment,606.0
 84,Middle Schools,Whitman,2019,Enrollment,636.0
 85,High Schools,Ballard,2019,Enrollment,1781.0
 86,High Schools,Center School,2019,Enrollment,242.0
 87,High Schools,Chief Sealth Intl,2019,Enrollment,1008.0
-88,High Schools,Cleveland STEM,2019,Enrollment,867.0
+88,High Schools,Cleveland,2019,Enrollment,867.0
 89,High Schools,Franklin,2019,Enrollment,1194.0
 90,High Schools,Garfield,2019,Enrollment,1632.0
 91,High Schools,Ingraham,2019,Enrollment,1433.0
@@ -1003,7 +1003,7 @@
 100,Service Schools,InterAgency,2019,Enrollment,384.0
 101,Service Schools,Middle College,2019,Enrollment,72.0
 102,Service Schools,Non Public Agencies,2019,Enrollment,35.0
-103,Service Schools,Nova**,2019,Enrollment,212.0
+103,Service Schools,Nova,2019,Enrollment,212.0
 104,Service Schools,Seattle World School,2019,Enrollment,345.0
 105,Service Schools,South Lake,2019,Enrollment,51.0
 106,Service Schools,SpEd Consortium,2019,Enrollment,60.0
@@ -1013,7 +1013,7 @@
 2,Aki Kurose,Graham Hill,2020,Enrollment,299.0
 3,Aki Kurose,Martin Luther King Jr.,2020,Enrollment,264.0
 4,Aki Kurose,Rainier View,2020,Enrollment,230.0
-5,Aki Kurose,South Shore PK-8,2020,Enrollment,561.0
+5,Aki Kurose,South Shore,2020,Enrollment,561.0
 6,Aki Kurose,Wing Luke,2020,Enrollment,300.0
 7,Denny,Arbor Heights,2020,Enrollment,536.0
 8,Denny,Concord Intl,2020,Enrollment,315.0
@@ -1022,7 +1022,7 @@
 11,Denny,Sanislo,2020,Enrollment,195.0
 12,Denny,STEM K-8,2020,Enrollment,525.0
 13,Denny,West Seattle Elem,2020,Enrollment,389.0
-14,Eagle Staff,Broadview-Thomson K-8,2020,Enrollment,577.0
+14,Eagle Staff,Broadview-Thomson,2020,Enrollment,577.0
 15,Eagle Staff,Cascadia,2020,Enrollment,504.0
 16,Eagle Staff,Daniel Bagley,2020,Enrollment,369.0
 17,Eagle Staff,Greenwood,2020,Enrollment,309.0
@@ -1051,8 +1051,8 @@
 40,Madison,Gatewood,2020,Enrollment,363.0
 41,Madison,Genesee Hill,2020,Enrollment,591.0
 42,Madison,Lafayette,2020,Enrollment,414.0
-43,Madison,Pathfinder K-8,2020,Enrollment,494.0
-44,McClure,Catharine Blaine K-8,2020,Enrollment,533.0
+43,Madison,Pathfinder,2020,Enrollment,494.0
+44,McClure,Catharine Blaine,2020,Enrollment,533.0
 45,McClure,Coe,2020,Enrollment,498.0
 46,McClure,John Hay,2020,Enrollment,383.0
 47,McClure,Lawton,2020,Enrollment,351.0
@@ -1064,13 +1064,13 @@
 53,Meany,McGilvra,2020,Enrollment,226.0
 54,Meany,Montlake,2020,Enrollment,233.0
 55,Meany,Stevens,2020,Enrollment,197.0
-56,Meany,TOPS K-8,2020,Enrollment,485.0
+56,Meany,TOPS,2020,Enrollment,485.0
 57,Mercer,Beacon Hill Intl,2020,Enrollment,389.0
-58,Mercer,Dearborn Park Intl,2020,Enrollment,303.0
+58,Mercer,Dearborn Park,2020,Enrollment,303.0
 59,Mercer,Hawthorne,2020,Enrollment,422.0
 60,Mercer,Kimball,2020,Enrollment,424.0
 61,Mercer,Maple,2020,Enrollment,491.0
-62,Mercer,Orca K-8,2020,Enrollment,415.0
+62,Mercer,Orca,2020,Enrollment,415.0
 63,Mercer,Rising Star,2020,Enrollment,351.0
 64,Washington,Bailey Gatzert,2020,Enrollment,284.0
 65,Washington,John Muir,2020,Enrollment,359.0
@@ -1078,7 +1078,7 @@
 67,Whitman,Adams,2020,Enrollment,428.0
 68,Whitman,Loyal Heights,2020,Enrollment,470.0
 69,Whitman,North Beach,2020,Enrollment,357.0
-70,Whitman,Salmon Bay K-8,2020,Enrollment,662.0
+70,Whitman,Salmon Bay,2020,Enrollment,662.0
 71,Whitman,Viewlands,2020,Enrollment,343.0
 72,Whitman,Whittier,2020,Enrollment,417.0
 73,Middle Schools,Aki Kurose,2020,Enrollment,727.0
@@ -1090,13 +1090,13 @@
 79,Middle Schools,Madison,2020,Enrollment,484.0
 80,Middle Schools,McClure,2020,Enrollment,487.0
 81,Middle Schools,Meany,2020,Enrollment,1185.0
-82,Middle Schools,Mercer Intl,2020,Enrollment,768.0
+82,Middle Schools,Mercer,2020,Enrollment,768.0
 83,Middle Schools,Washington,2020,Enrollment,603.0
 84,Middle Schools,Whitman,2020,Enrollment,663.0
 85,High Schools,Ballard,2020,Enrollment,1669.0
 86,High Schools,Center School,2020,Enrollment,243.0
 87,High Schools,Chief Sealth Intl,2020,Enrollment,1073.0
-88,High Schools,Cleveland STEM,2020,Enrollment,867.0
+88,High Schools,Cleveland,2020,Enrollment,867.0
 89,High Schools,Franklin,2020,Enrollment,1196.0
 90,High Schools,Garfield,2020,Enrollment,1633.0
 91,High Schools,Ingraham,2020,Enrollment,1427.0
@@ -1116,18 +1116,18 @@
 105,Option Schools with Continuous Enrollment,SpEd Consortium,2020,Enrollment,37.0
 106,Option Schools with Continuous Enrollment,Sugiyama High School,2020,Enrollment,38.0
 107,All,TOTAL,2020,Enrollment,52381.0
-0,Aki Kurose,MLK Jr,2010,Change,-27.0
+0,Aki Kurose,Martin Luther King Jr.,2010,Change,-27.0
 1,Aki Kurose,Dunlap,2010,Change,7.0
 2,Aki Kurose,Emerson,2010,Change,-11.0
 3,Aki Kurose,Graham Hill,2010,Change,15.0
 4,Aki Kurose,South Shore,2010,Change,80.0
 5,Aki Kurose,Wing Luke,2010,Change,-7.0
 6,Denny,Arbor Heights,2010,Change,33.0
-7,Denny,Concord Intl.,2010,Change,30.0
+7,Denny,Concord Intl,2010,Change,30.0
 8,Denny,Highland Park,2010,Change,5.0
 9,Denny,Roxhill,2010,Change,22.0
 10,Denny,Sanislo,2010,Change,-10.0
-11,Denny,West Seattle El,2010,Change,28.0
+11,Denny,West Seattle Elem,2010,Change,28.0
 12,Eckstein,AS #1,2010,Change,-39.0
 13,Eckstein,Bryant,2010,Change,33.0
 14,Eckstein,Green Lake,2010,Change,0.0
@@ -1141,9 +1141,9 @@
 22,Eckstein,View Ridge,2010,Change,46.0
 23,Eckstein,Wedgwood,2010,Change,14.0
 24,Hamilton,B. F. Day,2010,Change,6.0
-25,Hamilton,J. Stanford Intl.,2010,Change,29.0
+25,Hamilton,J. Stanford Intl,2010,Change,29.0
 26,Hamilton,Laurelhurst,2010,Change,-27.0
-27,Hamilton,McDonald,2010,Change,57.0
+27,Hamilton,McDonald Intl,2010,Change,57.0
 28,Hamilton,West Woodland,2010,Change,17.0
 29,Madison,Alki,2010,Change,0.0
 30,Madison,Gatewood,2010,Change,44.0
@@ -1155,7 +1155,7 @@
 36,McClure,John Hay,2010,Change,20.0
 37,McClure,Lawton,2010,Change,5.0
 38,McClure,Queen Anne,2010,Change,113.0
-39,Mercer,Beacon Hill Intl.,2010,Change,7.0
+39,Mercer,Beacon Hill Intl,2010,Change,7.0
 40,Mercer,Dearborn Park,2010,Change,-6.0
 41,Mercer,Hawthorne,2010,Change,15.0
 42,Mercer,Kimball,2010,Change,11.0
@@ -1182,9 +1182,9 @@
 63,Whitman,Salmon Bay,2010,Change,-15.0
 64,Whitman,Whittier,2010,Change,-1.0
 65,Middle Schools,Aki Kurose,2010,Change,27.0
-66,Middle Schools,Denny Intl.,2010,Change,77.0
+66,Middle Schools,Denny Intl,2010,Change,77.0
 67,Middle Schools,Eckstein,2010,Change,65.0
-68,Middle Schools,Hamilton Intl.,2010,Change,7.0
+68,Middle Schools,Hamilton Intl,2010,Change,7.0
 69,Middle Schools,Madison,2010,Change,-57.0
 70,Middle Schools,McClure,2010,Change,-38.0
 71,Middle Schools,Mercer,2010,Change,71.0
@@ -1192,7 +1192,7 @@
 73,Middle Schools,Whitman,2010,Change,33.0
 74,High Schools,Ballard,2010,Change,-22.0
 75,High Schools,Center School,2010,Change,9.0
-76,High Schools,Chief Sealth Intl.,2010,Change,82.0
+76,High Schools,Chief Sealth Intl,2010,Change,82.0
 77,High Schools,Cleveland,2010,Change,43.0
 78,High Schools,Franklin,2010,Change,66.0
 79,High Schools,Garfield,2010,Change,146.0
@@ -1218,11 +1218,11 @@
 5,Aki Kurose,South Shore,2011,Change,-7.0
 6,Aki Kurose,Wing Luke,2011,Change,-6.0
 7,Denny,Arbor Heights,2011,Change,-13.0
-8,Denny,Concord Intl.,2011,Change,18.0
+8,Denny,Concord Intl,2011,Change,18.0
 9,Denny,Highland Park,2011,Change,14.0
 10,Denny,Roxhill,2011,Change,43.0
 11,Denny,Sanislo,2011,Change,-13.0
-12,Denny,West Seattle Elem.,2011,Change,46.0
+12,Denny,West Seattle Elem,2011,Change,46.0
 13,Eckstein,Bryant,2011,Change,-22.0
 14,Eckstein,Green Lake,2011,Change,-21.0
 15,Eckstein,Jane Addams,2011,Change,85.0
@@ -1236,9 +1236,9 @@
 23,Eckstein,View Ridge,2011,Change,44.0
 24,Eckstein,Wedgwood,2011,Change,-3.0
 25,Hamilton,B. F. Day,2011,Change,-10.0
-26,Hamilton,J. Stanford Intl.,2011,Change,34.0
+26,Hamilton,J. Stanford Intl,2011,Change,34.0
 27,Hamilton,Laurelhurst,2011,Change,-17.0
-28,Hamilton,McDonald,2011,Change,130.0
+28,Hamilton,McDonald Intl,2011,Change,130.0
 29,Hamilton,West Woodland,2011,Change,14.0
 30,Madison,Alki,2011,Change,-8.0
 31,Madison,Gatewood,2011,Change,22.0
@@ -1250,7 +1250,7 @@
 37,McClure,John Hay,2011,Change,43.0
 38,McClure,Lawton,2011,Change,4.0
 39,McClure,Queen Anne,2011,Change,110.0
-40,Mercer,Beacon Hill Intl.,2011,Change,4.0
+40,Mercer,Beacon Hill Intl,2011,Change,4.0
 41,Mercer,Dearborn Park,2011,Change,-49.0
 42,Mercer,Hawthorne,2011,Change,-3.0
 43,Mercer,Kimball,2011,Change,-26.0
@@ -1278,9 +1278,9 @@
 65,Whitman,Viewlands,2011,Change,176.0
 66,Whitman,Whittier,2011,Change,7.0
 67,Middle Schools,Aki Kurose,2011,Change,70.0
-68,Middle Schools,Denny Intl.,2011,Change,80.0
+68,Middle Schools,Denny Intl,2011,Change,80.0
 69,Middle Schools,Eckstein,2011,Change,65.0
-70,Middle Schools,Hamilton Intl.,2011,Change,66.0
+70,Middle Schools,Hamilton Intl,2011,Change,66.0
 71,Middle Schools,Madison,2011,Change,-21.0
 72,Middle Schools,McClure,2011,Change,-31.0
 73,Middle Schools,Mercer,2011,Change,117.0
@@ -1288,7 +1288,7 @@
 75,Middle Schools,Whitman,2011,Change,29.0
 76,High Schools,Ballard,2011,Change,26.0
 77,High Schools,Center School,2011,Change,-21.0
-78,High Schools,Chief Sealth Intl.,2011,Change,161.0
+78,High Schools,Chief Sealth Intl,2011,Change,161.0
 79,High Schools,Cleveland,2011,Change,81.0
 80,High Schools,Franklin,2011,Change,114.0
 81,High Schools,Garfield,2011,Change,-67.0
@@ -1314,12 +1314,12 @@
 5,Aki Kurose,South Shore,2012,Change,27.0
 6,Aki Kurose,Wing Luke,2012,Change,-20.0
 7,Denny,Arbor Heights,2012,Change,-26.0
-8,Denny,Concord Intl.,2012,Change,18.0
+8,Denny,Concord Intl,2012,Change,18.0
 9,Denny,Highland Park,2012,Change,-7.0
 10,Denny,K-5 STEM at Boren,2012,Change,268.0
 11,Denny,Roxhill,2012,Change,-9.0
 12,Denny,Sanislo,2012,Change,-21.0
-13,Denny,West Seattle Elem.,2012,Change,-7.0
+13,Denny,West Seattle Elem,2012,Change,-7.0
 14,Eckstein,Bryant,2012,Change,31.0
 15,Eckstein,Green Lake,2012,Change,-5.0
 16,Eckstein,Jane Addams,2012,Change,48.0
@@ -1334,9 +1334,9 @@
 25,Eckstein,Wedgwood,2012,Change,25.0
 26,Hamilton,APP at Lincoln,2012,Change,96.0
 27,Hamilton,B. F. Day,2012,Change,15.0
-28,Hamilton,J. Stanford Intl.,2012,Change,-9.0
+28,Hamilton,J. Stanford Intl,2012,Change,-9.0
 29,Hamilton,Laurelhurst,2012,Change,-10.0
-30,Hamilton,McDonald,2012,Change,90.0
+30,Hamilton,McDonald Intl,2012,Change,90.0
 31,Hamilton,West Woodland,2012,Change,13.0
 32,Madison,Alki,2012,Change,2.0
 33,Madison,Gatewood,2012,Change,-23.0
@@ -1348,7 +1348,7 @@
 39,McClure,John Hay,2012,Change,16.0
 40,McClure,Lawton,2012,Change,-7.0
 41,McClure,Queen Anne,2012,Change,56.0
-42,Mercer,Beacon Hill Intl.,2012,Change,9.0
+42,Mercer,Beacon Hill Intl,2012,Change,9.0
 43,Mercer,Dearborn Park,2012,Change,28.0
 44,Mercer,Hawthorne,2012,Change,25.0
 45,Mercer,Kimball,2012,Change,4.0
@@ -1358,7 +1358,7 @@
 49,Washington,Gatzert,2012,Change,7.0
 50,Washington,John Muir,2012,Change,55.0
 51,Washington,Leschi,2012,Change,-12.0
-52,Washington,Lowell*,2012,Change,-6.0
+52,Washington,Lowell,2012,Change,-6.0
 53,Washington,Madrona,2012,Change,-40.0
 54,Washington,McGilvra,2012,Change,3.0
 55,Washington,Montlake,2012,Change,0.0
@@ -1376,9 +1376,9 @@
 67,Whitman,Viewlands,2012,Change,70.0
 68,Whitman,Whittier,2012,Change,6.0
 69,Middle Schools,Aki Kurose,2012,Change,85.0
-70,Middle Schools,Denny Intl.,2012,Change,35.0
+70,Middle Schools,Denny Intl,2012,Change,35.0
 71,Middle Schools,Eckstein,2012,Change,20.0
-72,Middle Schools,Hamilton Intl.,2012,Change,55.0
+72,Middle Schools,Hamilton Intl,2012,Change,55.0
 73,Middle Schools,Madison,2012,Change,-76.0
 74,Middle Schools,McClure,2012,Change,-35.0
 75,Middle Schools,Mercer,2012,Change,59.0
@@ -1386,7 +1386,7 @@
 77,Middle Schools,Whitman,2012,Change,-12.0
 78,High Schools,Ballard,2012,Change,-27.0
 79,High Schools,Center School,2012,Change,7.0
-80,High Schools,Chief Sealth Intl.,2012,Change,36.0
+80,High Schools,Chief Sealth Intl,2012,Change,36.0
 81,High Schools,Cleveland,2012,Change,19.0
 82,High Schools,Franklin,2012,Change,30.0
 83,High Schools,Garfield,2012,Change,-52.0
@@ -1412,15 +1412,15 @@
 5,Aki Kurose,South Shore,2013,Change,4.0
 6,Aki Kurose,Wing Luke,2013,Change,19.0
 7,Denny,Arbor Heights,2013,Change,27.0
-8,Denny,Concord Intl.,2013,Change,-15.0
+8,Denny,Concord Intl,2013,Change,-15.0
 9,Denny,Highland Park,2013,Change,-8.0
 10,Denny,K-5 STEM at Boren,2013,Change,59.0
 11,Denny,Roxhill,2013,Change,9.0
 12,Denny,Sanislo,2013,Change,-8.0
-13,Denny,West Seattle Elem.,2013,Change,25.0
+13,Denny,West Seattle Elem,2013,Change,25.0
 14,Eckstein,Bryant,2013,Change,15.0
 15,Eckstein,Green Lake,2013,Change,-2.0
-16,Eckstein,Jane Addams*,2013,Change,156.0
+16,Eckstein,Jane Addams,2013,Change,156.0
 17,Eckstein,John Rogers,2013,Change,16.0
 18,Eckstein,Laurelhurst,2013,Change,17.0
 19,Eckstein,Olympic Hills,2013,Change,26.0
@@ -1433,8 +1433,8 @@
 26,Eckstein,Wedgwood,2013,Change,11.0
 27,Hamilton,APP at Lincoln,2013,Change,74.0
 28,Hamilton,B. F. Day,2013,Change,-12.0
-29,Hamilton,J. Stanford Intl.,2013,Change,7.0
-30,Hamilton,McDonald,2013,Change,88.0
+29,Hamilton,J. Stanford Intl,2013,Change,7.0
+30,Hamilton,McDonald Intl,2013,Change,88.0
 31,Hamilton,West Woodland,2013,Change,33.0
 32,Madison,Alki,2013,Change,27.0
 33,Madison,Gatewood,2013,Change,39.0
@@ -1446,7 +1446,7 @@
 39,McClure,John Hay,2013,Change,1.0
 40,McClure,Lawton,2013,Change,-11.0
 41,McClure,Queen Anne,2013,Change,59.0
-42,Mercer,Beacon Hill Intl.,2013,Change,4.0
+42,Mercer,Beacon Hill Intl,2013,Change,4.0
 43,Mercer,Dearborn Park,2013,Change,12.0
 44,Mercer,Hawthorne,2013,Change,27.0
 45,Mercer,Kimball,2013,Change,-28.0
@@ -1474,9 +1474,9 @@
 67,Whitman,Viewlands,2013,Change,68.0
 68,Whitman,Whittier,2013,Change,10.0
 69,Middle Schools,Aki Kurose,2013,Change,-2.0
-70,Middle Schools,Denny Intl.,2013,Change,48.0
+70,Middle Schools,Denny Intl,2013,Change,48.0
 71,Middle Schools,Eckstein,2013,Change,-78.0
-72,Middle Schools,Hamilton Intl.,2013,Change,134.0
+72,Middle Schools,Hamilton Intl,2013,Change,134.0
 73,Middle Schools,Madison,2013,Change,25.0
 74,Middle Schools,McClure,2013,Change,72.0
 75,Middle Schools,Mercer,2013,Change,-16.0
@@ -1484,7 +1484,7 @@
 77,Middle Schools,Whitman,2013,Change,-16.0
 78,High Schools,Ballard,2013,Change,-27.0
 79,High Schools,Center School,2013,Change,-2.0
-80,High Schools,Chief Sealth Intl.,2013,Change,-26.0
+80,High Schools,Chief Sealth Intl,2013,Change,-26.0
 81,High Schools,Cleveland,2013,Change,5.0
 82,High Schools,Franklin,2013,Change,-72.0
 83,High Schools,Garfield,2013,Change,-65.0
@@ -1505,109 +1505,109 @@
 0,Aki Kurose ,Dunlap,2014,Change,18.0
 1,Aki Kurose ,Emerson,2014,Change,-11.0
 2,Aki Kurose ,Graham Hill,2014,Change,-13.0
-3,Aki Kurose ,Martin Luther King Jr. ,2014,Change,4.0
-4,Aki Kurose ,Rainier View ,2014,Change,-13.0
-5,Aki Kurose ,South Shore K-8 ,2014,Change,16.0
-6,Aki Kurose ,Wing Luke ,2014,Change,-2.0
-7,Denny ,Arbor Heights ,2014,Change,7.0
-8,Denny ,Concord Intl. ,2014,Change,18.0
+3,Aki Kurose ,Martin Luther King Jr.,2014,Change,4.0
+4,Aki Kurose ,Rainier View,2014,Change,-13.0
+5,Aki Kurose ,South Shore,2014,Change,16.0
+6,Aki Kurose ,Wing Luke,2014,Change,-2.0
+7,Denny ,Arbor Heights,2014,Change,7.0
+8,Denny ,Concord Intl,2014,Change,18.0
 9,Denny ,Highland Park,2014,Change,-56.0
 10,Denny ,K-5 STEM at Boren,2014,Change,27.0
 11,Denny ,Roxhill,2014,Change,-5.0
 12,Denny ,Sanislo,2014,Change,7.0
-13,Denny ,West Seattle Elem. ,2014,Change,-3.0
+13,Denny ,West Seattle Elem,2014,Change,-3.0
 14,Eckstein ,Bryant,2014,Change,-5.0
-15,Eckstein ,Hazel Wolf K-8 ,2014,Change,-26.0
-16,Eckstein ,Laurelhurst ,2014,Change,-6.0
-17,Eckstein ,Olympic View ,2014,Change,7.0
-18,Eckstein ,Sand Point ,2014,Change,-12.0
-19,Eckstein ,Thornton Creek ,2014,Change,13.0
-20,Eckstein ,View Ridge ,2014,Change,-13.0
-21,Eckstein ,Wedgwood ,2014,Change,-13.0
+15,Eckstein ,Hazel Wolf K-8,2014,Change,-26.0
+16,Eckstein ,Laurelhurst,2014,Change,-6.0
+17,Eckstein ,Olympic View,2014,Change,7.0
+18,Eckstein ,Sand Point,2014,Change,-12.0
+19,Eckstein ,Thornton Creek,2014,Change,13.0
+20,Eckstein ,View Ridge,2014,Change,-13.0
+21,Eckstein ,Wedgwood,2014,Change,-13.0
 22,Hamilton ,APP at Lincoln,2014,Change,88.0
 23,Hamilton ,B. F. Day,2014,Change,0.0
 24,Hamilton ,Green Lake,2014,Change,39.0
-25,Hamilton ,J. Stanford Intl.,2014,Change,11.0
-26,Hamilton , Licton Springs K-8 ,2014,Change,-36.0
-27,Hamilton ,McDonald Int'l ,2014,Change,43.0
-28,Hamilton ,West Woodland ,2014,Change,1.0
-29,Jane Addams,John Rogers ,2014,Change,29.0
-30,Jane Addams,Olympic Hills ,2014,Change,3.0
-31,Jane Addams,Sacajawea ,2014,Change,-10.0
+25,Hamilton ,J. Stanford Intl,2014,Change,11.0
+26,Hamilton ,Licton Springs K-8,2014,Change,-36.0
+27,Hamilton ,McDonald Intl,2014,Change,43.0
+28,Hamilton ,West Woodland,2014,Change,1.0
+29,Jane Addams,John Rogers,2014,Change,29.0
+30,Jane Addams,Olympic Hills,2014,Change,3.0
+31,Jane Addams,Sacajawea,2014,Change,-10.0
 32,Madison,Alki,2014,Change,26.0
-33,Madison,Fairmount Park* ,2014,Change,364.0
+33,Madison,Fairmount Park,2014,Change,364.0
 34,Madison,Gatewood,2014,Change,-95.0
-35,Madison, Lafayette ,2014,Change,-66.0
-36,Madison,Pathfinder K-8 ,2014,Change,3.0
-37,Madison,Schmitz Park ,2014,Change,22.0
-38,McClure,Catharine Blaine K-8 ,2014,Change,31.0
-39,McClure,Coe ,2014,Change,-8.0
-40,McClure,John Hay ,2014,Change,-29.0
-41,McClure,Lawton ,2014,Change,-3.0
-42,McClure,Queen Anne ,2014,Change,60.0
-43,Mercer ,Beacon Hill Intl. ,2014,Change,14.0
+35,Madison,Lafayette,2014,Change,-66.0
+36,Madison,Pathfinder,2014,Change,3.0
+37,Madison,Schmitz Park,2014,Change,22.0
+38,McClure,Catharine Blaine,2014,Change,31.0
+39,McClure,Coe,2014,Change,-8.0
+40,McClure,John Hay,2014,Change,-29.0
+41,McClure,Lawton,2014,Change,-3.0
+42,McClure,Queen Anne,2014,Change,60.0
+43,Mercer ,Beacon Hill Intl,2014,Change,14.0
 44,Mercer ,Dearborn Park,2014,Change,21.0
-45,Mercer , Hawthorne ,2014,Change,14.0
-46,Mercer ,Kimball ,2014,Change,-11.0
-47,Mercer ,Maple ,2014,Change,16.0
-48,Mercer ,Orca K-8 ,2014,Change,-9.0
-49,Mercer ,Van Asselt ,2014,Change,-7.0
-50,Washington ,Bailey Gatzert ,2014,Change,-37.0
-51,Washington ,John Muir ,2014,Change,-11.0
+45,Mercer ,Hawthorne,2014,Change,14.0
+46,Mercer ,Kimball,2014,Change,-11.0
+47,Mercer ,Maple,2014,Change,16.0
+48,Mercer ,Orca,2014,Change,-9.0
+49,Mercer ,Van Asselt,2014,Change,-7.0
+50,Washington ,Bailey Gatzert,2014,Change,-37.0
+51,Washington ,John Muir,2014,Change,-11.0
 52,Washington ,Leschi,2014,Change,3.0
-53,Washington ,Lowell ,2014,Change,58.0
-54,Washington ,Madrona K-8 ,2014,Change,5.0
-55,Washington ,McGilvra ,2014,Change,-3.0
-56,Washington ,Montlake ,2014,Change,19.0
-57,Washington ,Stevens ,2014,Change,-41.0
-58,Washington ,T. Marshall ,2014,Change,4.0
-59,Washington ,TOPS K-8 ,2014,Change,-7.0
-60,Whitman ,Adams ,2014,Change,18.0
-61,Whitman ,Broadview-Thomson K-8 ,2014,Change,10.0
-62,Whitman ,Daniel Bagley ,2014,Change,30.0
+53,Washington ,Lowell,2014,Change,58.0
+54,Washington ,Madrona,2014,Change,5.0
+55,Washington ,McGilvra,2014,Change,-3.0
+56,Washington ,Montlake,2014,Change,19.0
+57,Washington ,Stevens,2014,Change,-41.0
+58,Washington ,T. Marshall,2014,Change,4.0
+59,Washington ,TOPS,2014,Change,-7.0
+60,Whitman ,Adams,2014,Change,18.0
+61,Whitman ,Broadview-Thomson,2014,Change,10.0
+62,Whitman ,Daniel Bagley,2014,Change,30.0
 63,Whitman ,Greenwood,2014,Change,2.0
 64,Whitman ,Loyal Heights,2014,Change,10.0
 65,Whitman ,North Beach,2014,Change,-12.0
 66,Whitman ,Northgate,2014,Change,-9.0
-67,Whitman ,Salmon Bay K-8 ,2014,Change,-2.0
+67,Whitman ,Salmon Bay,2014,Change,-2.0
 68,Whitman ,Viewlands,2014,Change,44.0
-69,Whitman ,Whittier ,2014,Change,-8.0
-70,Middle Schools ,Aki Kurose ,2014,Change,-11.0
-71,Middle Schools ,Denny Intl. ,2014,Change,-32.0
-72,Middle Schools ,Eckstein ,2014,Change,-339.0
-73,Middle Schools ,Hamilton Intl.,2014,Change,-152.0
-74,Middle Schools ,Jane Addams*,2014,Change,728.0
-75,Middle Schools , Madison ,2014,Change,-13.0
-76,Middle Schools ,McClure ,2014,Change,20.0
-77,Middle Schools ,Mercer Intl. ,2014,Change,107.0
-78,Middle Schools ,Washington ,2014,Change,-28.0
+69,Whitman ,Whittier,2014,Change,-8.0
+70,Middle Schools ,Aki Kurose,2014,Change,-11.0
+71,Middle Schools ,Denny Intl,2014,Change,-32.0
+72,Middle Schools ,Eckstein,2014,Change,-339.0
+73,Middle Schools ,Hamilton Intl,2014,Change,-152.0
+74,Middle Schools ,Jane Addams,2014,Change,728.0
+75,Middle Schools ,Madison,2014,Change,-13.0
+76,Middle Schools ,McClure,2014,Change,20.0
+77,Middle Schools ,Mercer,2014,Change,107.0
+78,Middle Schools ,Washington,2014,Change,-28.0
 79,Middle Schools ,Whitman,2014,Change,-49.0
 80,High Schools ,Ballard,2014,Change,52.0
-81,High Schools ,Center School ,2014,Change,-7.0
-82,High Schools ,Chief Sealth Intl. ,2014,Change,-37.0
-83,High Schools ,Cleveland ,2014,Change,-23.0
-84,High Schools ,Franklin ,2014,Change,-37.0
-85,High Schools ,Garfield ,2014,Change,-18.0
-86,High Schools ,Ingraham ,2014,Change,129.0
-87,High Schools ,Nathan Hale ,2014,Change,22.0
+81,High Schools ,Center School,2014,Change,-7.0
+82,High Schools ,Chief Sealth Intl,2014,Change,-37.0
+83,High Schools ,Cleveland,2014,Change,-23.0
+84,High Schools ,Franklin,2014,Change,-37.0
+85,High Schools ,Garfield,2014,Change,-18.0
+86,High Schools ,Ingraham,2014,Change,129.0
+87,High Schools ,Nathan Hale,2014,Change,22.0
 88,High Schools ,Nova,2014,Change,10.0
-89,High Schools ,Rainier Beach ,2014,Change,116.0
+89,High Schools ,Rainier Beach,2014,Change,116.0
 90,High Schools ,Roosevelt,2014,Change,-17.0
-91,High Schools ,West Seattle ,2014,Change,34.0
+91,High Schools ,West Seattle,2014,Change,34.0
 92,Service Schools ,Cascade Parent Partnership Program,2014,Change,0.0
 93,Service Schools ,Education Service Ctrs,2014,Change,-2.0
 94,Service Schools ,InterAgency,2014,Change,-60.0
-95,Service Schools ,Middle College ,2014,Change,43.0
-96,Service Schools ,Seattle World School ,2014,Change,20.0
+95,Service Schools ,Middle College,2014,Change,43.0
+96,Service Schools ,Seattle World School,2014,Change,20.0
 97,Service Schools ,South Lake,2014,Change,4.0
-98,Service Schools ,SpEd Consortium ,2014,Change,-5.0
-99,All,Total,2014,Change,978.0
+98,Service Schools ,SpEd Consortium,2014,Change,-5.0
+99,All,TOTAL,2014,Change,978.0
 0,Aki Kurose,Dunlap,2015,Change,-80.0
 1,Aki Kurose,Emerson,2015,Change,40.0
 2,Aki Kurose,Graham Hill,2015,Change,-34.0
 3,Aki Kurose,Martin Luther King Jr.,2015,Change,-44.0
 4,Aki Kurose,Rainier View,2015,Change,48.0
-5,Aki Kurose,South Shore PK-8,2015,Change,-23.0
+5,Aki Kurose,South Shore,2015,Change,-23.0
 6,Aki Kurose,Wing Luke,2015,Change,13.0
 7,Denny,Arbor Heights,2015,Change,37.0
 8,Denny,Concord Intl,2015,Change,-11.0
@@ -1634,13 +1634,13 @@
 29,Jane Addams,Olympic Hills,2015,Change,-6.0
 30,Jane Addams,Sacajawea,2015,Change,-10.0
 31,Madison,Alki,2015,Change,3.0
-32,Madison,Fairmount Park*,2015,Change,110.0
+32,Madison,Fairmount Park,2015,Change,110.0
 33,Madison,Gatewood,2015,Change,25.0
 34,Madison,Lafayette,2015,Change,-25.0
-35,Madison,Pathfinder K-8,2015,Change,1.0
+35,Madison,Pathfinder,2015,Change,1.0
 36,Madison,Sanislo,2015,Change,-7.0
 37,Madison,Schmitz Park,2015,Change,37.0
-38,McClure,Catharine Blaine K-8,2015,Change,63.0
+38,McClure,Catharine Blaine,2015,Change,63.0
 39,McClure,Coe,2015,Change,45.0
 40,McClure,John Hay,2015,Change,-18.0
 41,McClure,Lawton,2015,Change,7.0
@@ -1650,42 +1650,42 @@
 45,Mercer,Hawthorne,2015,Change,29.0
 46,Mercer,Kimball,2015,Change,-7.0
 47,Mercer,Maple,2015,Change,11.0
-48,Mercer,Orca K-8,2015,Change,-60.0
+48,Mercer,Orca,2015,Change,-60.0
 49,Mercer,Van Asselt,2015,Change,-13.0
 50,Washington,Bailey Gatzert,2015,Change,-42.0
 51,Washington,John Muir,2015,Change,-43.0
 52,Washington,Leschi,2015,Change,-14.0
 53,Washington,Lowell,2015,Change,48.0
-54,Washington,Madrona K-8,2015,Change,-1.0
+54,Washington,Madrona,2015,Change,-1.0
 55,Washington,McGilvra,2015,Change,-11.0
 56,Washington,Montlake,2015,Change,13.0
 57,Washington,Stevens,2015,Change,-28.0
 58,Washington,T. Marshall,2015,Change,28.0
-59,Washington,TOPS K-8,2015,Change,-9.0
+59,Washington,TOPS,2015,Change,-9.0
 60,Whitman,Adams,2015,Change,11.0
-61,Whitman,Broadview-Thomson K-8,2015,Change,-59.0
+61,Whitman,Broadview-Thomson,2015,Change,-59.0
 62,Whitman,Daniel Bagley,2015,Change,3.0
 63,Whitman,Greenwood,2015,Change,-23.0
 64,Whitman,Loyal Heights,2015,Change,-23.0
 65,Whitman,North Beach,2015,Change,-1.0
 66,Whitman,Northgate,2015,Change,35.0
-67,Whitman,Salmon Bay K-8,2015,Change,-3.0
+67,Whitman,Salmon Bay,2015,Change,-3.0
 68,Whitman,Viewlands,2015,Change,25.0
 69,Whitman,Whittier,2015,Change,1.0
 70,Middle Schools,Aki Kurose,2015,Change,-10.0
 71,Middle Schools,Denny Intl,2015,Change,-48.0
 72,Middle Schools,Eckstein,2015,Change,26.0
 73,Middle Schools,Hamilton Intl,2015,Change,142.0
-74,Middle Schools,Jane Addams*,2015,Change,97.0
+74,Middle Schools,Jane Addams,2015,Change,97.0
 75,Middle Schools,Madison,2015,Change,13.0
 76,Middle Schools,McClure,2015,Change,14.0
-77,Middle Schools,Mercer Intl,2015,Change,27.0
+77,Middle Schools,Mercer,2015,Change,27.0
 78,Middle Schools,Washington,2015,Change,-58.0
 79,Middle Schools,Whitman,2015,Change,-46.0
 80,High Schools,Ballard,2015,Change,31.0
 81,High Schools,Center School,2015,Change,-13.0
 82,High Schools,Chief Sealth Intl,2015,Change,-65.0
-83,High Schools,Cleveland STEM,2015,Change,14.0
+83,High Schools,Cleveland,2015,Change,14.0
 84,High Schools,Franklin,2015,Change,-46.0
 85,High Schools,Garfield,2015,Change,86.0
 86,High Schools,Ingraham,2015,Change,8.0
@@ -1707,7 +1707,7 @@
 2,Aki Kurose,Graham Hill,2017,Change,6.0
 3,Aki Kurose,Martin Luther King Jr.,2017,Change,-14.0
 4,Aki Kurose,Rainier View,2017,Change,17.0
-5,Aki Kurose,South Shore PK-8,2017,Change,-93.0
+5,Aki Kurose,South Shore,2017,Change,-93.0
 6,Aki Kurose,Wing Luke,2017,Change,-19.0
 7,Denny,Arbor Heights,2017,Change,62.0
 8,Denny,Concord Intl,2017,Change,-9.0
@@ -1716,7 +1716,7 @@
 11,Denny,Sanislo,2017,Change,-21.0
 12,Denny,STEM K-8,2017,Change,65.0
 13,Denny,West Seattle Elem,2017,Change,-9.0
-14,Eagle Staff,Broadview-Thomson K-8,2017,Change,-82.0
+14,Eagle Staff,Broadview-Thomson,2017,Change,-82.0
 15,Eagle Staff,Cascadia,2017,Change,-229.0
 16,Eagle Staff,Daniel Bagley,2017,Change,-1.0
 17,Eagle Staff,Greenwood,2017,Change,-4.0
@@ -1745,25 +1745,25 @@
 40,Madison,Gatewood,2017,Change,-12.0
 41,Madison,Genesee Hill,2017,Change,27.0
 42,Madison,Lafayette,2017,Change,-54.0
-43,Madison,Pathfinder K-8,2017,Change,-5.0
-44,McClure,Catharine Blaine K-8,2017,Change,10.0
+43,Madison,Pathfinder,2017,Change,-5.0
+44,McClure,Catharine Blaine,2017,Change,10.0
 45,McClure,Coe,2017,Change,0.0
 46,McClure,John Hay,2017,Change,-8.0
 47,McClure,Lawton,2017,Change,10.0
 48,McClure,Queen Anne,2017,Change,-66.0
 49,Meany,Leschi,2017,Change,1.0
 50,Meany,Lowell,2017,Change,28.0
-51,Meany,Madrona*,2017,Change,-63.0
+51,Meany,Madrona,2017,Change,-63.0
 52,Meany,McGilvra,2017,Change,-40.0
 53,Meany,Montlake,2017,Change,5.0
 54,Meany,Stevens,2017,Change,-13.0
-55,Meany,TOPS K-8,2017,Change,0.0
+55,Meany,TOPS,2017,Change,0.0
 56,Mercer,Beacon Hill Intl,2017,Change,-5.0
-57,Mercer,Dearborn Park Intl,2017,Change,-2.0
+57,Mercer,Dearborn Park,2017,Change,-2.0
 58,Mercer,Hawthorne,2017,Change,22.0
 59,Mercer,Kimball,2017,Change,29.0
 60,Mercer,Maple,2017,Change,30.0
-61,Mercer,Orca K-8,2017,Change,20.0
+61,Mercer,Orca,2017,Change,20.0
 62,Mercer,Van Asselt,2017,Change,-46.0
 63,Washington,Bailey Gatzert,2017,Change,-18.0
 64,Washington,John Muir,2017,Change,-35.0
@@ -1771,7 +1771,7 @@
 66,Whitman,Adams,2017,Change,-22.0
 67,Whitman,Loyal Heights,2017,Change,-13.0
 68,Whitman,North Beach,2017,Change,9.0
-69,Whitman,Salmon Bay K-8,2017,Change,1.0
+69,Whitman,Salmon Bay,2017,Change,1.0
 70,Whitman,Viewlands,2017,Change,22.0
 71,Whitman,Whittier,2017,Change,18.0
 72,Middle Schools,Aki Kurose,2017,Change,-55.0
@@ -1783,13 +1783,13 @@
 78,Middle Schools,Madison,2017,Change,15.0
 79,Middle Schools,McClure,2017,Change,-12.0
 80,Middle Schools,Meany,2017,Change,492.0
-81,Middle Schools,Mercer Intl,2017,Change,-45.0
+81,Middle Schools,Mercer,2017,Change,-45.0
 82,Middle Schools,Washington,2017,Change,-378.0
 83,Middle Schools,Whitman,2017,Change,-289.0
 84,High Schools,Ballard,2017,Change,84.0
 85,High Schools,Center School,2017,Change,8.0
 86,High Schools,Chief Sealth Intl,2017,Change,-75.0
-87,High Schools,Cleveland STEM,2017,Change,5.0
+87,High Schools,Cleveland,2017,Change,5.0
 88,High Schools,Franklin,2017,Change,47.0
 89,High Schools,Garfield,2017,Change,58.0
 90,High Schools,Ingraham,2017,Change,37.0
@@ -1813,7 +1813,7 @@
 2,Aki Kurose,Graham Hill,2018,Change,-36.0
 3,Aki Kurose,Martin Luther King Jr.,2018,Change,-2.0
 4,Aki Kurose,Rainier View,2018,Change,-6.0
-5,Aki Kurose,South Shore PK-8,2018,Change,11.0
+5,Aki Kurose,South Shore,2018,Change,11.0
 6,Aki Kurose,Wing Luke,2018,Change,-4.0
 7,Denny,Arbor Heights,2018,Change,27.0
 8,Denny,Concord Intl,2018,Change,13.0
@@ -1822,7 +1822,7 @@
 11,Denny,Sanislo,2018,Change,-18.0
 12,Denny,STEM K-8,2018,Change,3.0
 13,Denny,West Seattle Elem,2018,Change,-6.0
-14,Eagle Staff,Broadview-Thomson K-8,2018,Change,-28.0
+14,Eagle Staff,Broadview-Thomson,2018,Change,-28.0
 15,Eagle Staff,Cascadia,2018,Change,-13.0
 16,Eagle Staff,Daniel Bagley,2018,Change,-23.0
 17,Eagle Staff,Greenwood,2018,Change,-18.0
@@ -1851,25 +1851,25 @@
 40,Madison,Gatewood,2018,Change,20.0
 41,Madison,Genesee Hill,2018,Change,-40.0
 42,Madison,Lafayette,2018,Change,21.0
-43,Madison,Pathfinder K-8,2018,Change,2.0
-44,McClure,Catharine Blaine K-8,2018,Change,-22.0
+43,Madison,Pathfinder,2018,Change,2.0
+44,McClure,Catharine Blaine,2018,Change,-22.0
 45,McClure,Coe,2018,Change,-25.0
 46,McClure,John Hay,2018,Change,-10.0
 47,McClure,Lawton,2018,Change,15.0
 48,McClure,Queen Anne,2018,Change,-60.0
 49,Meany,Leschi,2018,Change,-26.0
 50,Meany,Lowell,2018,Change,-86.0
-51,Meany,Madrona*,2018,Change,10.0
+51,Meany,Madrona,2018,Change,10.0
 52,Meany,McGilvra,2018,Change,5.0
 53,Meany,Montlake,2018,Change,-17.0
 54,Meany,Stevens,2018,Change,-41.0
-55,Meany,TOPS K-8,2018,Change,13.0
+55,Meany,TOPS,2018,Change,13.0
 56,Mercer,Beacon Hill Intl,2018,Change,-4.0
-57,Mercer,Dearborn Park Intl,2018,Change,-30.0
+57,Mercer,Dearborn Park,2018,Change,-30.0
 58,Mercer,Hawthorne,2018,Change,-5.0
 59,Mercer,Kimball,2018,Change,-3.0
 60,Mercer,Maple,2018,Change,14.0
-61,Mercer,Orca K-8,2018,Change,3.0
+61,Mercer,Orca,2018,Change,3.0
 62,Mercer,Van Asselt,2018,Change,-26.0
 63,Washington,Bailey Gatzert,2018,Change,-5.0
 64,Washington,John Muir,2018,Change,-25.0
@@ -1877,7 +1877,7 @@
 66,Whitman,Adams,2018,Change,-16.0
 67,Whitman,Loyal Heights,2018,Change,51.0
 68,Whitman,North Beach,2018,Change,42.0
-69,Whitman,Salmon Bay K-8,2018,Change,-5.0
+69,Whitman,Salmon Bay,2018,Change,-5.0
 70,Whitman,Viewlands,2018,Change,-36.0
 71,Whitman,Whittier,2018,Change,-54.0
 72,Middle Schools,Aki Kurose,2018,Change,-22.0
@@ -1889,13 +1889,13 @@
 78,Middle Schools,Madison,2018,Change,70.0
 79,Middle Schools,McClure,2018,Change,-3.0
 80,Middle Schools,Meany,2018,Change,6.0
-81,Middle Schools,Mercer Intl,2018,Change,10.0
+81,Middle Schools,Mercer,2018,Change,10.0
 82,Middle Schools,Washington,2018,Change,-43.0
 83,Middle Schools,Whitman,2018,Change,8.0
 84,High Schools,Ballard,2018,Change,89.0
 85,High Schools,Center School,2018,Change,4.0
 86,High Schools,Chief Sealth Intl,2018,Change,-21.0
-87,High Schools,Cleveland STEM,2018,Change,-1.0
+87,High Schools,Cleveland,2018,Change,-1.0
 88,High Schools,Franklin,2018,Change,-106.0
 89,High Schools,Garfield,2018,Change,-116.0
 90,High Schools,Ingraham,2018,Change,4.0
@@ -1909,7 +1909,7 @@
 98,Service Schools,InterAgency,2018,Change,13.0
 99,Service Schools,Middle College,2018,Change,-24.0
 100,Service Schools,Non Public Agencies,2018,Change,10.0
-101,Service Schools,Nova**,2018,Change,-46.0
+101,Service Schools,Nova,2018,Change,-46.0
 102,Service Schools,Seattle World School,2018,Change,-31.0
 103,Service Schools,South Lake,2018,Change,1.0
 104,Service Schools,SpEd Consortium,2018,Change,-6.0
@@ -1919,7 +1919,7 @@
 2,Aki Kurose,Graham Hill,2019,Change,9.0
 3,Aki Kurose,Martin Luther King Jr.,2019,Change,0.0
 4,Aki Kurose,Rainier View,2019,Change,7.0
-5,Aki Kurose,South Shore PK-8,2019,Change,19.0
+5,Aki Kurose,South Shore,2019,Change,19.0
 6,Aki Kurose,Wing Luke,2019,Change,-22.0
 7,Denny,Arbor Heights,2019,Change,17.0
 8,Denny,Concord Intl,2019,Change,-35.0
@@ -1928,7 +1928,7 @@
 11,Denny,Sanislo,2019,Change,0.0
 12,Denny,STEM K-8,2019,Change,4.0
 13,Denny,West Seattle Elem,2019,Change,2.0
-14,Eagle Staff,Broadview-Thomson K-8,2019,Change,67.0
+14,Eagle Staff,Broadview-Thomson,2019,Change,67.0
 15,Eagle Staff,Cascadia,2019,Change,-6.0
 16,Eagle Staff,Daniel Bagley,2019,Change,-14.0
 17,Eagle Staff,Greenwood,2019,Change,-6.0
@@ -1957,8 +1957,8 @@
 40,Madison,Gatewood,2019,Change,5.0
 41,Madison,Genesee Hill,2019,Change,-28.0
 42,Madison,Lafayette,2019,Change,10.0
-43,Madison,Pathfinder K-8,2019,Change,5.0
-44,McClure,Catharine Blaine K-8,2019,Change,-130.0
+43,Madison,Pathfinder,2019,Change,5.0
+44,McClure,Catharine Blaine,2019,Change,-130.0
 45,McClure,Coe,2019,Change,18.0
 46,McClure,John Hay,2019,Change,16.0
 47,McClure,Lawton,2019,Change,-55.0
@@ -1966,17 +1966,17 @@
 49,McClure,Queen Anne,2019,Change,-70.0
 50,Meany,Leschi,2019,Change,-18.0
 51,Meany,Lowell,2019,Change,1.0
-52,Meany,Madrona*,2019,Change,17.0
+52,Meany,Madrona,2019,Change,17.0
 53,Meany,McGilvra,2019,Change,-9.0
 54,Meany,Montlake,2019,Change,-1.0
 55,Meany,Stevens,2019,Change,-17.0
-56,Meany,TOPS K-8,2019,Change,7.0
+56,Meany,TOPS,2019,Change,7.0
 57,Mercer,Beacon Hill Intl,2019,Change,5.0
-58,Mercer,Dearborn Park Intl,2019,Change,5.0
+58,Mercer,Dearborn Park,2019,Change,5.0
 59,Mercer,Hawthorne,2019,Change,28.0
 60,Mercer,Kimball,2019,Change,-5.0
 61,Mercer,Maple,2019,Change,-9.0
-62,Mercer,Orca K-8,2019,Change,7.0
+62,Mercer,Orca,2019,Change,7.0
 63,Mercer,Rising Star,2019,Change,-1.0
 64,Washington,Bailey Gatzert,2019,Change,25.0
 65,Washington,John Muir,2019,Change,-17.0
@@ -1984,7 +1984,7 @@
 67,Whitman,Adams,2019,Change,-35.0
 68,Whitman,Loyal Heights,2019,Change,13.0
 69,Whitman,North Beach,2019,Change,19.0
-70,Whitman,Salmon Bay K-8,2019,Change,21.0
+70,Whitman,Salmon Bay,2019,Change,21.0
 71,Whitman,Viewlands,2019,Change,6.0
 72,Whitman,Whittier,2019,Change,3.0
 73,Middle Schools,Aki Kurose,2019,Change,-8.0
@@ -1996,13 +1996,13 @@
 79,Middle Schools,Madison,2019,Change,38.0
 80,Middle Schools,McClure,2019,Change,-3.0
 81,Middle Schools,Meany,2019,Change,18.0
-82,Middle Schools,Mercer Intl,2019,Change,-31.0
+82,Middle Schools,Mercer,2019,Change,-31.0
 83,Middle Schools,Washington,2019,Change,-63.0
 84,Middle Schools,Whitman,2019,Change,62.0
 85,High Schools,Ballard,2019,Change,-190.0
 86,High Schools,Center School,2019,Change,9.0
 87,High Schools,Chief Sealth Intl,2019,Change,14.0
-88,High Schools,Cleveland STEM,2019,Change,19.0
+88,High Schools,Cleveland,2019,Change,19.0
 89,High Schools,Franklin,2019,Change,16.0
 90,High Schools,Garfield,2019,Change,-26.0
 91,High Schools,Ingraham,2019,Change,87.0
@@ -2017,7 +2017,7 @@
 100,Service Schools,InterAgency,2019,Change,24.0
 101,Service Schools,Middle College,2019,Change,27.0
 102,Service Schools,Non Public Agencies,2019,Change,7.0
-103,Service Schools,Nova**,2019,Change,-54.0
+103,Service Schools,Nova,2019,Change,-54.0
 104,Service Schools,Seattle World School,2019,Change,104.0
 105,Service Schools,South Lake,2019,Change,-8.0
 106,Service Schools,SpEd Consortium,2019,Change,-8.0
@@ -2027,7 +2027,7 @@
 2,Aki Kurose,Graham Hill,2020,Change,-32.0
 3,Aki Kurose,Martin Luther King Jr.,2020,Change,-12.0
 4,Aki Kurose,Rainier View,2020,Change,-14.0
-5,Aki Kurose,South Shore PK-8,2020,Change,11.0
+5,Aki Kurose,South Shore,2020,Change,11.0
 6,Aki Kurose,Wing Luke,2020,Change,-11.0
 7,Denny,Arbor Heights,2020,Change,-29.0
 8,Denny,Concord Intl,2020,Change,-10.0
@@ -2036,7 +2036,7 @@
 11,Denny,Sanislo,2020,Change,-23.0
 12,Denny,STEM K-8,2020,Change,-17.0
 13,Denny,West Seattle Elem,2020,Change,-41.0
-14,Eagle Staff,Broadview-Thomson K-8,2020,Change,7.0
+14,Eagle Staff,Broadview-Thomson,2020,Change,7.0
 15,Eagle Staff,Cascadia,2020,Change,-2.0
 16,Eagle Staff,Daniel Bagley,2020,Change,-20.0
 17,Eagle Staff,Greenwood,2020,Change,-12.0
@@ -2065,8 +2065,8 @@
 40,Madison,Gatewood,2020,Change,-38.0
 41,Madison,Genesee Hill,2020,Change,-59.0
 42,Madison,Lafayette,2020,Change,-11.0
-43,Madison,Pathfinder K-8,2020,Change,0.0
-44,McClure,Catharine Blaine K-8,2020,Change,-96.0
+43,Madison,Pathfinder,2020,Change,0.0
+44,McClure,Catharine Blaine,2020,Change,-96.0
 45,McClure,Coe,2020,Change,-55.0
 46,McClure,John Hay,2020,Change,-114.0
 47,McClure,Lawton,2020,Change,-62.0
@@ -2078,13 +2078,13 @@
 53,Meany,McGilvra,2020,Change,-12.0
 54,Meany,Montlake,2020,Change,-18.0
 55,Meany,Stevens,2020,Change,-32.0
-56,Meany,TOPS K-8,2020,Change,-6.0
+56,Meany,TOPS,2020,Change,-6.0
 57,Mercer,Beacon Hill Intl,2020,Change,-29.0
-58,Mercer,Dearborn Park Intl,2020,Change,-24.0
+58,Mercer,Dearborn Park,2020,Change,-24.0
 59,Mercer,Hawthorne,2020,Change,-8.0
 60,Mercer,Kimball,2020,Change,-11.0
 61,Mercer,Maple,2020,Change,-46.0
-62,Mercer,Orca K-8,2020,Change,14.0
+62,Mercer,Orca,2020,Change,14.0
 63,Mercer,Rising Star,2020,Change,-50.0
 64,Washington,Bailey Gatzert,2020,Change,-20.0
 65,Washington,John Muir,2020,Change,34.0
@@ -2092,7 +2092,7 @@
 67,Whitman,Adams,2020,Change,-72.0
 68,Whitman,Loyal Heights,2020,Change,8.0
 69,Whitman,North Beach,2020,Change,-32.0
-70,Whitman,Salmon Bay K-8,2020,Change,-13.0
+70,Whitman,Salmon Bay,2020,Change,-13.0
 71,Whitman,Viewlands,2020,Change,-26.0
 72,Whitman,Whittier,2020,Change,-27.0
 73,Middle Schools,Aki Kurose,2020,Change,71.0
@@ -2104,13 +2104,13 @@
 79,Middle Schools,Madison,2020,Change,-505.0
 80,Middle Schools,McClure,2020,Change,-47.0
 81,Middle Schools,Meany,2020,Change,669.0
-82,Middle Schools,Mercer Intl,2020,Change,-347.0
+82,Middle Schools,Mercer,2020,Change,-347.0
 83,Middle Schools,Washington,2020,Change,-3.0
 84,Middle Schools,Whitman,2020,Change,27.0
 85,High Schools,Ballard,2020,Change,-112.0
 86,High Schools,Center School,2020,Change,1.0
 87,High Schools,Chief Sealth Intl,2020,Change,65.0
-88,High Schools,Cleveland STEM,2020,Change,0.0
+88,High Schools,Cleveland,2020,Change,0.0
 89,High Schools,Franklin,2020,Change,2.0
 90,High Schools,Garfield,2020,Change,1.0
 91,High Schools,Ingraham,2020,Change,-6.0
