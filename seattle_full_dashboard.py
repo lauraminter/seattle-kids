@@ -20,7 +20,6 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 # read in our data
 df = pd.read_csv('./data/dashdata/dash-data-combined.csv')
 enroll = pd.read_csv('./data/dashdata/dash-data-enrollment.csv')
-#areas = pd.read_excel('./data/enrollmentdata/SPS-AttendanceAreas.xlsx')
 
 # instantiate the Dash class
 app = dash.Dash(__name__)
@@ -69,7 +68,7 @@ app.layout = html.Div([
     html.Div([
         dcc.Graph(
             id='crossfilter-indicator-scatter',
-            hoverData={'points': [{'customdata': 'MLK Jr'}]}
+            hoverData={'points': [{'customdata': 'School:'}]}
         )
     ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20'}),
     html.Div([
@@ -100,19 +99,14 @@ def update_graph(xaxis_column_name, yaxis_column_name,
                  xaxis_type, yaxis_type,
                  year_value):
     dff = df[df['Year'] == year_value]
-    #dff2 = enroll[enroll['Year'] == year_value]
 
     fig = px.scatter(x=dff[dff['Indicator Name'] == xaxis_column_name]['Value'],
             y=dff[dff['Indicator Name'] == yaxis_column_name]['Value'],
             hover_name=dff[dff['Indicator Name'] == yaxis_column_name]['neighborhood']
             )
-
     fig.update_traces(customdata=dff[dff['Indicator Name'] == yaxis_column_name]['neighborhood'])
-
     fig.update_xaxes(title=xaxis_column_name, type='linear' if xaxis_type == 'Linear' else 'log')
-
     fig.update_yaxes(title=yaxis_column_name, type='linear' if yaxis_type == 'Linear' else 'log')
-
     fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
 
     return fig
@@ -134,38 +128,39 @@ def create_time_series(dff, title):
 @app.callback(
     dash.dependencies.Output('x-time-series', 'figure'),
     [dash.dependencies.Input('crossfilter-indicator-scatter', 'hoverData')])
-def update_y_timeseries(hoverData):
+def update_x_timeseries(hoverData):
     neighborhood_name = hoverData['points'][0]['customdata']
-    #schools = areas[areas['neighborhood'] == neighborhood_name].loc[0]+',end'
-    test = df[df['neighborhood']==neighborhood_name].copy()
-    elem_school = test['main elementary'].loc[0]
+    mydf = df[df['neighborhood']==neighborhood_name].copy()
+    #elem_school = mydf['elementary'].loc[0].split(',')[0]
+    #elem_school = 'Lowell'
+    elem_school = mydf['main elementary'].unique()[0]
     dff = enroll[enroll['Indicator Name'] == 'Enrollment'].copy()
     dff = dff[dff['School Name']==elem_school]
     title = neighborhood_name+' '+ elem_school
     #return create_time_series(dff, title)
     #using from create_time_series above
-    fig = px.scatter(dff, x='Year', y='Value')
-    fig.update_traces(mode='lines+markers')
-    fig.update_xaxes(showgrid=False)
-    fig.update_yaxes(type='linear')
-    fig.add_annotation(x=0, y=0.85, xanchor='left', yanchor='bottom',
-                           xref='paper', yref='paper', showarrow=False, align='left',
-                           text = title)
-    fig.update_layout(height=225, margin={'l': 20, 'b': 30, 'r': 10, 't': 10})
-    return fig
-
+    #fig = px.scatter(dff, x='Year', y='Value')
+    #fig.update_traces(mode='lines+markers')
+    #fig.update_xaxes(showgrid=False)
+    #fig.update_yaxes(type='linear')
+    #fig.add_annotation(x=0, y=0.85, xanchor='left', yanchor='bottom',
+    #                       xref='paper', yref='paper', showarrow=False, align='left',
+    #                       text = title)
+    #fig.update_layout(height=225, margin={'l': 20, 'b': 30, 'r': 10, 't': 10})
+    #return fig
+    return create_time_series(dff, title)
 
 @app.callback(
     dash.dependencies.Output('y-time-series', 'figure'),
     [dash.dependencies.Input('crossfilter-indicator-scatter', 'hoverData')])
-def update_x_timeseries(hoverData):
+def update_y_timeseries(hoverData):
     #get neighborhood name from the hover data on the main figure
     neighborhood_name = hoverData['points'][0]['customdata']
     #use neighborhood_name to get the school_name from the areas dataframe
     #school_name = areas[areas['neighborhood']==neighborhood_name]['elementary'].loc[0].split(',')[0]
-    school_name = df[df['neighborhood']==neighborhood_name]['main elementary'].loc[0]
+    school_name = df[df['neighborhood']==neighborhood_name]['main elementary'].unique()[0]
     # get the enrollment data for this school_name
-    school_name = 'Sand Point'
+    school_name = 'TOTAL'
     dff = enroll[enroll['Indicator Name']=='Enrollment'].copy()
     dff = dff[dff['School Name']==school_name]
 
