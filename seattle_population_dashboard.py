@@ -18,7 +18,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # read in our data
-df = pd.read_csv('./data/dashdata/dash-data-combined.csv')
+df = pd.read_csv('./data/dashdata/dash-data-combinedages.csv')
 
 # instantiate the Dash class
 app = dash.Dash(__name__)
