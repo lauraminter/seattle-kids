@@ -455,35 +455,35 @@
 67,Whitman ,Salmon Bay,2014,Enrollment,673.0
 68,Whitman ,Viewlands,2014,Enrollment,358.0
 69,Whitman ,Whittier,2014,Enrollment,468.0
-70,Middle Schools ,Aki Kurose,2014,Enrollment,730.0
-71,Middle Schools ,Denny Intl,2014,Enrollment,912.0
-72,Middle Schools ,Eckstein,2014,Enrollment,881.0
-73,Middle Schools ,Hamilton Intl,2014,Enrollment,956.0
-74,Middle Schools ,Jane Addams,2014,Enrollment,728.0
-75,Middle Schools ,Madison,2014,Enrollment,764.0
-76,Middle Schools ,McClure,2014,Enrollment,540.0
-77,Middle Schools ,Mercer,2014,Enrollment,1074.0
-78,Middle Schools ,Washington,2014,Enrollment,1137.0
-79,Middle Schools ,Whitman,2014,Enrollment,906.0
-80,High Schools ,Ballard,2014,Enrollment,1634.0
-81,High Schools ,Center School,2014,Enrollment,276.0
-82,High Schools ,Chief Sealth Intl,2014,Enrollment,1212.0
-83,High Schools ,Cleveland,2014,Enrollment,820.0
-84,High Schools ,Franklin,2014,Enrollment,1336.0
-85,High Schools ,Garfield,2014,Enrollment,1586.0
-86,High Schools ,Ingraham,2014,Enrollment,1203.0
-87,High Schools ,Nathan Hale,2014,Enrollment,1141.0
-88,High Schools ,Nova,2014,Enrollment,341.0
-89,High Schools ,Rainier Beach,2014,Enrollment,600.0
-90,High Schools ,Roosevelt,2014,Enrollment,1695.0
-91,High Schools ,West Seattle,2014,Enrollment,998.0
-92,Service Schools ,Cascade Parent Partnership Program,2014,Enrollment,146.0
-93,Service Schools ,Education Service Ctrs,2014,Enrollment,13.0
-94,Service Schools ,InterAgency,2014,Enrollment,406.0
-95,Service Schools ,Middle College,2014,Enrollment,206.0
-96,Service Schools ,Seattle World School,2014,Enrollment,244.0
-97,Service Schools ,South Lake,2014,Enrollment,111.0
-98,Service Schools ,SpEd Consortium,2014,Enrollment,133.0
+70,Middle Schools,Aki Kurose,2014,Enrollment,730.0
+71,Middle Schools,Denny Intl,2014,Enrollment,912.0
+72,Middle Schools,Eckstein,2014,Enrollment,881.0
+73,Middle Schools,Hamilton Intl,2014,Enrollment,956.0
+74,Middle Schools,Jane Addams,2014,Enrollment,728.0
+75,Middle Schools,Madison,2014,Enrollment,764.0
+76,Middle Schools,McClure,2014,Enrollment,540.0
+77,Middle Schools,Mercer,2014,Enrollment,1074.0
+78,Middle Schools,Washington,2014,Enrollment,1137.0
+79,Middle Schools,Whitman,2014,Enrollment,906.0
+80,High Schools,Ballard,2014,Enrollment,1634.0
+81,High Schools,Center School,2014,Enrollment,276.0
+82,High Schools,Chief Sealth Intl,2014,Enrollment,1212.0
+83,High Schools,Cleveland,2014,Enrollment,820.0
+84,High Schools,Franklin,2014,Enrollment,1336.0
+85,High Schools,Garfield,2014,Enrollment,1586.0
+86,High Schools,Ingraham,2014,Enrollment,1203.0
+87,High Schools,Nathan Hale,2014,Enrollment,1141.0
+88,High Schools,Nova,2014,Enrollment,341.0
+89,High Schools,Rainier Beach,2014,Enrollment,600.0
+90,High Schools,Roosevelt,2014,Enrollment,1695.0
+91,High Schools,West Seattle,2014,Enrollment,998.0
+92,Service Schools,Cascade Parent Partnership Program,2014,Enrollment,146.0
+93,Service Schools,Education Service Ctrs,2014,Enrollment,13.0
+94,Service Schools,InterAgency,2014,Enrollment,406.0
+95,Service Schools,Middle College,2014,Enrollment,206.0
+96,Service Schools,Seattle World School,2014,Enrollment,244.0
+97,Service Schools,South Lake,2014,Enrollment,111.0
+98,Service Schools,SpEd Consortium,2014,Enrollment,133.0
 99,All,TOTAL,2014,Enrollment,51988.0
 0,Aki Kurose,Dunlap,2015,Enrollment,300.0
 1,Aki Kurose,Emerson,2015,Enrollment,314.0
@@ -1572,35 +1572,35 @@
 67,Whitman ,Salmon Bay,2014,Change,-2.0
 68,Whitman ,Viewlands,2014,Change,44.0
 69,Whitman ,Whittier,2014,Change,-8.0
-70,Middle Schools ,Aki Kurose,2014,Change,-11.0
-71,Middle Schools ,Denny Intl,2014,Change,-32.0
-72,Middle Schools ,Eckstein,2014,Change,-339.0
-73,Middle Schools ,Hamilton Intl,2014,Change,-152.0
-74,Middle Schools ,Jane Addams,2014,Change,728.0
-75,Middle Schools ,Madison,2014,Change,-13.0
-76,Middle Schools ,McClure,2014,Change,20.0
-77,Middle Schools ,Mercer,2014,Change,107.0
-78,Middle Schools ,Washington,2014,Change,-28.0
-79,Middle Schools ,Whitman,2014,Change,-49.0
-80,High Schools ,Ballard,2014,Change,52.0
-81,High Schools ,Center School,2014,Change,-7.0
-82,High Schools ,Chief Sealth Intl,2014,Change,-37.0
-83,High Schools ,Cleveland,2014,Change,-23.0
-84,High Schools ,Franklin,2014,Change,-37.0
-85,High Schools ,Garfield,2014,Change,-18.0
-86,High Schools ,Ingraham,2014,Change,129.0
-87,High Schools ,Nathan Hale,2014,Change,22.0
-88,High Schools ,Nova,2014,Change,10.0
-89,High Schools ,Rainier Beach,2014,Change,116.0
-90,High Schools ,Roosevelt,2014,Change,-17.0
-91,High Schools ,West Seattle,2014,Change,34.0
-92,Service Schools ,Cascade Parent Partnership Program,2014,Change,0.0
-93,Service Schools ,Education Service Ctrs,2014,Change,-2.0
-94,Service Schools ,InterAgency,2014,Change,-60.0
-95,Service Schools ,Middle College,2014,Change,43.0
-96,Service Schools ,Seattle World School,2014,Change,20.0
-97,Service Schools ,South Lake,2014,Change,4.0
-98,Service Schools ,SpEd Consortium,2014,Change,-5.0
+70,Middle Schools,Aki Kurose,2014,Change,-11.0
+71,Middle Schools,Denny Intl,2014,Change,-32.0
+72,Middle Schools,Eckstein,2014,Change,-339.0
+73,Middle Schools,Hamilton Intl,2014,Change,-152.0
+74,Middle Schools,Jane Addams,2014,Change,728.0
+75,Middle Schools,Madison,2014,Change,-13.0
+76,Middle Schools,McClure,2014,Change,20.0
+77,Middle Schools,Mercer,2014,Change,107.0
+78,Middle Schools,Washington,2014,Change,-28.0
+79,Middle Schools,Whitman,2014,Change,-49.0
+80,High Schools,Ballard,2014,Change,52.0
+81,High Schools,Center School,2014,Change,-7.0
+82,High Schools,Chief Sealth Intl,2014,Change,-37.0
+83,High Schools,Cleveland,2014,Change,-23.0
+84,High Schools,Franklin,2014,Change,-37.0
+85,High Schools,Garfield,2014,Change,-18.0
+86,High Schools,Ingraham,2014,Change,129.0
+87,High Schools,Nathan Hale,2014,Change,22.0
+88,High Schools,Nova,2014,Change,10.0
+89,High Schools,Rainier Beach,2014,Change,116.0
+90,High Schools,Roosevelt,2014,Change,-17.0
+91,High Schools,West Seattle,2014,Change,34.0
+92,Service Schools,Cascade Parent Partnership Program,2014,Change,0.0
+93,Service Schools,Education Service Ctrs,2014,Change,-2.0
+94,Service Schools,InterAgency,2014,Change,-60.0
+95,Service Schools,Middle College,2014,Change,43.0
+96,Service Schools,Seattle World School,2014,Change,20.0
+97,Service Schools,South Lake,2014,Change,4.0
+98,Service Schools,SpEd Consortium,2014,Change,-5.0
 99,All,TOTAL,2014,Change,978.0
 0,Aki Kurose,Dunlap,2015,Change,-80.0
 1,Aki Kurose,Emerson,2015,Change,40.0
