@@ -1,0 +1,1118 @@
+,Service Area,School Name,Enrollment,Change,Year
+0,Aki Kurose,Martin Luther King Jr.,369.0,-27.0,2010
+1,Aki Kurose,Dunlap,414.0,7.0,2010
+2,Aki Kurose,Emerson,376.0,-11.0,2010
+3,Aki Kurose,Graham Hill,400.0,15.0,2010
+4,Aki Kurose,South Shore,601.0,80.0,2010
+5,Aki Kurose,Wing Luke,357.0,-7.0,2010
+6,Denny,Arbor Heights,376.0,33.0,2010
+7,Denny,Concord Intl,373.0,30.0,2010
+8,Denny,Highland Park,420.0,5.0,2010
+9,Denny,Roxhill,334.0,22.0,2010
+10,Denny,Sanislo,315.0,-10.0,2010
+11,Denny,West Seattle Elem,360.0,28.0,2010
+12,Eckstein,AS #1,150.0,-39.0,2010
+13,Eckstein,Bryant,570.0,33.0,2010
+14,Eckstein,Green Lake,285.0,0.0,2010
+15,Eckstein,Jane Addams,448.0,103.0,2010
+16,Eckstein,John Rogers,280.0,-40.0,2010
+17,Eckstein,Olympic Hills,269.0,-14.0,2010
+18,Eckstein,Olympic View,487.0,11.0,2010
+19,Eckstein,Sacajawea,273.0,-37.0,2010
+20,Eckstein,Sand Point,79.0,79.0,2010
+21,Eckstein,Thornton Creek,349.0,18.0,2010
+22,Eckstein,View Ridge,546.0,46.0,2010
+23,Eckstein,Wedgwood,449.0,14.0,2010
+24,Hamilton,B. F. Day,331.0,6.0,2010
+25,Hamilton,J. Stanford Intl,426.0,29.0,2010
+26,Hamilton,Laurelhurst,437.0,-27.0,2010
+27,Hamilton,McDonald Intl,57.0,57.0,2010
+28,Hamilton,West Woodland,459.0,17.0,2010
+29,Madison,Alki,363.0,0.0,2010
+30,Madison,Gatewood,462.0,44.0,2010
+31,Madison,Lafayette,526.0,4.0,2010
+32,Madison,Pathfinder,492.0,30.0,2010
+33,Madison,Schmitz Park,414.0,59.0,2010
+34,McClure,Catharine Blaine,548.0,5.0,2010
+35,McClure,Coe,433.0,-44.0,2010
+36,McClure,John Hay,487.0,20.0,2010
+37,McClure,Lawton,436.0,5.0,2010
+38,McClure,Queen Anne,113.0,113.0,2010
+39,Mercer,Beacon Hill Intl,448.0,7.0,2010
+40,Mercer,Dearborn Park,358.0,-6.0,2010
+41,Mercer,Hawthorne,299.0,15.0,2010
+42,Mercer,Kimball,497.0,11.0,2010
+43,Mercer,Maple,463.0,-8.0,2010
+44,Mercer,Orca,508.0,22.0,2010
+45,Mercer,Van Asselt,553.0,3.0,2010
+46,Washington,Gatzert,349.0,46.0,2010
+47,Washington,John Muir,416.0,50.0,2010
+48,Washington,Leschi,350.0,2.0,2010
+49,Washington,Lowell,545.0,104.0,2010
+50,Washington,Madrona,356.0,-96.0,2010
+51,Washington,McGilvra,269.0,12.0,2010
+52,Washington,Montlake,251.0,11.0,2010
+53,Washington,Stevens,383.0,40.0,2010
+54,Washington,T. Marshall,411.0,-36.0,2010
+55,Washington,TOPS,510.0,-7.0,2010
+56,Whitman,Adams,433.0,20.0,2010
+57,Whitman,Broadview-Thomson,746.0,-22.0,2010
+58,Whitman,Daniel Bagley,385.0,15.0,2010
+59,Whitman,Greenwood,327.0,-13.0,2010
+60,Whitman,Loyal Heights,395.0,8.0,2010
+61,Whitman,North Beach,328.0,-11.0,2010
+62,Whitman,Northgate,266.0,7.0,2010
+63,Whitman,Salmon Bay,589.0,-15.0,2010
+64,Whitman,Whittier,453.0,-1.0,2010
+65,Middle Schools,Aki Kurose,588.0,27.0,2010
+66,Middle Schools,Denny Intl,781.0,77.0,2010
+67,Middle Schools,Eckstein,1213.0,65.0,2010
+68,Middle Schools,Hamilton Intl,853.0,7.0,2010
+69,Middle Schools,Madison,849.0,-57.0,2010
+70,Middle Schools,McClure,514.0,-38.0,2010
+71,Middle Schools,Mercer,807.0,71.0,2010
+72,Middle Schools,Washington,1061.0,42.0,2010
+73,Middle Schools,Whitman,954.0,33.0,2010
+74,High Schools,Ballard,1610.0,-22.0,2010
+75,High Schools,Center School,299.0,9.0,2010
+76,High Schools,Chief Sealth Intl,1078.0,82.0,2010
+77,High Schools,Cleveland,738.0,43.0,2010
+78,High Schools,Franklin,1301.0,66.0,2010
+79,High Schools,Garfield,1788.0,146.0,2010
+80,High Schools,Ingraham,970.0,-81.0,2010
+81,High Schools,Nathan Hale,1129.0,40.0,2010
+82,High Schools,Nova,332.0,-17.0,2010
+83,High Schools,Rainier Beach,425.0,-75.0,2010
+84,High Schools,Roosevelt,1685.0,32.0,2010
+85,High Schools,West Seattle,1016.0,-121.0,2010
+86,Service Schools,Ed. Serv. Center,49.0,-41.0,2010
+87,Service Schools,Home School,154.0,-30.0,2010
+88,Service Schools,InterAgency,366.0,-48.0,2010
+89,Service Schools,Middle College,174.0,35.0,2010
+90,Service Schools,Secondary BOC,212.0,-9.0,2010
+91,Service Schools,South Lake,165.0,28.0,2010
+92,Service Schools,SpEd Consortium,145.0,-15.0,2010
+93,All,TOTAL,47008.0,1064.0,2010
+0,Aki Kurose,Martin Luther King Jr.,349.0,-20.0,2011
+1,Aki Kurose,Dunlap,364.0,-50.0,2011
+2,Aki Kurose,Emerson,324.0,-52.0,2011
+3,Aki Kurose,Graham Hill,388.0,-12.0,2011
+4,Aki Kurose,Rainier View,169.0,169.0,2011
+5,Aki Kurose,South Shore,594.0,-7.0,2011
+6,Aki Kurose,Wing Luke,351.0,-6.0,2011
+7,Denny,Arbor Heights,363.0,-13.0,2011
+8,Denny,Concord Intl,391.0,18.0,2011
+9,Denny,Highland Park,434.0,14.0,2011
+10,Denny,Roxhill,377.0,43.0,2011
+11,Denny,Sanislo,302.0,-13.0,2011
+12,Denny,West Seattle Elem,406.0,46.0,2011
+13,Eckstein,Bryant,548.0,-22.0,2011
+14,Eckstein,Green Lake,264.0,-21.0,2011
+15,Eckstein,Jane Addams,533.0,85.0,2011
+16,Eckstein,John Rogers,247.0,-33.0,2011
+17,Eckstein,Olympic Hills,267.0,-2.0,2011
+18,Eckstein,Olympic View,469.0,-18.0,2011
+19,Eckstein,Pinehurst,143.0,-7.0,2011
+20,Eckstein,Sacajawea,260.0,-13.0,2011
+21,Eckstein,Sand Point,202.0,123.0,2011
+22,Eckstein,Thornton Creek,371.0,22.0,2011
+23,Eckstein,View Ridge,590.0,44.0,2011
+24,Eckstein,Wedgwood,446.0,-3.0,2011
+25,Hamilton,B. F. Day,321.0,-10.0,2011
+26,Hamilton,J. Stanford Intl,460.0,34.0,2011
+27,Hamilton,Laurelhurst,420.0,-17.0,2011
+28,Hamilton,McDonald Intl,187.0,130.0,2011
+29,Hamilton,West Woodland,473.0,14.0,2011
+30,Madison,Alki,355.0,-8.0,2011
+31,Madison,Gatewood,484.0,22.0,2011
+32,Madison,Lafayette,547.0,21.0,2011
+33,Madison,Pathfinder,490.0,-2.0,2011
+34,Madison,Schmitz Park,463.0,49.0,2011
+35,McClure,Catharine Blaine,581.0,33.0,2011
+36,McClure,Coe,423.0,-10.0,2011
+37,McClure,John Hay,530.0,43.0,2011
+38,McClure,Lawton,440.0,4.0,2011
+39,McClure,Queen Anne,223.0,110.0,2011
+40,Mercer,Beacon Hill Intl,452.0,4.0,2011
+41,Mercer,Dearborn Park,309.0,-49.0,2011
+42,Mercer,Hawthorne,296.0,-3.0,2011
+43,Mercer,Kimball,471.0,-26.0,2011
+44,Mercer,Maple,480.0,17.0,2011
+45,Mercer,Orca,489.0,-19.0,2011
+46,Mercer,Van Asselt,532.0,-21.0,2011
+47,Washington,Gatzert,371.0,22.0,2011
+48,Washington,John Muir,404.0,-12.0,2011
+49,Washington,Leschi,378.0,28.0,2011
+50,Washington,Lowell,616.0,71.0,2011
+51,Washington,Madrona,315.0,-41.0,2011
+52,Washington,McGilvra,298.0,29.0,2011
+53,Washington,Montlake,238.0,-13.0,2011
+54,Washington,Stevens,371.0,-12.0,2011
+55,Washington,T. Marshall,451.0,40.0,2011
+56,Washington,TOPS,501.0,-9.0,2011
+57,Whitman,Adams,473.0,40.0,2011
+58,Whitman,Broadview-Thomson,656.0,-90.0,2011
+59,Whitman,Daniel Bagley,393.0,8.0,2011
+60,Whitman,Greenwood,332.0,5.0,2011
+61,Whitman,Loyal Heights,401.0,6.0,2011
+62,Whitman,North Beach,315.0,-13.0,2011
+63,Whitman,Northgate,231.0,-35.0,2011
+64,Whitman,Salmon Bay,617.0,28.0,2011
+65,Whitman,Viewlands,176.0,176.0,2011
+66,Whitman,Whittier,460.0,7.0,2011
+67,Middle Schools,Aki Kurose,658.0,70.0,2011
+68,Middle Schools,Denny Intl,861.0,80.0,2011
+69,Middle Schools,Eckstein,1278.0,65.0,2011
+70,Middle Schools,Hamilton Intl,919.0,66.0,2011
+71,Middle Schools,Madison,828.0,-21.0,2011
+72,Middle Schools,McClure,483.0,-31.0,2011
+73,Middle Schools,Mercer,924.0,117.0,2011
+74,Middle Schools,Washington,1123.0,62.0,2011
+75,Middle Schools,Whitman,983.0,29.0,2011
+76,High Schools,Ballard,1636.0,26.0,2011
+77,High Schools,Center School,278.0,-21.0,2011
+78,High Schools,Chief Sealth Intl,1239.0,161.0,2011
+79,High Schools,Cleveland,819.0,81.0,2011
+80,High Schools,Franklin,1415.0,114.0,2011
+81,High Schools,Garfield,1721.0,-67.0,2011
+82,High Schools,Ingraham,949.0,-21.0,2011
+83,High Schools,Nathan Hale,1144.0,15.0,2011
+84,High Schools,Nova,340.0,8.0,2011
+85,High Schools,Rainier Beach,365.0,-60.0,2011
+86,High Schools,Roosevelt,1662.0,-23.0,2011
+87,High Schools,West Seattle,995.0,-21.0,2011
+88,Service Schools,Ed. Serv. Center,16.0,-33.0,2011
+89,Service Schools,Home School Resource,184.0,30.0,2011
+90,Service Schools,InterAgency,420.0,54.0,2011
+91,Service Schools,Middle College,184.0,10.0,2011
+92,Service Schools,Secondary BOC,203.0,-9.0,2011
+93,Service Schools,South Lake,143.0,-22.0,2011
+94,Service Schools,SpEd Consortium,151.0,6.0,2011
+95,All,TOTAL,48496.0,1488.0,2011
+0,Aki Kurose,Martin Luther King Jr.,362.0,13.0,2012
+1,Aki Kurose,Dunlap,376.0,12.0,2012
+2,Aki Kurose,Emerson,287.0,-37.0,2012
+3,Aki Kurose,Graham Hill,403.0,15.0,2012
+4,Aki Kurose,Rainier View,181.0,12.0,2012
+5,Aki Kurose,South Shore,621.0,27.0,2012
+6,Aki Kurose,Wing Luke,331.0,-20.0,2012
+7,Denny,Arbor Heights,337.0,-26.0,2012
+8,Denny,Concord Intl,409.0,18.0,2012
+9,Denny,Highland Park,427.0,-7.0,2012
+10,Denny,K-5 STEM at Boren,268.0,268.0,2012
+11,Denny,Roxhill,368.0,-9.0,2012
+12,Denny,Sanislo,281.0,-21.0,2012
+13,Denny,West Seattle Elem,399.0,-7.0,2012
+14,Eckstein,Bryant,579.0,31.0,2012
+15,Eckstein,Green Lake,259.0,-5.0,2012
+16,Eckstein,Jane Addams,581.0,48.0,2012
+17,Eckstein,John Rogers,307.0,60.0,2012
+18,Eckstein,Olympic Hills,271.0,4.0,2012
+19,Eckstein,Olympic View,481.0,12.0,2012
+20,Eckstein,Pinehurst,148.0,5.0,2012
+21,Eckstein,Sacajawea,260.0,0.0,2012
+22,Eckstein,Sand Point,231.0,29.0,2012
+23,Eckstein,Thornton Creek,362.0,-9.0,2012
+24,Eckstein,View Ridge,598.0,8.0,2012
+25,Eckstein,Wedgwood,471.0,25.0,2012
+26,Hamilton,APP at Lincoln,524.0,96.0,2012
+27,Hamilton,B. F. Day,336.0,15.0,2012
+28,Hamilton,J. Stanford Intl,451.0,-9.0,2012
+29,Hamilton,Laurelhurst,410.0,-10.0,2012
+30,Hamilton,McDonald Intl,277.0,90.0,2012
+31,Hamilton,West Woodland,486.0,13.0,2012
+32,Madison,Alki,357.0,2.0,2012
+33,Madison,Gatewood,461.0,-23.0,2012
+34,Madison,Lafayette,548.0,1.0,2012
+35,Madison,Pathfinder,484.0,-6.0,2012
+36,Madison,Schmitz Park,536.0,73.0,2012
+37,McClure,Catharine Blaine,621.0,40.0,2012
+38,McClure,Coe,452.0,29.0,2012
+39,McClure,John Hay,546.0,16.0,2012
+40,McClure,Lawton,433.0,-7.0,2012
+41,McClure,Queen Anne,279.0,56.0,2012
+42,Mercer,Beacon Hill Intl,461.0,9.0,2012
+43,Mercer,Dearborn Park,337.0,28.0,2012
+44,Mercer,Hawthorne,321.0,25.0,2012
+45,Mercer,Kimball,475.0,4.0,2012
+46,Mercer,Maple,473.0,-7.0,2012
+47,Mercer,Orca,492.0,3.0,2012
+48,Mercer,Van Asselt,523.0,-9.0,2012
+49,Washington,Gatzert,378.0,7.0,2012
+50,Washington,John Muir,459.0,55.0,2012
+51,Washington,Leschi,366.0,-12.0,2012
+52,Washington,Lowell,182.0,-6.0,2012
+53,Washington,Madrona,275.0,-40.0,2012
+54,Washington,McGilvra,301.0,3.0,2012
+55,Washington,Montlake,238.0,0.0,2012
+56,Washington,Stevens,377.0,6.0,2012
+57,Washington,T. Marshall,455.0,4.0,2012
+58,Washington,TOPS,498.0,-3.0,2012
+59,Whitman,Adams,482.0,9.0,2012
+60,Whitman,Broadview-Thomson,639.0,-17.0,2012
+61,Whitman,Daniel Bagley,402.0,9.0,2012
+62,Whitman,Greenwood,357.0,25.0,2012
+63,Whitman,Loyal Heights,426.0,25.0,2012
+64,Whitman,North Beach,314.0,-1.0,2012
+65,Whitman,Northgate,248.0,17.0,2012
+66,Whitman,Salmon Bay,694.0,77.0,2012
+67,Whitman,Viewlands,246.0,70.0,2012
+68,Whitman,Whittier,466.0,6.0,2012
+69,Middle Schools,Aki Kurose,743.0,85.0,2012
+70,Middle Schools,Denny Intl,896.0,35.0,2012
+71,Middle Schools,Eckstein,1298.0,20.0,2012
+72,Middle Schools,Hamilton Intl,974.0,55.0,2012
+73,Middle Schools,Madison,752.0,-76.0,2012
+74,Middle Schools,McClure,448.0,-35.0,2012
+75,Middle Schools,Mercer,983.0,59.0,2012
+76,Middle Schools,Washington,1160.0,37.0,2012
+77,Middle Schools,Whitman,971.0,-12.0,2012
+78,High Schools,Ballard,1609.0,-27.0,2012
+79,High Schools,Center School,285.0,7.0,2012
+80,High Schools,Chief Sealth Intl,1275.0,36.0,2012
+81,High Schools,Cleveland,838.0,19.0,2012
+82,High Schools,Franklin,1445.0,30.0,2012
+83,High Schools,Garfield,1669.0,-52.0,2012
+84,High Schools,Ingraham,1018.0,69.0,2012
+85,High Schools,Nathan Hale,1171.0,27.0,2012
+86,High Schools,Nova,340.0,0.0,2012
+87,High Schools,Rainier Beach,407.0,42.0,2012
+88,High Schools,Roosevelt,1691.0,29.0,2012
+89,High Schools,West Seattle,968.0,-27.0,2012
+90,Service Schools,Ed. Serv. Center,18.0,2.0,2012
+91,Service Schools,Home School Resource,182.0,-2.0,2012
+92,Service Schools,InterAgency,394.0,-26.0,2012
+93,Service Schools,Middle College,169.0,-15.0,2012
+94,Service Schools,World School,187.0,-16.0,2012
+95,Service Schools,South Lake,127.0,-16.0,2012
+96,Service Schools,SpEd Consortium,162.0,11.0,2012
+97,All,TOTAL,49864.0,1368.0,2012
+0,Aki Kurose,Dunlap,362.0,-14.0,2013
+1,Aki Kurose,Emerson,285.0,-2.0,2013
+2,Aki Kurose,Graham Hill,398.0,-5.0,2013
+3,Aki Kurose,Martin Luther King Jr.,363.0,1.0,2013
+4,Aki Kurose,Rainier View,201.0,20.0,2013
+5,Aki Kurose,South Shore,625.0,4.0,2013
+6,Aki Kurose,Wing Luke,350.0,19.0,2013
+7,Denny,Arbor Heights,364.0,27.0,2013
+8,Denny,Concord Intl,394.0,-15.0,2013
+9,Denny,Highland Park,419.0,-8.0,2013
+10,Denny,K-5 STEM at Boren,327.0,59.0,2013
+11,Denny,Roxhill,377.0,9.0,2013
+12,Denny,Sanislo,273.0,-8.0,2013
+13,Denny,West Seattle Elem,424.0,25.0,2013
+14,Eckstein,Bryant,594.0,15.0,2013
+15,Eckstein,Green Lake,257.0,-2.0,2013
+16,Eckstein,Jane Addams,737.0,156.0,2013
+17,Eckstein,John Rogers,323.0,16.0,2013
+18,Eckstein,Laurelhurst,427.0,17.0,2013
+19,Eckstein,Olympic Hills,297.0,26.0,2013
+20,Eckstein,Olympic View,465.0,-16.0,2013
+21,Eckstein,Pinehurst,152.0,4.0,2013
+22,Eckstein,Sacajawea,252.0,-8.0,2013
+23,Eckstein,Sand Point,271.0,40.0,2013
+24,Eckstein,Thornton Creek,389.0,27.0,2013
+25,Eckstein,View Ridge,601.0,3.0,2013
+26,Eckstein,Wedgwood,482.0,11.0,2013
+27,Hamilton,APP at Lincoln,598.0,74.0,2013
+28,Hamilton,B. F. Day,324.0,-12.0,2013
+29,Hamilton,J. Stanford Intl,458.0,7.0,2013
+30,Hamilton,McDonald Intl,365.0,88.0,2013
+31,Hamilton,West Woodland,519.0,33.0,2013
+32,Madison,Alki,384.0,27.0,2013
+33,Madison,Gatewood,500.0,39.0,2013
+34,Madison,Lafayette,571.0,23.0,2013
+35,Madison,Pathfinder,502.0,18.0,2013
+36,Madison,Schmitz Park,584.0,48.0,2013
+37,McClure,Catharine Blaine,642.0,21.0,2013
+38,McClure,Coe,508.0,56.0,2013
+39,McClure,John Hay,547.0,1.0,2013
+40,McClure,Lawton,422.0,-11.0,2013
+41,McClure,Queen Anne,338.0,59.0,2013
+42,Mercer,Beacon Hill Intl,465.0,4.0,2013
+43,Mercer,Dearborn Park,349.0,12.0,2013
+44,Mercer,Hawthorne,348.0,27.0,2013
+45,Mercer,Kimball,447.0,-28.0,2013
+46,Mercer,Maple,453.0,-20.0,2013
+47,Mercer,Orca,484.0,-8.0,2013
+48,Mercer,Van Asselt,531.0,8.0,2013
+49,Washington,Gatzert,374.0,-4.0,2013
+50,Washington,John Muir,450.0,-9.0,2013
+51,Washington,Leschi,379.0,13.0,2013
+52,Washington,Lowell,208.0,26.0,2013
+53,Washington,Madrona,285.0,10.0,2013
+54,Washington,McGilvra,289.0,-12.0,2013
+55,Washington,Montlake,232.0,-6.0,2013
+56,Washington,Stevens,406.0,29.0,2013
+57,Washington,T. Marshall,496.0,41.0,2013
+58,Washington,TOPS,500.0,2.0,2013
+59,Whitman,Adams,515.0,33.0,2013
+60,Whitman,Broadview-Thomson,661.0,22.0,2013
+61,Whitman,Daniel Bagley,399.0,-3.0,2013
+62,Whitman,Greenwood,367.0,10.0,2013
+63,Whitman,Loyal Heights,440.0,14.0,2013
+64,Whitman,North Beach,306.0,-8.0,2013
+65,Whitman,Northgate,216.0,-32.0,2013
+66,Whitman,Salmon Bay,675.0,-19.0,2013
+67,Whitman,Viewlands,314.0,68.0,2013
+68,Whitman,Whittier,476.0,10.0,2013
+69,Middle Schools,Aki Kurose,741.0,-2.0,2013
+70,Middle Schools,Denny Intl,944.0,48.0,2013
+71,Middle Schools,Eckstein,1220.0,-78.0,2013
+72,Middle Schools,Hamilton Intl,1108.0,134.0,2013
+73,Middle Schools,Madison,777.0,25.0,2013
+74,Middle Schools,McClure,520.0,72.0,2013
+75,Middle Schools,Mercer,967.0,-16.0,2013
+76,Middle Schools,Washington,1165.0,5.0,2013
+77,Middle Schools,Whitman,955.0,-16.0,2013
+78,High Schools,Ballard,1582.0,-27.0,2013
+79,High Schools,Center School,283.0,-2.0,2013
+80,High Schools,Chief Sealth Intl,1249.0,-26.0,2013
+81,High Schools,Cleveland,843.0,5.0,2013
+82,High Schools,Franklin,1373.0,-72.0,2013
+83,High Schools,Garfield,1604.0,-65.0,2013
+84,High Schools,Ingraham,1074.0,56.0,2013
+85,High Schools,Nathan Hale,1119.0,-52.0,2013
+86,High Schools,Nova,331.0,-9.0,2013
+87,High Schools,Rainier Beach,484.0,77.0,2013
+88,High Schools,Roosevelt,1712.0,21.0,2013
+89,High Schools,West Seattle,964.0,-4.0,2013
+90,Service Schools,Ed. Serv. Center,15.0,-3.0,2013
+91,Service Schools,Home School Resource,146.0,-36.0,2013
+92,Service Schools,InterAgency,466.0,72.0,2013
+93,Service Schools,Middle College,163.0,-6.0,2013
+94,Service Schools,World School,224.0,37.0,2013
+95,Service Schools,South Lake,107.0,-20.0,2013
+96,Service Schools,SpEd Consortium,138.0,-24.0,2013
+97,All,TOTAL,51010.0,1146.0,2013
+0,Aki Kurose ,Dunlap,380.0,18.0,2014
+1,Aki Kurose ,Emerson,274.0,-11.0,2014
+2,Aki Kurose ,Graham Hill,385.0,-13.0,2014
+3,Aki Kurose ,Martin Luther King Jr.,367.0,4.0,2014
+4,Aki Kurose ,Rainier View,188.0,-13.0,2014
+5,Aki Kurose ,South Shore,641.0,16.0,2014
+6,Aki Kurose ,Wing Luke,348.0,-2.0,2014
+7,Denny ,Arbor Heights,371.0,7.0,2014
+8,Denny ,Concord Intl,412.0,18.0,2014
+9,Denny ,Highland Park,363.0,-56.0,2014
+10,Denny ,K-5 STEM at Boren,354.0,27.0,2014
+11,Denny ,Roxhill,372.0,-5.0,2014
+12,Denny ,Sanislo,280.0,7.0,2014
+13,Denny ,West Seattle Elem,421.0,-3.0,2014
+14,Eckstein ,Bryant,589.0,-5.0,2014
+15,Eckstein ,Hazel Wolf K-8,711.0,-26.0,2014
+16,Eckstein ,Laurelhurst,421.0,-6.0,2014
+17,Eckstein ,Olympic View,472.0,7.0,2014
+18,Eckstein ,Sand Point,259.0,-12.0,2014
+19,Eckstein ,Thornton Creek,402.0,13.0,2014
+20,Eckstein ,View Ridge,588.0,-13.0,2014
+21,Eckstein ,Wedgwood,469.0,-13.0,2014
+22,Hamilton ,APP at Lincoln,686.0,88.0,2014
+23,Hamilton ,B. F. Day,324.0,0.0,2014
+24,Hamilton ,Green Lake,296.0,39.0,2014
+25,Hamilton ,J. Stanford Intl,469.0,11.0,2014
+26,Hamilton ,Licton Springs K-8,116.0,-36.0,2014
+27,Hamilton ,McDonald Intl,408.0,43.0,2014
+28,Hamilton ,West Woodland,520.0,1.0,2014
+29,Jane Addams,John Rogers,352.0,29.0,2014
+30,Jane Addams,Olympic Hills,300.0,3.0,2014
+31,Jane Addams,Sacajawea,242.0,-10.0,2014
+32,Madison,Alki,410.0,26.0,2014
+33,Madison,Fairmount Park,364.0,364.0,2014
+34,Madison,Gatewood,405.0,-95.0,2014
+35,Madison,Lafayette,505.0,-66.0,2014
+36,Madison,Pathfinder,505.0,3.0,2014
+37,Madison,Schmitz Park,606.0,22.0,2014
+38,McClure,Catharine Blaine,673.0,31.0,2014
+39,McClure,Coe,500.0,-8.0,2014
+40,McClure,John Hay,518.0,-29.0,2014
+41,McClure,Lawton,419.0,-3.0,2014
+42,McClure,Queen Anne,398.0,60.0,2014
+43,Mercer ,Beacon Hill Intl,479.0,14.0,2014
+44,Mercer ,Dearborn Park,370.0,21.0,2014
+45,Mercer ,Hawthorne,362.0,14.0,2014
+46,Mercer ,Kimball,436.0,-11.0,2014
+47,Mercer ,Maple,469.0,16.0,2014
+48,Mercer ,Orca,475.0,-9.0,2014
+49,Mercer ,Van Asselt,524.0,-7.0,2014
+50,Washington ,Bailey Gatzert,337.0,-37.0,2014
+51,Washington ,John Muir,439.0,-11.0,2014
+52,Washington ,Leschi,382.0,3.0,2014
+53,Washington ,Lowell,266.0,58.0,2014
+54,Washington ,Madrona,290.0,5.0,2014
+55,Washington ,McGilvra,286.0,-3.0,2014
+56,Washington ,Montlake,251.0,19.0,2014
+57,Washington ,Stevens,365.0,-41.0,2014
+58,Washington ,T. Marshall,500.0,4.0,2014
+59,Washington ,TOPS,493.0,-7.0,2014
+60,Whitman ,Adams,533.0,18.0,2014
+61,Whitman ,Broadview-Thomson,671.0,10.0,2014
+62,Whitman ,Daniel Bagley,429.0,30.0,2014
+63,Whitman ,Greenwood,369.0,2.0,2014
+64,Whitman ,Loyal Heights,450.0,10.0,2014
+65,Whitman ,North Beach,294.0,-12.0,2014
+66,Whitman ,Northgate,207.0,-9.0,2014
+67,Whitman ,Salmon Bay,673.0,-2.0,2014
+68,Whitman ,Viewlands,358.0,44.0,2014
+69,Whitman ,Whittier,468.0,-8.0,2014
+70,Middle Schools,Aki Kurose,730.0,-11.0,2014
+71,Middle Schools,Denny Intl,912.0,-32.0,2014
+72,Middle Schools,Eckstein,881.0,-339.0,2014
+73,Middle Schools,Hamilton Intl,956.0,-152.0,2014
+74,Middle Schools,Jane Addams,728.0,728.0,2014
+75,Middle Schools,Madison,764.0,-13.0,2014
+76,Middle Schools,McClure,540.0,20.0,2014
+77,Middle Schools,Mercer,1074.0,107.0,2014
+78,Middle Schools,Washington,1137.0,-28.0,2014
+79,Middle Schools,Whitman,906.0,-49.0,2014
+80,High Schools,Ballard,1634.0,52.0,2014
+81,High Schools,Center School,276.0,-7.0,2014
+82,High Schools,Chief Sealth Intl,1212.0,-37.0,2014
+83,High Schools,Cleveland,820.0,-23.0,2014
+84,High Schools,Franklin,1336.0,-37.0,2014
+85,High Schools,Garfield,1586.0,-18.0,2014
+86,High Schools,Ingraham,1203.0,129.0,2014
+87,High Schools,Nathan Hale,1141.0,22.0,2014
+88,High Schools,Nova,341.0,10.0,2014
+89,High Schools,Rainier Beach,600.0,116.0,2014
+90,High Schools,Roosevelt,1695.0,-17.0,2014
+91,High Schools,West Seattle,998.0,34.0,2014
+92,Service Schools,Cascade Parent Partnership Program,146.0,0.0,2014
+93,Service Schools,Education Service Ctrs,13.0,-2.0,2014
+94,Service Schools,InterAgency,406.0,-60.0,2014
+95,Service Schools,Middle College,206.0,43.0,2014
+96,Service Schools,Seattle World School,244.0,20.0,2014
+97,Service Schools,South Lake,111.0,4.0,2014
+98,Service Schools,SpEd Consortium,133.0,-5.0,2014
+99,All,TOTAL,51988.0,978.0,2014
+0,Aki Kurose,Dunlap,300.0,-80.0,2015
+1,Aki Kurose,Emerson,314.0,40.0,2015
+2,Aki Kurose,Graham Hill,351.0,-34.0,2015
+3,Aki Kurose,Martin Luther King Jr.,323.0,-44.0,2015
+4,Aki Kurose,Rainier View,236.0,48.0,2015
+5,Aki Kurose,South Shore,618.0,-23.0,2015
+6,Aki Kurose,Wing Luke,361.0,13.0,2015
+7,Denny,Arbor Heights,408.0,37.0,2015
+8,Denny,Concord Intl,401.0,-11.0,2015
+9,Denny,Highland Park,355.0,-8.0,2015
+10,Denny,Roxhill,305.0,-67.0,2015
+11,Denny,STEM K-8,405.0,51.0,2015
+12,Denny,West Seattle Elem,416.0,-5.0,2015
+13,Eckstein,Bryant,592.0,3.0,2015
+14,Eckstein,Green Lake,334.0,38.0,2015
+15,Eckstein,Hazel Wolf K-8,756.0,45.0,2015
+16,Eckstein,Laurelhurst,432.0,11.0,2015
+17,Eckstein,Olympic View,453.0,-19.0,2015
+18,Eckstein,Sand Point,256.0,-3.0,2015
+19,Eckstein,Thornton Creek,415.0,13.0,2015
+20,Eckstein,View Ridge,591.0,3.0,2015
+21,Eckstein,Wedgwood,482.0,13.0,2015
+22,Hamilton,B. F. Day,285.0,-39.0,2015
+23,Hamilton,Cascadia,753.0,67.0,2015
+24,Hamilton,J. Stanford Intl,457.0,-12.0,2015
+25,Hamilton,Licton Springs K-8,138.0,22.0,2015
+26,Hamilton,McDonald Intl,453.0,45.0,2015
+27,Hamilton,West Woodland,532.0,12.0,2015
+28,Jane Addams,John Rogers,390.0,38.0,2015
+29,Jane Addams,Olympic Hills,294.0,-6.0,2015
+30,Jane Addams,Sacajawea,232.0,-10.0,2015
+31,Madison,Alki,413.0,3.0,2015
+32,Madison,Fairmount Park,474.0,110.0,2015
+33,Madison,Gatewood,430.0,25.0,2015
+34,Madison,Lafayette,480.0,-25.0,2015
+35,Madison,Pathfinder,506.0,1.0,2015
+36,Madison,Sanislo,273.0,-7.0,2015
+37,Madison,Schmitz Park,643.0,37.0,2015
+38,McClure,Catharine Blaine,736.0,63.0,2015
+39,McClure,Coe,545.0,45.0,2015
+40,McClure,John Hay,500.0,-18.0,2015
+41,McClure,Lawton,426.0,7.0,2015
+42,McClure,Queen Anne,428.0,30.0,2015
+43,Mercer,Beacon Hill Intl,459.0,-20.0,2015
+44,Mercer,Dearborn Park,373.0,3.0,2015
+45,Mercer,Hawthorne,391.0,29.0,2015
+46,Mercer,Kimball,429.0,-7.0,2015
+47,Mercer,Maple,480.0,11.0,2015
+48,Mercer,Orca,415.0,-60.0,2015
+49,Mercer,Van Asselt,511.0,-13.0,2015
+50,Washington,Bailey Gatzert,295.0,-42.0,2015
+51,Washington,John Muir,396.0,-43.0,2015
+52,Washington,Leschi,368.0,-14.0,2015
+53,Washington,Lowell,314.0,48.0,2015
+54,Washington,Madrona,289.0,-1.0,2015
+55,Washington,McGilvra,275.0,-11.0,2015
+56,Washington,Montlake,264.0,13.0,2015
+57,Washington,Stevens,337.0,-28.0,2015
+58,Washington,T. Marshall,528.0,28.0,2015
+59,Washington,TOPS,484.0,-9.0,2015
+60,Whitman,Adams,544.0,11.0,2015
+61,Whitman,Broadview-Thomson,612.0,-59.0,2015
+62,Whitman,Daniel Bagley,432.0,3.0,2015
+63,Whitman,Greenwood,346.0,-23.0,2015
+64,Whitman,Loyal Heights,427.0,-23.0,2015
+65,Whitman,North Beach,293.0,-1.0,2015
+66,Whitman,Northgate,242.0,35.0,2015
+67,Whitman,Salmon Bay,670.0,-3.0,2015
+68,Whitman,Viewlands,383.0,25.0,2015
+69,Whitman,Whittier,469.0,1.0,2015
+70,Middle Schools,Aki Kurose,720.0,-10.0,2015
+71,Middle Schools,Denny Intl,864.0,-48.0,2015
+72,Middle Schools,Eckstein,907.0,26.0,2015
+73,Middle Schools,Hamilton Intl,1098.0,142.0,2015
+74,Middle Schools,Jane Addams,825.0,97.0,2015
+75,Middle Schools,Madison,777.0,13.0,2015
+76,Middle Schools,McClure,554.0,14.0,2015
+77,Middle Schools,Mercer,1101.0,27.0,2015
+78,Middle Schools,Washington,1079.0,-58.0,2015
+79,Middle Schools,Whitman,860.0,-46.0,2015
+80,High Schools,Ballard,1665.0,31.0,2015
+81,High Schools,Center School,263.0,-13.0,2015
+82,High Schools,Chief Sealth Intl,1147.0,-65.0,2015
+83,High Schools,Cleveland,834.0,14.0,2015
+84,High Schools,Franklin,1290.0,-46.0,2015
+85,High Schools,Garfield,1672.0,86.0,2015
+86,High Schools,Ingraham,1211.0,8.0,2015
+87,High Schools,Nathan Hale,1175.0,34.0,2015
+88,High Schools,Nova,344.0,3.0,2015
+89,High Schools,Rainier Beach,655.0,55.0,2015
+90,High Schools,Roosevelt,1689.0,-6.0,2015
+91,High Schools,West Seattle,934.0,-64.0,2015
+92,Service Schools,Bridges Transition Program,85.0,,2015
+93,Service Schools,Cascade Parent Partnership Program,151.0,5.0,2015
+94,Service Schools,Education Service Ctrs,15.0,2.0,2015
+95,Service Schools,InterAgency,352.0,-54.0,2015
+96,Service Schools,Middle College,128.0,-78.0,2015
+97,Service Schools,Seattle World School,209.0,-35.0,2015
+98,Service Schools,South Lake,98.0,-13.0,2015
+99,Service Schools,SpEd Consortium,104.0,-29.0,2015
+100,All,TOTAL,52324.0,251.0,2015
+0,Aki Kurose,Dunlap,284.0,,2016
+1,Aki Kurose,Emerson,287.0,,2016
+2,Aki Kurose,Graham Hill,352.0,,2016
+3,Aki Kurose,Martin Luther King Jr.,292.0,,2016
+4,Aki Kurose,Rainier View,226.0,,2016
+5,Aki Kurose,South Shore,613.0,,2016
+6,Aki Kurose,Wing Luke,356.0,,2016
+7,Denny,Arbor Heights,459.0,,2016
+8,Denny,Concord Intl,356.0,,2016
+9,Denny,Highland Park,357.0,,2016
+10,Denny,Roxhill,299.0,,2016
+11,Denny,Sanislo,257.0,,2016
+12,Denny,STEM K-8,470.0,,2016
+13,Denny,West Seattle Elem,443.0,,2016
+14,Eagle Staff,Broadview-Thomson,613.0,,2016
+15,Eagle Staff,Cascadia,754.0,,2016
+16,Eagle Staff,Daniel Bagley,427.0,,2016
+17,Eagle Staff,Greenwood,349.0,,2016
+18,Eagle Staff,Licton Springs K-8,131.0,,2016
+19,Eagle Staff,Northgate,282.0,,2016
+20,Eagle Staff,Olympic View,494.0,,2016
+21,Eckstein,Bryant,594.0,,2016
+23,Eckstein,Green Lake,421.0,,2016
+24,Eckstein,Laurelhurst,403.0,,2016
+25,Eckstein,Sand Point,224.0,,2016
+26,Eckstein,Thornton Creek,459.0,,2016
+27,Eckstein,View Ridge,571.0,,2016
+28,Eckstein,Wedgwood,480.0,,2016
+29,Hamilton,B. F. Day,290.0,,2016
+30,Hamilton,J. Stanford Intl,431.0,,2016
+31,Hamilton,McDonald Intl,457.0,,2016
+32,Hamilton,West Woodland,545.0,,2016
+34,Jane Addams,Hazel Wolf K-8,713.0,,2016
+35,Jane Addams,John Rogers,366.0,,2016
+36,Jane Addams,Olympic Hills,353.0,,2016
+37,Jane Addams,Sacajawea,247.0,,2016
+38,Madison,Alki,380.0,,2016
+39,Madison,Fairmount Park,518.0,,2016
+40,Madison,Gatewood,388.0,,2016
+41,Madison,Genesee Hill,691.0,,2016
+42,Madison,Lafayette,448.0,,2016
+43,Madison,Pathfinder,492.0,,2016
+44,McClure,Catharine Blaine,771.0,,2016
+45,McClure,Coe,560.0,,2016
+46,McClure,John Hay,499.0,,2016
+47,McClure,Lawton,443.0,,2016
+48,McClure,Queen Anne,418.0,,2016
+49,Meany,Leschi,401.0,,2016
+50,Meany,Lowell,330.0,,2016
+51,Meany,Madrona,297.0,,2016
+52,Meany,McGilvra,282.0,,2016
+53,Meany,Montlake,264.0,,2016
+54,Meany,Stevens,300.0,,2016
+55,Meany,TOPS,471.0,,2016
+56,Mercer,Beacon Hill Intl,422.0,,2016
+57,Mercer,Dearborn Park,354.0,,2016
+58,Mercer,Hawthorne,385.0,,2016
+59,Mercer,Kimball,414.0,,2016
+60,Mercer,Maple,502.0,,2016
+61,Mercer,Orca,371.0,,2016
+62,Mercer,Van Asselt,474.0,,2016
+63,Washington,Bailey Gatzert,302.0,,2016
+64,Washington,John Muir,402.0,,2016
+65,Washington,T. Marshall,544.0,,2016
+66,Whitman,Adams,573.0,,2016
+67,Whitman,Loyal Heights,411.0,,2016
+68,Whitman,North Beach,319.0,,2016
+69,Whitman,Salmon Bay,658.0,,2016
+70,Whitman,Viewlands,377.0,,2016
+71,Whitman,Whittier,477.0,,2016
+72,Middle Schools,Aki Kurose,741.0,,2016
+73,Middle Schools,Denny Intl,827.0,,2016
+75,Middle Schools,Eckstein,980.0,,2016
+76,Middle Schools,Hamilton Intl,1203.0,,2016
+77,Middle Schools,Jane Addams,930.0,,2016
+78,Middle Schools,Madison,866.0,,2016
+79,Middle Schools,McClure,552.0,,2016
+81,Middle Schools,Mercer,1181.0,,2016
+82,Middle Schools,Washington,1090.0,,2016
+83,Middle Schools,Whitman,855.0,,2016
+84,High Schools,Ballard,1798.0,,2016
+85,High Schools,Center School,221.0,,2016
+86,High Schools,Chief Sealth Intl,1090.0,,2016
+87,High Schools,Cleveland,844.0,,2016
+88,High Schools,Franklin,1237.0,,2016
+89,High Schools,Garfield,1716.0,,2016
+90,High Schools,Ingraham,1305.0,,2016
+91,High Schools,Nathan Hale,1147.0,,2016
+92,High Schools,Rainier Beach,680.0,,2016
+93,High Schools,Roosevelt,1715.0,,2016
+94,High Schools,West Seattle,949.0,,2016
+95,Service Schools,Bridges Transition Program,97.0,,2016
+96,Service Schools,Cascade Parent Partnership Program,158.0,,2016
+97,Service Schools,In Tandem,7.0,,2016
+98,Service Schools,InterAgency,394.0,,2016
+99,Service Schools,Middle College,128.0,,2016
+100,Service Schools,Non Public Agencies,22.0,,2016
+101,Service Schools,Nova**,337.0,,2016
+102,Service Schools,Seattle World School,277.0,,2016
+103,Service Schools,South Lake,76.0,,2016
+104,Service Schools,SpEd Consortium,86.0,,2016
+105,All,TOTAL,53102.0,,2016
+0,Aki Kurose,Dunlap,270.0,-14.0,2017
+1,Aki Kurose,Emerson,322.0,35.0,2017
+2,Aki Kurose,Graham Hill,358.0,6.0,2017
+3,Aki Kurose,Martin Luther King Jr.,278.0,-14.0,2017
+4,Aki Kurose,Rainier View,243.0,17.0,2017
+5,Aki Kurose,South Shore,520.0,-93.0,2017
+6,Aki Kurose,Wing Luke,337.0,-19.0,2017
+7,Denny,Arbor Heights,521.0,62.0,2017
+8,Denny,Concord Intl,347.0,-9.0,2017
+9,Denny,Highland Park,319.0,-38.0,2017
+10,Denny,Roxhill,270.0,-29.0,2017
+11,Denny,Sanislo,236.0,-21.0,2017
+12,Denny,STEM K-8,535.0,65.0,2017
+13,Denny,West Seattle Elem,434.0,-9.0,2017
+14,Eagle Staff,Broadview-Thomson,531.0,-82.0,2017
+15,Eagle Staff,Cascadia,525.0,-229.0,2017
+16,Eagle Staff,Daniel Bagley,426.0,-1.0,2017
+17,Eagle Staff,Greenwood,345.0,-4.0,2017
+18,Eagle Staff,Licton Springs K-8,164.0,33.0,2017
+19,Eagle Staff,Northgate,255.0,-27.0,2017
+20,Eagle Staff,Olympic View,449.0,-45.0,2017
+21,Eckstein,Bryant,587.0,-7.0,2017
+22,Eckstein,Decatur,242.0,242.0,2017
+23,Eckstein,Green Lake,433.0,12.0,2017
+24,Eckstein,Laurelhurst,354.0,-49.0,2017
+25,Eckstein,Sand Point,203.0,-21.0,2017
+26,Eckstein,Thornton Creek,521.0,62.0,2017
+27,Eckstein,View Ridge,550.0,-21.0,2017
+28,Eckstein,Wedgwood,480.0,0.0,2017
+29,Hamilton,B. F. Day,283.0,-7.0,2017
+30,Hamilton,J. Stanford Intl,452.0,21.0,2017
+31,Hamilton,McDonald Intl,464.0,7.0,2017
+32,Hamilton,West Woodland,565.0,20.0,2017
+33,Jane Addams,Cedar Park,55.0,55.0,2017
+34,Jane Addams,Hazel Wolf K-8,736.0,23.0,2017
+35,Jane Addams,John Rogers,349.0,-17.0,2017
+36,Jane Addams,Olympic Hills,381.0,28.0,2017
+37,Jane Addams,Sacajawea,236.0,-11.0,2017
+38,Madison,Alki,373.0,-7.0,2017
+39,Madison,Fairmount Park,537.0,19.0,2017
+40,Madison,Gatewood,376.0,-12.0,2017
+41,Madison,Genesee Hill,718.0,27.0,2017
+42,Madison,Lafayette,394.0,-54.0,2017
+43,Madison,Pathfinder,487.0,-5.0,2017
+44,McClure,Catharine Blaine,781.0,10.0,2017
+45,McClure,Coe,560.0,0.0,2017
+46,McClure,John Hay,491.0,-8.0,2017
+47,McClure,Lawton,453.0,10.0,2017
+48,McClure,Queen Anne,352.0,-66.0,2017
+49,Meany,Leschi,402.0,1.0,2017
+50,Meany,Lowell,358.0,28.0,2017
+51,Meany,Madrona,234.0,-63.0,2017
+52,Meany,McGilvra,242.0,-40.0,2017
+53,Meany,Montlake,269.0,5.0,2017
+54,Meany,Stevens,287.0,-13.0,2017
+55,Meany,TOPS,471.0,0.0,2017
+56,Mercer,Beacon Hill Intl,417.0,-5.0,2017
+57,Mercer,Dearborn Park,352.0,-2.0,2017
+58,Mercer,Hawthorne,407.0,22.0,2017
+59,Mercer,Kimball,443.0,29.0,2017
+60,Mercer,Maple,532.0,30.0,2017
+61,Mercer,Orca,391.0,20.0,2017
+62,Mercer,Van Asselt,428.0,-46.0,2017
+63,Washington,Bailey Gatzert,284.0,-18.0,2017
+64,Washington,John Muir,367.0,-35.0,2017
+65,Washington,T. Marshall,575.0,31.0,2017
+66,Whitman,Adams,551.0,-22.0,2017
+67,Whitman,Loyal Heights,398.0,-13.0,2017
+68,Whitman,North Beach,328.0,9.0,2017
+69,Whitman,Salmon Bay,659.0,1.0,2017
+70,Whitman,Viewlands,399.0,22.0,2017
+71,Whitman,Whittier,495.0,18.0,2017
+72,Middle Schools,Aki Kurose,686.0,-55.0,2017
+73,Middle Schools,Denny Intl,835.0,8.0,2017
+74,Middle Schools,Eagle Staff,716.0,716.0,2017
+75,Middle Schools,Eckstein,967.0,-13.0,2017
+76,Middle Schools,Hamilton Intl,986.0,-217.0,2017
+77,Middle Schools,Jane Addams,916.0,-14.0,2017
+78,Middle Schools,Madison,881.0,15.0,2017
+79,Middle Schools,McClure,540.0,-12.0,2017
+80,Middle Schools,Meany,492.0,492.0,2017
+81,Middle Schools,Mercer,1136.0,-45.0,2017
+82,Middle Schools,Washington,712.0,-378.0,2017
+83,Middle Schools,Whitman,566.0,-289.0,2017
+84,High Schools,Ballard,1882.0,84.0,2017
+85,High Schools,Center School,229.0,8.0,2017
+86,High Schools,Chief Sealth Intl,1015.0,-75.0,2017
+87,High Schools,Cleveland,849.0,5.0,2017
+88,High Schools,Franklin,1284.0,47.0,2017
+89,High Schools,Garfield,1774.0,58.0,2017
+90,High Schools,Ingraham,1342.0,37.0,2017
+91,High Schools,Nathan Hale,1189.0,42.0,2017
+92,High Schools,Rainier Beach,721.0,41.0,2017
+93,High Schools,Roosevelt,1840.0,125.0,2017
+94,High Schools,West Seattle,970.0,21.0,2017
+95,Service Schools,Bridges Transition Program,137.0,40.0,2017
+96,Service Schools,Cascade Parent Partnership Program,174.0,16.0,2017
+97,Service Schools,In Tandem,4.0,-3.0,2017
+98,Service Schools,InterAgency,347.0,-47.0,2017
+99,Service Schools,Middle College,69.0,-59.0,2017
+100,Service Schools,Non Public Agencies,18.0,-4.0,2017
+101,Service Schools,Nova**,312.0,-25.0,2017
+102,Service Schools,Seattle World School,272.0,-5.0,2017
+103,Service Schools,South Lake,58.0,-18.0,2017
+104,Service Schools,SpEd Consortium,74.0,-12.0,2017
+105,All,TOTAL,53380.0,278.0,2017
+0,Aki Kurose,Dunlap,244.0,-26.0,2018
+1,Aki Kurose,Emerson,335.0,13.0,2018
+2,Aki Kurose,Graham Hill,322.0,-36.0,2018
+3,Aki Kurose,Martin Luther King Jr.,276.0,-2.0,2018
+4,Aki Kurose,Rainier View,237.0,-6.0,2018
+5,Aki Kurose,South Shore,531.0,11.0,2018
+6,Aki Kurose,Wing Luke,333.0,-4.0,2018
+7,Denny,Arbor Heights,548.0,27.0,2018
+8,Denny,Concord Intl,360.0,13.0,2018
+9,Denny,Highland Park,314.0,-5.0,2018
+10,Denny,Roxhill,259.0,-11.0,2018
+11,Denny,Sanislo,218.0,-18.0,2018
+12,Denny,STEM K-8,538.0,3.0,2018
+13,Denny,West Seattle Elem,428.0,-6.0,2018
+14,Eagle Staff,Broadview-Thomson,503.0,-28.0,2018
+15,Eagle Staff,Cascadia,512.0,-13.0,2018
+16,Eagle Staff,Daniel Bagley,403.0,-23.0,2018
+17,Eagle Staff,Greenwood,327.0,-18.0,2018
+18,Eagle Staff,Licton Springs K-8,175.0,11.0,2018
+19,Eagle Staff,Northgate,207.0,-48.0,2018
+20,Eagle Staff,Olympic View,440.0,-9.0,2018
+21,Eckstein,Bryant,556.0,-31.0,2018
+22,Eckstein,Decatur,246.0,4.0,2018
+23,Eckstein,Green Lake,443.0,10.0,2018
+24,Eckstein,Laurelhurst,342.0,-12.0,2018
+25,Eckstein,Sand Point,171.0,-32.0,2018
+26,Eckstein,Thornton Creek,570.0,49.0,2018
+27,Eckstein,View Ridge,514.0,-36.0,2018
+28,Eckstein,Wedgwood,478.0,-2.0,2018
+29,Hamilton,B. F. Day,312.0,29.0,2018
+30,Hamilton,J. Stanford Intl,468.0,16.0,2018
+31,Hamilton,McDonald Intl,480.0,16.0,2018
+32,Hamilton,West Woodland,539.0,-26.0,2018
+33,Jane Addams,Cedar Park,114.0,59.0,2018
+34,Jane Addams,Hazel Wolf K-8,739.0,3.0,2018
+35,Jane Addams,John Rogers,343.0,-6.0,2018
+36,Jane Addams,Olympic Hills,443.0,62.0,2018
+37,Jane Addams,Sacajawea,227.0,-9.0,2018
+38,Madison,Alki,368.0,-5.0,2018
+39,Madison,Fairmount Park,525.0,-12.0,2018
+40,Madison,Gatewood,396.0,20.0,2018
+41,Madison,Genesee Hill,678.0,-40.0,2018
+42,Madison,Lafayette,415.0,21.0,2018
+43,Madison,Pathfinder,489.0,2.0,2018
+44,McClure,Catharine Blaine,759.0,-22.0,2018
+45,McClure,Coe,535.0,-25.0,2018
+46,McClure,John Hay,481.0,-10.0,2018
+47,McClure,Lawton,468.0,15.0,2018
+48,McClure,Queen Anne,292.0,-60.0,2018
+49,Meany,Leschi,376.0,-26.0,2018
+50,Meany,Lowell,272.0,-86.0,2018
+51,Meany,Madrona,244.0,10.0,2018
+52,Meany,McGilvra,247.0,5.0,2018
+53,Meany,Montlake,252.0,-17.0,2018
+54,Meany,Stevens,246.0,-41.0,2018
+55,Meany,TOPS,484.0,13.0,2018
+56,Mercer,Beacon Hill Intl,413.0,-4.0,2018
+57,Mercer,Dearborn Park,322.0,-30.0,2018
+58,Mercer,Hawthorne,402.0,-5.0,2018
+59,Mercer,Kimball,440.0,-3.0,2018
+60,Mercer,Maple,546.0,14.0,2018
+61,Mercer,Orca,394.0,3.0,2018
+62,Mercer,Van Asselt,402.0,-26.0,2018
+63,Washington,Bailey Gatzert,279.0,-5.0,2018
+64,Washington,John Muir,342.0,-25.0,2018
+65,Washington,T. Marshall,496.0,-79.0,2018
+66,Whitman,Adams,535.0,-16.0,2018
+67,Whitman,Loyal Heights,449.0,51.0,2018
+68,Whitman,North Beach,370.0,42.0,2018
+69,Whitman,Salmon Bay,654.0,-5.0,2018
+70,Whitman,Viewlands,363.0,-36.0,2018
+71,Whitman,Whittier,441.0,-54.0,2018
+72,Middle Schools,Aki Kurose,664.0,-22.0,2018
+73,Middle Schools,Denny Intl,866.0,31.0,2018
+74,Middle Schools,Eagle Staff,838.0,122.0,2018
+75,Middle Schools,Eckstein,1037.0,70.0,2018
+76,Middle Schools,Hamilton Intl,1030.0,44.0,2018
+77,Middle Schools,Jane Addams,936.0,20.0,2018
+78,Middle Schools,Madison,951.0,70.0,2018
+79,Middle Schools,McClure,537.0,-3.0,2018
+80,Middle Schools,Meany,498.0,6.0,2018
+81,Middle Schools,Mercer,1146.0,10.0,2018
+82,Middle Schools,Washington,669.0,-43.0,2018
+83,Middle Schools,Whitman,574.0,8.0,2018
+84,High Schools,Ballard,1971.0,89.0,2018
+85,High Schools,Center School,233.0,4.0,2018
+86,High Schools,Chief Sealth Intl,994.0,-21.0,2018
+87,High Schools,Cleveland,848.0,-1.0,2018
+88,High Schools,Franklin,1178.0,-106.0,2018
+89,High Schools,Garfield,1658.0,-116.0,2018
+90,High Schools,Ingraham,1346.0,4.0,2018
+91,High Schools,Nathan Hale,1137.0,-52.0,2018
+92,High Schools,Rainier Beach,740.0,19.0,2018
+93,High Schools,Roosevelt,1877.0,37.0,2018
+94,High Schools,West Seattle,960.0,-10.0,2018
+95,Service Schools,Bridges Transition Program,125.0,-12.0,2018
+96,Service Schools,Cascade Parent Partnership Program,169.0,-5.0,2018
+97,Service Schools,In Tandem,12.0,8.0,2018
+98,Service Schools,InterAgency,360.0,13.0,2018
+99,Service Schools,Middle College,45.0,-24.0,2018
+100,Service Schools,Non Public Agencies,28.0,10.0,2018
+101,Service Schools,Nova,266.0,-46.0,2018
+102,Service Schools,Seattle World School,241.0,-31.0,2018
+103,Service Schools,South Lake,59.0,1.0,2018
+104,Service Schools,SpEd Consortium,68.0,-6.0,2018
+105,All,TOTAL,52931.0,-449.0,2018
+0,Aki Kurose,Dunlap,269.0,25.0,2019
+1,Aki Kurose,Emerson,341.0,6.0,2019
+2,Aki Kurose,Graham Hill,331.0,9.0,2019
+3,Aki Kurose,Martin Luther King Jr.,276.0,0.0,2019
+4,Aki Kurose,Rainier View,244.0,7.0,2019
+5,Aki Kurose,South Shore,550.0,19.0,2019
+6,Aki Kurose,Wing Luke,311.0,-22.0,2019
+7,Denny,Arbor Heights,565.0,17.0,2019
+8,Denny,Concord Intl,325.0,-35.0,2019
+9,Denny,Highland Park,314.0,0.0,2019
+10,Denny,Roxhill,249.0,-10.0,2019
+11,Denny,Sanislo,218.0,0.0,2019
+12,Denny,STEM K-8,542.0,4.0,2019
+13,Denny,West Seattle Elem,430.0,2.0,2019
+14,Eagle Staff,Broadview-Thomson,570.0,67.0,2019
+15,Eagle Staff,Cascadia,506.0,-6.0,2019
+16,Eagle Staff,Daniel Bagley,389.0,-14.0,2019
+17,Eagle Staff,Greenwood,321.0,-6.0,2019
+18,Eagle Staff,Licton Springs K-8,164.0,-11.0,2019
+19,Eagle Staff,Northgate,217.0,10.0,2019
+20,Eagle Staff,Olympic View,455.0,15.0,2019
+21,Eckstein,Bryant,582.0,26.0,2019
+22,Eckstein,Decatur,231.0,-15.0,2019
+23,Eckstein,Green Lake,427.0,-16.0,2019
+24,Eckstein,Laurelhurst,298.0,-44.0,2019
+25,Eckstein,Sand Point,192.0,21.0,2019
+26,Eckstein,Thornton Creek,543.0,-27.0,2019
+27,Eckstein,View Ridge,473.0,-41.0,2019
+28,Eckstein,Wedgwood,463.0,-15.0,2019
+29,Hamilton,B. F. Day,374.0,62.0,2019
+30,Hamilton,J. Stanford Intl,466.0,-2.0,2019
+31,Hamilton,McDonald Intl,478.0,-2.0,2019
+32,Hamilton,West Woodland,539.0,0.0,2019
+33,Jane Addams,Cedar Park,149.0,35.0,2019
+34,Jane Addams,Hazel Wolf K-8,726.0,-13.0,2019
+35,Jane Addams,John Rogers,325.0,-18.0,2019
+36,Jane Addams,Olympic Hills,451.0,8.0,2019
+37,Jane Addams,Sacajawea,229.0,2.0,2019
+38,Madison,Alki,359.0,-9.0,2019
+39,Madison,Fairmount Park,509.0,-16.0,2019
+40,Madison,Gatewood,401.0,5.0,2019
+41,Madison,Genesee Hill,650.0,-28.0,2019
+42,Madison,Lafayette,425.0,10.0,2019
+43,Madison,Pathfinder,494.0,5.0,2019
+44,McClure,Catharine Blaine,629.0,-130.0,2019
+45,McClure,Coe,553.0,18.0,2019
+46,McClure,John Hay,497.0,16.0,2019
+47,McClure,Lawton,413.0,-55.0,2019
+48,McClure,Magnolia,276.0,276.0,2019
+49,McClure,Queen Anne,222.0,-70.0,2019
+50,Meany,Leschi,358.0,-18.0,2019
+51,Meany,Lowell,273.0,1.0,2019
+52,Meany,Madrona,261.0,17.0,2019
+53,Meany,McGilvra,238.0,-9.0,2019
+54,Meany,Montlake,251.0,-1.0,2019
+55,Meany,Stevens,229.0,-17.0,2019
+56,Meany,TOPS,491.0,7.0,2019
+57,Mercer,Beacon Hill Intl,418.0,5.0,2019
+58,Mercer,Dearborn Park,327.0,5.0,2019
+59,Mercer,Hawthorne,430.0,28.0,2019
+60,Mercer,Kimball,435.0,-5.0,2019
+61,Mercer,Maple,537.0,-9.0,2019
+62,Mercer,Orca,401.0,7.0,2019
+63,Mercer,Rising Star,401.0,-1.0,2019
+64,Washington,Bailey Gatzert,304.0,25.0,2019
+65,Washington,John Muir,325.0,-17.0,2019
+66,Washington,T. Marshall,478.0,-18.0,2019
+67,Whitman,Adams,500.0,-35.0,2019
+68,Whitman,Loyal Heights,462.0,13.0,2019
+69,Whitman,North Beach,389.0,19.0,2019
+70,Whitman,Salmon Bay,675.0,21.0,2019
+71,Whitman,Viewlands,369.0,6.0,2019
+72,Whitman,Whittier,444.0,3.0,2019
+73,Middle Schools,Aki Kurose,656.0,-8.0,2019
+74,Middle Schools,Denny Intl,839.0,-27.0,2019
+75,Middle Schools,Eagle Staff,811.0,-27.0,2019
+76,Middle Schools,Eckstein,1089.0,52.0,2019
+77,Middle Schools,Hamilton Intl,1047.0,17.0,2019
+78,Middle Schools,Jane Addams,998.0,62.0,2019
+79,Middle Schools,Madison,989.0,38.0,2019
+80,Middle Schools,McClure,534.0,-3.0,2019
+81,Middle Schools,Meany,516.0,18.0,2019
+82,Middle Schools,Mercer,1115.0,-31.0,2019
+83,Middle Schools,Washington,606.0,-63.0,2019
+84,Middle Schools,Whitman,636.0,62.0,2019
+85,High Schools,Ballard,1781.0,-190.0,2019
+86,High Schools,Center School,242.0,9.0,2019
+87,High Schools,Chief Sealth Intl,1008.0,14.0,2019
+88,High Schools,Cleveland,867.0,19.0,2019
+89,High Schools,Franklin,1194.0,16.0,2019
+90,High Schools,Garfield,1632.0,-26.0,2019
+91,High Schools,Ingraham,1433.0,87.0,2019
+92,High Schools,Lincoln,590.0,590.0,2019
+93,High Schools,Nathan Hale,1095.0,-42.0,2019
+94,High Schools,Rainier Beach,717.0,-23.0,2019
+95,High Schools,Roosevelt,1741.0,-136.0,2019
+96,High Schools,West Seattle,1050.0,90.0,2019
+97,Service Schools,Bridges Transition Program,130.0,5.0,2019
+98,Service Schools,Cascade Parent Partnership Program,179.0,10.0,2019
+99,Service Schools,In Tandem,16.0,4.0,2019
+100,Service Schools,InterAgency,384.0,24.0,2019
+101,Service Schools,Middle College,72.0,27.0,2019
+102,Service Schools,Non Public Agencies,35.0,7.0,2019
+103,Service Schools,Nova,212.0,-54.0,2019
+104,Service Schools,Seattle World School,345.0,104.0,2019
+105,Service Schools,South Lake,51.0,-8.0,2019
+106,Service Schools,SpEd Consortium,60.0,-8.0,2019
+107,All,TOTAL,53627.0,696.0,2019
+0,Aki Kurose,Dunlap,253.0,-16.0,2020
+1,Aki Kurose,Emerson,339.0,-2.0,2020
+2,Aki Kurose,Graham Hill,299.0,-32.0,2020
+3,Aki Kurose,Martin Luther King Jr.,264.0,-12.0,2020
+4,Aki Kurose,Rainier View,230.0,-14.0,2020
+5,Aki Kurose,South Shore,561.0,11.0,2020
+6,Aki Kurose,Wing Luke,300.0,-11.0,2020
+7,Denny,Arbor Heights,536.0,-29.0,2020
+8,Denny,Concord Intl,315.0,-10.0,2020
+9,Denny,Highland Park,306.0,-8.0,2020
+10,Denny,Roxhill,237.0,-12.0,2020
+11,Denny,Sanislo,195.0,-23.0,2020
+12,Denny,STEM K-8,525.0,-17.0,2020
+13,Denny,West Seattle Elem,389.0,-41.0,2020
+14,Eagle Staff,Broadview-Thomson,577.0,7.0,2020
+15,Eagle Staff,Cascadia,504.0,-2.0,2020
+16,Eagle Staff,Daniel Bagley,369.0,-20.0,2020
+17,Eagle Staff,Greenwood,309.0,-12.0,2020
+18,Eagle Staff,Licton Springs K-8,132.0,-32.0,2020
+19,Eagle Staff,Northgate,195.0,-22.0,2020
+20,Eagle Staff,Olympic View,399.0,-56.0,2020
+21,Eckstein,Bryant,520.0,-62.0,2020
+22,Eckstein,Decatur,212.0,-19.0,2020
+23,Eckstein,Green Lake,350.0,-77.0,2020
+24,Eckstein,Laurelhurst,268.0,-30.0,2020
+25,Eckstein,Sand Point,202.0,10.0,2020
+26,Eckstein,Thornton Creek,544.0,1.0,2020
+27,Eckstein,View Ridge,421.0,-52.0,2020
+28,Eckstein,Wedgwood,410.0,-53.0,2020
+29,Hamilton,B. F. Day,363.0,-11.0,2020
+30,Hamilton,J. Stanford Intl,461.0,-5.0,2020
+31,Hamilton,McDonald Intl,475.0,-3.0,2020
+32,Hamilton,West Woodland,473.0,-66.0,2020
+33,Jane Addams   Cedar Park,Cedar Park,187.0,38.0,2020
+34,Jane Addams   Cedar Park,Hazel Wolf K-8,747.0,21.0,2020
+35,Jane Addams   Cedar Park,John Rogers,289.0,-36.0,2020
+36,Jane Addams   Cedar Park,Olympic Hills,457.0,6.0,2020
+37,Jane Addams   Cedar Park,Sacajawea,198.0,-31.0,2020
+38,Madison,Alki,325.0,-34.0,2020
+39,Madison,Fairmount Park,459.0,-50.0,2020
+40,Madison,Gatewood,363.0,-38.0,2020
+41,Madison,Genesee Hill,591.0,-59.0,2020
+42,Madison,Lafayette,414.0,-11.0,2020
+43,Madison,Pathfinder,494.0,0.0,2020
+44,McClure,Catharine Blaine,533.0,-96.0,2020
+45,McClure,Coe,498.0,-55.0,2020
+46,McClure,John Hay,383.0,-114.0,2020
+47,McClure,Lawton,351.0,-62.0,2020
+48,McClure,Magnolia,288.0,12.0,2020
+49,McClure,Queen Anne,231.0,9.0,2020
+50,Meany,Leschi,338.0,-20.0,2020
+51,Meany,Lowell,263.0,-10.0,2020
+52,Meany,Madrona,251.0,-10.0,2020
+53,Meany,McGilvra,226.0,-12.0,2020
+54,Meany,Montlake,233.0,-18.0,2020
+55,Meany,Stevens,197.0,-32.0,2020
+56,Meany,TOPS,485.0,-6.0,2020
+57,Mercer,Beacon Hill Intl,389.0,-29.0,2020
+58,Mercer,Dearborn Park,303.0,-24.0,2020
+59,Mercer,Hawthorne,422.0,-8.0,2020
+60,Mercer,Kimball,424.0,-11.0,2020
+61,Mercer,Maple,491.0,-46.0,2020
+62,Mercer,Orca,415.0,14.0,2020
+63,Mercer,Rising Star,351.0,-50.0,2020
+64,Washington,Bailey Gatzert,284.0,-20.0,2020
+65,Washington,John Muir,359.0,34.0,2020
+66,Washington,T. Marshall,448.0,-30.0,2020
+67,Whitman,Adams,428.0,-72.0,2020
+68,Whitman,Loyal Heights,470.0,8.0,2020
+69,Whitman,North Beach,357.0,-32.0,2020
+70,Whitman,Salmon Bay,662.0,-13.0,2020
+71,Whitman,Viewlands,343.0,-26.0,2020
+72,Whitman,Whittier,417.0,-27.0,2020
+73,Middle Schools,Aki Kurose,727.0,71.0,2020
+74,Middle Schools,Denny Intl,875.0,36.0,2020
+75,Middle Schools,Eagle Staff,1118.0,307.0,2020
+76,Middle Schools,Eckstein,1039.0,-50.0,2020
+77,Middle Schools,Hamilton Intl,1005.0,-42.0,2020
+78,Middle Schools,Jane Addams,1023.0,25.0,2020
+79,Middle Schools,Madison,484.0,-505.0,2020
+80,Middle Schools,McClure,487.0,-47.0,2020
+81,Middle Schools,Meany,1185.0,669.0,2020
+82,Middle Schools,Mercer,768.0,-347.0,2020
+83,Middle Schools,Washington,603.0,-3.0,2020
+84,Middle Schools,Whitman,663.0,27.0,2020
+85,High Schools,Ballard,1669.0,-112.0,2020
+86,High Schools,Center School,243.0,1.0,2020
+87,High Schools,Chief Sealth Intl,1073.0,65.0,2020
+88,High Schools,Cleveland,867.0,0.0,2020
+89,High Schools,Franklin,1196.0,2.0,2020
+90,High Schools,Garfield,1633.0,1.0,2020
+91,High Schools,Ingraham,1427.0,-6.0,2020
+92,High Schools,Lincoln,979.0,389.0,2020
+93,High Schools,Nathan Hale,1100.0,5.0,2020
+94,High Schools,Rainier Beach,787.0,70.0,2020
+95,High Schools,Roosevelt,1633.0,-108.0,2020
+96,High Schools,West Seattle,1088.0,38.0,2020
+97,Option Schools with Continuous Enrollment,Bridges Transition Program,155.0,25.0,2020
+98,Option Schools with Continuous Enrollment,Cascade Parent Partnership Program,190.0,11.0,2020
+99,Option Schools with Continuous Enrollment,In Tandem,17.0,1.0,2020
+100,Option Schools with Continuous Enrollment,InterAgency,330.0,-54.0,2020
+101,Option Schools with Continuous Enrollment,Middle College,85.0,13.0,2020
+102,Option Schools with Continuous Enrollment,Non Public Agencies,49.0,14.0,2020
+103,Option Schools with Continuous Enrollment,Nova,227.0,15.0,2020
+104,Option Schools with Continuous Enrollment,Seattle World School,284.0,-61.0,2020
+105,Option Schools with Continuous Enrollment,SpEd Consortium,37.0,-23.0,2020
+106,Option Schools with Continuous Enrollment,Sugiyama High School,38.0,-13.0,2020
+107,All,TOTAL,52381.0,-1246.0,2020

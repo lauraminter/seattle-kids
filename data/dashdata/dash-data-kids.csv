@@ -1,481 +1,513 @@
-OBJECTID,neighborhood,neighborhood_no,area,Year,Indicator Name,Value
-1,Upper Queen Anne,106,52.65872029,1990,population_kids,125.0
-2,Fremont,302,214.511083,1990,population_kids,266.0
-3,West Seattle Junction,205,270.4170255,1990,population_kids,413.0
-4,Columbia City,111,334.5433404,1990,population_kids,1335.0
-5,First Hill/Capitol Hill,414,916.2218015,1990,population_kids,1729.0
-6,Roosevelt,202,170.2117761,1990,population_kids,295.0
-7,South Lake Union,312,339.886927,1990,population_kids,80.0
-8,University District,401,751.9638778,1990,population_kids,592.0
-9,Crown Hill,103,270.9887543,1990,population_kids,579.0
-10,Westwood-Highland Park,127,275.0621961,1990,population_kids,970.0
-11,Lake City,201,142.2670425,1990,population_kids,253.0
-13,Madison-Miller,131,145.3234203,1990,population_kids,480.0
-14,Green Lake,207,107.4446385,1990,population_kids,103.0
-15,Northgate,301,412.2911233,1990,population_kids,439.0
-16,North Beacon Hill,110,266.8762908,1990,population_kids,1001.0
-18,Greenwood-Phinney Ridge,102,94.15764497,1990,population_kids,260.0
-19,Downtown,413,953.2817465,1990,population_kids,276.0
-20,Uptown,412,333.000698,1990,population_kids,172.0
-21,Rainier Beach,204,346.1438736,1990,population_kids,1159.0
-22,23rd & Union-Jackson,109,625.2664128,1990,population_kids,2036.0
-23,Bitter Lake Village,114,363.7795662,1990,population_kids,379.0
-24,Mt Baker,305,491.0180584,1990,population_kids,931.0
-25,Admiral,113,98.24835065,1990,population_kids,145.0
-26,Aurora-Licton Springs,101,326.9585992,1990,population_kids,745.0
-27,Morgan Junction,206,113.3093773,1990,population_kids,191.0
-28,Eastlake,107,199.2559558,1990,population_kids,142.0
-29,Wallingford,203,258.0056129,1990,population_kids,448.0
-30,Ballard,303,495.4763052,1990,population_kids,951.0
-31,South Park,128,263.7986201,1990,population_kids,638.0
-32,Othello,123,498.9632413,1990,population_kids,2338.0
-1,Upper Queen Anne,106,52.65872029,2000,population_kids,126.0
-2,Fremont,302,214.511083,2000,population_kids,171.0
-3,West Seattle Junction,205,270.4170255,2000,population_kids,434.0
-4,Columbia City,111,334.5433404,2000,population_kids,1423.0
-5,First Hill/Capitol Hill,414,916.2218015,2000,population_kids,1881.0
-6,Roosevelt,202,170.2117761,2000,population_kids,281.0
-7,South Lake Union,312,339.886927,2000,population_kids,122.0
-8,University District,401,751.9638778,2000,population_kids,559.0
-9,Crown Hill,103,270.9887543,2000,population_kids,644.0
-10,Westwood-Highland Park,127,275.0621961,2000,population_kids,1091.0
-11,Lake City,201,142.2670425,2000,population_kids,394.0
-13,Madison-Miller,131,145.3234203,2000,population_kids,334.0
-14,Green Lake,207,107.4446385,2000,population_kids,94.0
-15,Northgate,301,412.2911233,2000,population_kids,685.0
-16,North Beacon Hill,110,266.8762908,2000,population_kids,992.0
-18,Greenwood-Phinney Ridge,102,94.15764497,2000,population_kids,355.0
-19,Downtown,413,953.2817465,2000,population_kids,755.0
-20,Uptown,412,333.000698,2000,population_kids,147.0
-21,Rainier Beach,204,346.1438736,2000,population_kids,1193.0
-22,23rd & Union-Jackson,109,625.2664128,2000,population_kids,2103.0
-23,Bitter Lake Village,114,363.7795662,2000,population_kids,396.0
-24,Mt Baker,305,491.0180584,2000,population_kids,1016.0
-25,Admiral,113,98.24835065,2000,population_kids,159.0
-26,Aurora-Licton Springs,101,326.9585992,2000,population_kids,736.0
-27,Morgan Junction,206,113.3093773,2000,population_kids,243.0
-28,Eastlake,107,199.2559558,2000,population_kids,116.0
-29,Wallingford,203,258.0056129,2000,population_kids,477.0
-30,Ballard,303,495.4763052,2000,population_kids,892.0
-31,South Park,128,263.7986201,2000,population_kids,855.0
-32,Othello,123,498.9632413,2000,population_kids,2088.0
-1,Upper Queen Anne,106,52.65872029,2010,population_kids,136.0
-2,Fremont,302,214.511083,2010,population_kids,215.0
-3,West Seattle Junction,205,270.4170255,2010,population_kids,438.0
-4,Columbia City,111,334.5433404,2010,population_kids,968.0
-5,First Hill/Capitol Hill,414,916.2218015,2010,population_kids,1786.0
-6,Roosevelt,202,170.2117761,2010,population_kids,333.0
-7,South Lake Union,312,339.886927,2010,population_kids,158.0
-8,University District,401,751.9638778,2010,population_kids,452.0
-9,Crown Hill,103,270.9887543,2010,population_kids,747.0
-10,Westwood-Highland Park,127,275.0621961,2010,population_kids,1093.0
-11,Lake City,201,142.2670425,2010,population_kids,507.0
-13,Madison-Miller,131,145.3234203,2010,population_kids,450.0
-14,Green Lake,207,107.4446385,2010,population_kids,163.0
-15,Northgate,301,412.2911233,2010,population_kids,826.0
-16,North Beacon Hill,110,266.8762908,2010,population_kids,803.0
-18,Greenwood-Phinney Ridge,102,94.15764497,2010,population_kids,374.0
-19,Downtown,413,953.2817465,2010,population_kids,733.0
-20,Uptown,412,333.000698,2010,population_kids,222.0
-21,Rainier Beach,204,346.1438736,2010,population_kids,1087.0
-22,23rd & Union-Jackson,109,625.2664128,2010,population_kids,1813.0
-23,Bitter Lake Village,114,363.7795662,2010,population_kids,597.0
-24,Mt Baker,305,491.0180584,2010,population_kids,1046.0
-25,Admiral,113,98.24835065,2010,population_kids,198.0
-26,Aurora-Licton Springs,101,326.9585992,2010,population_kids,799.0
-27,Morgan Junction,206,113.3093773,2010,population_kids,268.0
-28,Eastlake,107,199.2559558,2010,population_kids,202.0
-29,Wallingford,203,258.0056129,2010,population_kids,701.0
-30,Ballard,303,495.4763052,2010,population_kids,964.0
-31,South Park,128,263.7986201,2010,population_kids,855.0
-32,Othello,123,498.9632413,2010,population_kids,2759.0
-1,Upper Queen Anne,106,52.65872029,2020,population_kids,201.0
-2,Fremont,302,214.511083,2020,population_kids,339.0
-3,West Seattle Junction,205,270.4170255,2020,population_kids,677.0
-4,Columbia City,111,334.5433404,2020,population_kids,1478.0
-5,First Hill/Capitol Hill,414,916.2218015,2020,population_kids,1894.0
-6,Roosevelt,202,170.2117761,2020,population_kids,465.0
-7,South Lake Union,312,339.886927,2020,population_kids,549.0
-8,University District,401,751.9638778,2020,population_kids,936.0
-9,Crown Hill,103,270.9887543,2020,population_kids,927.0
-10,Westwood-Highland Park,127,275.0621961,2020,population_kids,947.0
-11,Lake City,201,142.2670425,2020,population_kids,622.0
-13,Madison-Miller,131,145.3234203,2020,population_kids,482.0
-14,Green Lake,207,107.4446385,2020,population_kids,265.0
-15,Northgate,301,412.2911233,2020,population_kids,862.0
-16,North Beacon Hill,110,266.8762908,2020,population_kids,857.0
-18,Greenwood-Phinney Ridge,102,94.15764497,2020,population_kids,410.0
-19,Downtown,413,953.2817465,2020,population_kids,1607.0
-20,Uptown,412,333.000698,2020,population_kids,596.0
-21,Rainier Beach,204,346.1438736,2020,population_kids,1280.0
-22,23rd & Union-Jackson,109,625.2664128,2020,population_kids,1902.0
-23,Bitter Lake Village,114,363.7795662,2020,population_kids,929.0
-24,Mt Baker,305,491.0180584,2020,population_kids,1072.0
-25,Admiral,113,98.24835065,2020,population_kids,215.0
-26,Aurora-Licton Springs,101,326.9585992,2020,population_kids,828.0
-27,Morgan Junction,206,113.3093773,2020,population_kids,294.0
-28,Eastlake,107,199.2559558,2020,population_kids,340.0
-29,Wallingford,203,258.0056129,2020,population_kids,839.0
-30,Ballard,303,495.4763052,2020,population_kids,1343.0
-31,South Park,128,263.7986201,2020,population_kids,685.0
-32,Othello,123,498.9632413,2020,population_kids,2817.0
-1,Upper Queen Anne,106,52.65872029,1990,density_kids,2.3737758781756373
-2,Fremont,302,214.511083,1990,density_kids,1.240029169028996
-3,West Seattle Junction,205,270.4170255,1990,density_kids,1.5272707006386326
-4,Columbia City,111,334.5433404,1990,density_kids,3.9905143483167063
-5,First Hill/Capitol Hill,414,916.2218015,1990,density_kids,1.8870976407343218
-6,Roosevelt,202,170.2117761,1990,density_kids,1.7331350788954019
-7,South Lake Union,312,339.886927,1990,density_kids,0.23537239489061018
-8,University District,401,751.9638778,1990,density_kids,0.7872718590313116
-9,Crown Hill,103,270.9887543,1990,density_kids,2.1366200287374806
-10,Westwood-Highland Park,127,275.0621961,1990,density_kids,3.526475152722741
-11,Lake City,201,142.2670425,1990,density_kids,1.7783458175142708
-13,Madison-Miller,131,145.3234203,1990,density_kids,3.3029775861943427
-14,Green Lake,207,107.4446385,1990,density_kids,0.9586332220755716
-15,Northgate,301,412.2911233,1990,density_kids,1.06478159531115
-16,North Beacon Hill,110,266.8762908,1990,density_kids,3.7508015305494498
-18,Greenwood-Phinney Ridge,102,94.15764497,1990,density_kids,2.7613264975227425
-19,Downtown,413,953.2817465,1990,density_kids,0.2895261563680848
-20,Uptown,412,333.000698,1990,density_kids,0.516515433850532
-21,Rainier Beach,204,346.1438736,1990,density_kids,3.348318685944237
-22,23rd & Union-Jackson,109,625.2664128,1990,density_kids,3.2562120055075505
-23,Bitter Lake Village,114,363.7795662,1990,density_kids,1.0418397161748005
-24,Mt Baker,305,491.0180584,1990,density_kids,1.896060611362639
-25,Admiral,113,98.24835065,1990,density_kids,1.475851747542797
-26,Aurora-Licton Springs,101,326.9585992,1990,density_kids,2.278575947605785
-27,Morgan Junction,206,113.3093773,1990,density_kids,1.6856504249803164
-28,Eastlake,107,199.2559558,1990,density_kids,0.7126512200344477
-29,Wallingford,203,258.0056129,1990,density_kids,1.7363963324845944
-30,Ballard,303,495.4763052,1990,density_kids,1.9193652451576406
-31,South Park,128,263.7986201,1990,density_kids,2.418511513662008
-32,Othello,123,498.9632413,1990,density_kids,4.685715913478053
-1,Upper Queen Anne,106,52.65872029,2000,density_kids,2.3927660852010426
-2,Fremont,302,214.511083,2000,density_kids,0.7971616086614974
-3,West Seattle Junction,205,270.4170255,2000,density_kids,1.6049285328744953
-4,Columbia City,111,334.5433404,2000,density_kids,4.253559488879905
-5,First Hill/Capitol Hill,414,916.2218015,2000,density_kids,2.0529963344252513
-6,Roosevelt,202,170.2117761,2000,density_kids,1.6508846005749422
-7,South Lake Union,312,339.886927,2000,density_kids,0.35894290220818054
-8,University District,401,751.9638778,2000,density_kids,0.7433867722947689
-9,Crown Hill,103,270.9887543,2000,density_kids,2.376482380840997
-10,Westwood-Highland Park,127,275.0621961,2000,density_kids,3.966375661464444
-11,Lake City,201,142.2670425,2000,density_kids,2.7694397316230144
-13,Madison-Miller,131,145.3234203,2000,density_kids,2.298321903726897
-14,Green Lake,207,107.4446385,2000,density_kids,0.8748691541272207
-15,Northgate,301,412.2911233,2000,density_kids,1.6614473639820904
-16,North Beacon Hill,110,266.8762908,2000,density_kids,3.717078040264789
-18,Greenwood-Phinney Ridge,102,94.15764497,2000,density_kids,3.770272717771437
-19,Downtown,413,953.2817465,2000,density_kids,0.7920008987605218
-20,Uptown,412,333.000698,2000,density_kids,0.4414405161396989
-21,Rainier Beach,204,346.1438736,2000,density_kids,3.4465437379909183
-22,23rd & Union-Jackson,109,625.2664128,2000,density_kids,3.363366329853821
-23,Bitter Lake Village,114,363.7795662,2000,density_kids,1.0885713129425356
-24,Mt Baker,305,491.0180584,2000,density_kids,2.0691703342045558
-25,Admiral,113,98.24835065,2000,density_kids,1.6183477783400326
-26,Aurora-Licton Springs,101,326.9585992,2000,density_kids,2.251049526762225
-27,Morgan Junction,206,113.3093773,2000,density_kids,2.1445709595299314
-28,Eastlake,107,199.2559558,2000,density_kids,0.5821657853802531
-29,Wallingford,203,258.0056129,2000,density_kids,1.848796987935606
-30,Ballard,303,495.4763052,2000,density_kids,1.80028790607846
-31,South Park,128,263.7986201,2000,density_kids,3.241108689938898
-32,Othello,123,498.9632413,2000,density_kids,4.18467700057407
-1,Upper Queen Anne,106,52.65872029,2010,density_kids,2.5826681554550937
-2,Fremont,302,214.511083,2010,density_kids,1.0022792155685494
-3,West Seattle Junction,205,270.4170255,2010,density_kids,1.6197205009194215
-4,Columbia City,111,334.5433404,2010,density_kids,2.893496546195185
-5,First Hill/Capitol Hill,414,916.2218015,2010,density_kids,1.9493096508684202
-6,Roosevelt,202,170.2117761,2010,density_kids,1.9563863771937926
-7,South Lake Union,312,339.886927,2010,density_kids,0.4648604799089551
-8,University District,401,751.9638778,2010,density_kids,0.6010927031793122
-9,Crown Hill,103,270.9887543,2010,density_kids,2.7565719541742624
-10,Westwood-Highland Park,127,275.0621961,2010,density_kids,3.973646744253563
-11,Lake City,201,142.2670425,2010,density_kids,3.5637206698803765
-13,Madison-Miller,131,145.3234203,2010,density_kids,3.0965414870571966
-14,Green Lake,207,107.4446385,2010,density_kids,1.5170603417312443
-15,Northgate,301,412.2911233,2010,density_kids,2.0034387191959224
-16,North Beacon Hill,110,266.8762908,2010,density_kids,3.008884744286921
-18,Greenwood-Phinney Ridge,102,94.15764497,2010,density_kids,3.9720619618211757
-19,Downtown,413,953.2817465,2010,density_kids,0.7689227268761093
-20,Uptown,412,333.000698,2010,density_kids,0.6666652692721984
-21,Rainier Beach,204,346.1438736,2010,density_kids,3.1403126933747934
-22,23rd & Union-Jackson,109,625.2664128,2010,density_kids,2.899564030444592
-23,Bitter Lake Village,114,363.7795662,2010,density_kids,1.64110372178458
-24,Mt Baker,305,491.0180584,2010,density_kids,2.130267883442879
-25,Admiral,113,98.24835065,2010,density_kids,2.0153010069894743
-26,Aurora-Licton Springs,101,326.9585992,2010,density_kids,2.4437344726671437
-27,Morgan Junction,206,113.3093773,2010,density_kids,2.3652058319095537
-28,Eastlake,107,199.2559558,2010,density_kids,1.01377145385182
-29,Wallingford,203,258.0056129,2010,density_kids,2.716995154177903
-30,Ballard,303,495.4763052,2010,density_kids,1.9456026249547482
-31,South Park,128,263.7986201,2010,density_kids,3.241108689938898
-32,Othello,123,498.9632413,2010,density_kids,5.529465442808362
-1,Upper Queen Anne,106,52.65872029,2020,density_kids,3.8170316121064247
-2,Fremont,302,214.511083,2020,density_kids,1.5803379259429686
-3,West Seattle Junction,205,270.4170255,2020,density_kids,2.5035405916037634
-4,Columbia City,111,334.5433404,2020,density_kids,4.417962701731904
-5,First Hill/Capitol Hill,414,916.2218015,2020,density_kids,2.0671850384909227
-6,Roosevelt,202,170.2117761,2020,density_kids,2.7318908870724132
-7,South Lake Union,312,339.886927,2020,density_kids,1.6152430599368124
-8,University District,401,751.9638778,2020,density_kids,1.2447406419819387
-9,Crown Hill,103,270.9887543,2020,density_kids,3.420806159999386
-10,Westwood-Highland Park,127,275.0621961,2020,density_kids,3.4428577006478718
-11,Lake City,201,142.2670425,2020,density_kids,4.372059677841409
-13,Madison-Miller,131,145.3234203,2020,density_kids,3.316739992803486
-14,Green Lake,207,107.4446385,2020,density_kids,2.466386445145888
-15,Northgate,301,412.2911233,2020,density_kids,2.090755660952645
-16,North Beacon Hill,110,266.8762908,2020,density_kids,3.2112256859948833
-18,Greenwood-Phinney Ridge,102,94.15764497,2020,density_kids,4.3543994768627865
-19,Downtown,413,953.2817465,2020,density_kids,1.6857555553750445
-20,Uptown,412,333.000698,2020,density_kids,1.7897860382262623
-21,Rainier Beach,204,346.1438736,2020,density_kids,3.697884312345663
-22,23rd & Union-Jackson,109,625.2664128,2020,density_kids,3.0419033568150105
-23,Bitter Lake Village,114,363.7795662,2020,density_kids,2.5537443174838774
-24,Mt Baker,305,491.0180584,2020,density_kids,2.1832190927827595
-25,Admiral,113,98.24835065,2020,density_kids,2.188331901528975
-26,Aurora-Licton Springs,101,326.9585992,2020,density_kids,2.5324307176075034
-27,Morgan Junction,206,113.3093773,2020,density_kids,2.5946660991843613
-28,Eastlake,107,199.2559558,2020,density_kids,1.7063479916317763
-29,Wallingford,203,258.0056129,2020,density_kids,3.25186723873789
-30,Ballard,303,495.4763052,2020,density_kids,2.7105231590396546
-31,South Park,128,263.7986201,2020,density_kids,2.5966777223487076
-32,Othello,123,498.9632413,2020,density_kids,5.645706470602086
-1,Upper Queen Anne,106,52.65872029,1990,10_year_growth_kids,
-2,Fremont,302,214.511083,1990,10_year_growth_kids,
-3,West Seattle Junction,205,270.4170255,1990,10_year_growth_kids,
-4,Columbia City,111,334.5433404,1990,10_year_growth_kids,
-5,First Hill/Capitol Hill,414,916.2218015,1990,10_year_growth_kids,
-6,Roosevelt,202,170.2117761,1990,10_year_growth_kids,
-7,South Lake Union,312,339.886927,1990,10_year_growth_kids,
-8,University District,401,751.9638778,1990,10_year_growth_kids,
-9,Crown Hill,103,270.9887543,1990,10_year_growth_kids,
-10,Westwood-Highland Park,127,275.0621961,1990,10_year_growth_kids,
-11,Lake City,201,142.2670425,1990,10_year_growth_kids,
-13,Madison-Miller,131,145.3234203,1990,10_year_growth_kids,
-14,Green Lake,207,107.4446385,1990,10_year_growth_kids,
-15,Northgate,301,412.2911233,1990,10_year_growth_kids,
-16,North Beacon Hill,110,266.8762908,1990,10_year_growth_kids,
-18,Greenwood-Phinney Ridge,102,94.15764497,1990,10_year_growth_kids,
-19,Downtown,413,953.2817465,1990,10_year_growth_kids,
-20,Uptown,412,333.000698,1990,10_year_growth_kids,
-21,Rainier Beach,204,346.1438736,1990,10_year_growth_kids,
-22,23rd & Union-Jackson,109,625.2664128,1990,10_year_growth_kids,
-23,Bitter Lake Village,114,363.7795662,1990,10_year_growth_kids,
-24,Mt Baker,305,491.0180584,1990,10_year_growth_kids,
-25,Admiral,113,98.24835065,1990,10_year_growth_kids,
-26,Aurora-Licton Springs,101,326.9585992,1990,10_year_growth_kids,
-27,Morgan Junction,206,113.3093773,1990,10_year_growth_kids,
-28,Eastlake,107,199.2559558,1990,10_year_growth_kids,
-29,Wallingford,203,258.0056129,1990,10_year_growth_kids,
-30,Ballard,303,495.4763052,1990,10_year_growth_kids,
-31,South Park,128,263.7986201,1990,10_year_growth_kids,
-32,Othello,123,498.9632413,1990,10_year_growth_kids,
-1,Upper Queen Anne,106,52.65872029,2000,10_year_growth_kids,1.0
-2,Fremont,302,214.511083,2000,10_year_growth_kids,-95.0
-3,West Seattle Junction,205,270.4170255,2000,10_year_growth_kids,21.0
-4,Columbia City,111,334.5433404,2000,10_year_growth_kids,88.0
-5,First Hill/Capitol Hill,414,916.2218015,2000,10_year_growth_kids,152.0
-6,Roosevelt,202,170.2117761,2000,10_year_growth_kids,-14.0
-7,South Lake Union,312,339.886927,2000,10_year_growth_kids,42.0
-8,University District,401,751.9638778,2000,10_year_growth_kids,-33.0
-9,Crown Hill,103,270.9887543,2000,10_year_growth_kids,65.0
-10,Westwood-Highland Park,127,275.0621961,2000,10_year_growth_kids,121.0
-11,Lake City,201,142.2670425,2000,10_year_growth_kids,141.0
-13,Madison-Miller,131,145.3234203,2000,10_year_growth_kids,-146.0
-14,Green Lake,207,107.4446385,2000,10_year_growth_kids,-9.0
-15,Northgate,301,412.2911233,2000,10_year_growth_kids,246.0
-16,North Beacon Hill,110,266.8762908,2000,10_year_growth_kids,-9.0
-18,Greenwood-Phinney Ridge,102,94.15764497,2000,10_year_growth_kids,95.0
-19,Downtown,413,953.2817465,2000,10_year_growth_kids,479.0
-20,Uptown,412,333.000698,2000,10_year_growth_kids,-25.0
-21,Rainier Beach,204,346.1438736,2000,10_year_growth_kids,34.0
-22,23rd & Union-Jackson,109,625.2664128,2000,10_year_growth_kids,67.0
-23,Bitter Lake Village,114,363.7795662,2000,10_year_growth_kids,17.0
-24,Mt Baker,305,491.0180584,2000,10_year_growth_kids,85.0
-25,Admiral,113,98.24835065,2000,10_year_growth_kids,14.0
-26,Aurora-Licton Springs,101,326.9585992,2000,10_year_growth_kids,-9.0
-27,Morgan Junction,206,113.3093773,2000,10_year_growth_kids,52.0
-28,Eastlake,107,199.2559558,2000,10_year_growth_kids,-26.0
-29,Wallingford,203,258.0056129,2000,10_year_growth_kids,29.0
-30,Ballard,303,495.4763052,2000,10_year_growth_kids,-59.0
-31,South Park,128,263.7986201,2000,10_year_growth_kids,217.0
-32,Othello,123,498.9632413,2000,10_year_growth_kids,-250.0
-1,Upper Queen Anne,106,52.65872029,2010,10_year_growth_kids,10.0
-2,Fremont,302,214.511083,2010,10_year_growth_kids,44.0
-3,West Seattle Junction,205,270.4170255,2010,10_year_growth_kids,4.0
-4,Columbia City,111,334.5433404,2010,10_year_growth_kids,-455.0
-5,First Hill/Capitol Hill,414,916.2218015,2010,10_year_growth_kids,-95.0
-6,Roosevelt,202,170.2117761,2010,10_year_growth_kids,52.0
-7,South Lake Union,312,339.886927,2010,10_year_growth_kids,36.0
-8,University District,401,751.9638778,2010,10_year_growth_kids,-107.0
-9,Crown Hill,103,270.9887543,2010,10_year_growth_kids,103.0
-10,Westwood-Highland Park,127,275.0621961,2010,10_year_growth_kids,2.0
-11,Lake City,201,142.2670425,2010,10_year_growth_kids,113.0
-13,Madison-Miller,131,145.3234203,2010,10_year_growth_kids,116.0
-14,Green Lake,207,107.4446385,2010,10_year_growth_kids,69.0
-15,Northgate,301,412.2911233,2010,10_year_growth_kids,141.0
-16,North Beacon Hill,110,266.8762908,2010,10_year_growth_kids,-189.0
-18,Greenwood-Phinney Ridge,102,94.15764497,2010,10_year_growth_kids,19.0
-19,Downtown,413,953.2817465,2010,10_year_growth_kids,-22.0
-20,Uptown,412,333.000698,2010,10_year_growth_kids,75.0
-21,Rainier Beach,204,346.1438736,2010,10_year_growth_kids,-106.0
-22,23rd & Union-Jackson,109,625.2664128,2010,10_year_growth_kids,-290.0
-23,Bitter Lake Village,114,363.7795662,2010,10_year_growth_kids,201.0
-24,Mt Baker,305,491.0180584,2010,10_year_growth_kids,30.0
-25,Admiral,113,98.24835065,2010,10_year_growth_kids,39.0
-26,Aurora-Licton Springs,101,326.9585992,2010,10_year_growth_kids,63.0
-27,Morgan Junction,206,113.3093773,2010,10_year_growth_kids,25.0
-28,Eastlake,107,199.2559558,2010,10_year_growth_kids,86.0
-29,Wallingford,203,258.0056129,2010,10_year_growth_kids,224.0
-30,Ballard,303,495.4763052,2010,10_year_growth_kids,72.0
-31,South Park,128,263.7986201,2010,10_year_growth_kids,0.0
-32,Othello,123,498.9632413,2010,10_year_growth_kids,671.0
-1,Upper Queen Anne,106,52.65872029,2020,10_year_growth_kids,65.0
-2,Fremont,302,214.511083,2020,10_year_growth_kids,124.0
-3,West Seattle Junction,205,270.4170255,2020,10_year_growth_kids,239.0
-4,Columbia City,111,334.5433404,2020,10_year_growth_kids,510.0
-5,First Hill/Capitol Hill,414,916.2218015,2020,10_year_growth_kids,108.0
-6,Roosevelt,202,170.2117761,2020,10_year_growth_kids,132.0
-7,South Lake Union,312,339.886927,2020,10_year_growth_kids,391.0
-8,University District,401,751.9638778,2020,10_year_growth_kids,484.0
-9,Crown Hill,103,270.9887543,2020,10_year_growth_kids,180.0
-10,Westwood-Highland Park,127,275.0621961,2020,10_year_growth_kids,-146.0
-11,Lake City,201,142.2670425,2020,10_year_growth_kids,115.0
-13,Madison-Miller,131,145.3234203,2020,10_year_growth_kids,32.0
-14,Green Lake,207,107.4446385,2020,10_year_growth_kids,102.0
-15,Northgate,301,412.2911233,2020,10_year_growth_kids,36.0
-16,North Beacon Hill,110,266.8762908,2020,10_year_growth_kids,54.0
-18,Greenwood-Phinney Ridge,102,94.15764497,2020,10_year_growth_kids,36.0
-19,Downtown,413,953.2817465,2020,10_year_growth_kids,874.0
-20,Uptown,412,333.000698,2020,10_year_growth_kids,374.0
-21,Rainier Beach,204,346.1438736,2020,10_year_growth_kids,193.0
-22,23rd & Union-Jackson,109,625.2664128,2020,10_year_growth_kids,89.0
-23,Bitter Lake Village,114,363.7795662,2020,10_year_growth_kids,332.0
-24,Mt Baker,305,491.0180584,2020,10_year_growth_kids,26.0
-25,Admiral,113,98.24835065,2020,10_year_growth_kids,17.0
-26,Aurora-Licton Springs,101,326.9585992,2020,10_year_growth_kids,29.0
-27,Morgan Junction,206,113.3093773,2020,10_year_growth_kids,26.0
-28,Eastlake,107,199.2559558,2020,10_year_growth_kids,138.0
-29,Wallingford,203,258.0056129,2020,10_year_growth_kids,138.0
-30,Ballard,303,495.4763052,2020,10_year_growth_kids,379.0
-31,South Park,128,263.7986201,2020,10_year_growth_kids,-170.0
-32,Othello,123,498.9632413,2020,10_year_growth_kids,58.0
-1,Upper Queen Anne,106,52.65872029,1990,10_year_frac_growth_kids,
-2,Fremont,302,214.511083,1990,10_year_frac_growth_kids,
-3,West Seattle Junction,205,270.4170255,1990,10_year_frac_growth_kids,
-4,Columbia City,111,334.5433404,1990,10_year_frac_growth_kids,
-5,First Hill/Capitol Hill,414,916.2218015,1990,10_year_frac_growth_kids,
-6,Roosevelt,202,170.2117761,1990,10_year_frac_growth_kids,
-7,South Lake Union,312,339.886927,1990,10_year_frac_growth_kids,
-8,University District,401,751.9638778,1990,10_year_frac_growth_kids,
-9,Crown Hill,103,270.9887543,1990,10_year_frac_growth_kids,
-10,Westwood-Highland Park,127,275.0621961,1990,10_year_frac_growth_kids,
-11,Lake City,201,142.2670425,1990,10_year_frac_growth_kids,
-13,Madison-Miller,131,145.3234203,1990,10_year_frac_growth_kids,
-14,Green Lake,207,107.4446385,1990,10_year_frac_growth_kids,
-15,Northgate,301,412.2911233,1990,10_year_frac_growth_kids,
-16,North Beacon Hill,110,266.8762908,1990,10_year_frac_growth_kids,
-18,Greenwood-Phinney Ridge,102,94.15764497,1990,10_year_frac_growth_kids,
-19,Downtown,413,953.2817465,1990,10_year_frac_growth_kids,
-20,Uptown,412,333.000698,1990,10_year_frac_growth_kids,
-21,Rainier Beach,204,346.1438736,1990,10_year_frac_growth_kids,
-22,23rd & Union-Jackson,109,625.2664128,1990,10_year_frac_growth_kids,
-23,Bitter Lake Village,114,363.7795662,1990,10_year_frac_growth_kids,
-24,Mt Baker,305,491.0180584,1990,10_year_frac_growth_kids,
-25,Admiral,113,98.24835065,1990,10_year_frac_growth_kids,
-26,Aurora-Licton Springs,101,326.9585992,1990,10_year_frac_growth_kids,
-27,Morgan Junction,206,113.3093773,1990,10_year_frac_growth_kids,
-28,Eastlake,107,199.2559558,1990,10_year_frac_growth_kids,
-29,Wallingford,203,258.0056129,1990,10_year_frac_growth_kids,
-30,Ballard,303,495.4763052,1990,10_year_frac_growth_kids,
-31,South Park,128,263.7986201,1990,10_year_frac_growth_kids,
-32,Othello,123,498.9632413,1990,10_year_frac_growth_kids,
-1,Upper Queen Anne,106,52.65872029,2000,10_year_frac_growth_kids,0.008
-2,Fremont,302,214.511083,2000,10_year_frac_growth_kids,-0.35714285714285715
-3,West Seattle Junction,205,270.4170255,2000,10_year_frac_growth_kids,0.05084745762711865
-4,Columbia City,111,334.5433404,2000,10_year_frac_growth_kids,0.06591760299625468
-5,First Hill/Capitol Hill,414,916.2218015,2000,10_year_frac_growth_kids,0.08791208791208792
-6,Roosevelt,202,170.2117761,2000,10_year_frac_growth_kids,-0.04745762711864407
-7,South Lake Union,312,339.886927,2000,10_year_frac_growth_kids,0.525
-8,University District,401,751.9638778,2000,10_year_frac_growth_kids,-0.05574324324324324
-9,Crown Hill,103,270.9887543,2000,10_year_frac_growth_kids,0.11226252158894647
-10,Westwood-Highland Park,127,275.0621961,2000,10_year_frac_growth_kids,0.12474226804123711
-11,Lake City,201,142.2670425,2000,10_year_frac_growth_kids,0.5573122529644269
-13,Madison-Miller,131,145.3234203,2000,10_year_frac_growth_kids,-0.30416666666666664
-14,Green Lake,207,107.4446385,2000,10_year_frac_growth_kids,-0.08737864077669903
-15,Northgate,301,412.2911233,2000,10_year_frac_growth_kids,0.5603644646924829
-16,North Beacon Hill,110,266.8762908,2000,10_year_frac_growth_kids,-0.008991008991008992
-18,Greenwood-Phinney Ridge,102,94.15764497,2000,10_year_frac_growth_kids,0.36538461538461536
-19,Downtown,413,953.2817465,2000,10_year_frac_growth_kids,1.7355072463768115
-20,Uptown,412,333.000698,2000,10_year_frac_growth_kids,-0.14534883720930233
-21,Rainier Beach,204,346.1438736,2000,10_year_frac_growth_kids,0.029335634167385678
-22,23rd & Union-Jackson,109,625.2664128,2000,10_year_frac_growth_kids,0.032907662082514735
-23,Bitter Lake Village,114,363.7795662,2000,10_year_frac_growth_kids,0.044854881266490766
-24,Mt Baker,305,491.0180584,2000,10_year_frac_growth_kids,0.09129967776584318
-25,Admiral,113,98.24835065,2000,10_year_frac_growth_kids,0.09655172413793103
-26,Aurora-Licton Springs,101,326.9585992,2000,10_year_frac_growth_kids,-0.012080536912751677
-27,Morgan Junction,206,113.3093773,2000,10_year_frac_growth_kids,0.27225130890052357
-28,Eastlake,107,199.2559558,2000,10_year_frac_growth_kids,-0.18309859154929578
-29,Wallingford,203,258.0056129,2000,10_year_frac_growth_kids,0.06473214285714286
-30,Ballard,303,495.4763052,2000,10_year_frac_growth_kids,-0.06203995793901157
-31,South Park,128,263.7986201,2000,10_year_frac_growth_kids,0.3401253918495298
-32,Othello,123,498.9632413,2000,10_year_frac_growth_kids,-0.10692899914456801
-1,Upper Queen Anne,106,52.65872029,2010,10_year_frac_growth_kids,0.07936507936507936
-2,Fremont,302,214.511083,2010,10_year_frac_growth_kids,0.2573099415204678
-3,West Seattle Junction,205,270.4170255,2010,10_year_frac_growth_kids,0.009216589861751152
-4,Columbia City,111,334.5433404,2010,10_year_frac_growth_kids,-0.31974701335207306
-5,First Hill/Capitol Hill,414,916.2218015,2010,10_year_frac_growth_kids,-0.050505050505050504
-6,Roosevelt,202,170.2117761,2010,10_year_frac_growth_kids,0.18505338078291814
-7,South Lake Union,312,339.886927,2010,10_year_frac_growth_kids,0.29508196721311475
-8,University District,401,751.9638778,2010,10_year_frac_growth_kids,-0.19141323792486584
-9,Crown Hill,103,270.9887543,2010,10_year_frac_growth_kids,0.15993788819875776
-10,Westwood-Highland Park,127,275.0621961,2010,10_year_frac_growth_kids,0.0018331805682859762
-11,Lake City,201,142.2670425,2010,10_year_frac_growth_kids,0.2868020304568528
-13,Madison-Miller,131,145.3234203,2010,10_year_frac_growth_kids,0.3473053892215569
-14,Green Lake,207,107.4446385,2010,10_year_frac_growth_kids,0.7340425531914894
-15,Northgate,301,412.2911233,2010,10_year_frac_growth_kids,0.20583941605839415
-16,North Beacon Hill,110,266.8762908,2010,10_year_frac_growth_kids,-0.1905241935483871
-18,Greenwood-Phinney Ridge,102,94.15764497,2010,10_year_frac_growth_kids,0.05352112676056338
-19,Downtown,413,953.2817465,2010,10_year_frac_growth_kids,-0.02913907284768212
-20,Uptown,412,333.000698,2010,10_year_frac_growth_kids,0.5102040816326531
-21,Rainier Beach,204,346.1438736,2010,10_year_frac_growth_kids,-0.08885163453478626
-22,23rd & Union-Jackson,109,625.2664128,2010,10_year_frac_growth_kids,-0.1378982406086543
-23,Bitter Lake Village,114,363.7795662,2010,10_year_frac_growth_kids,0.5075757575757576
-24,Mt Baker,305,491.0180584,2010,10_year_frac_growth_kids,0.02952755905511811
-25,Admiral,113,98.24835065,2010,10_year_frac_growth_kids,0.24528301886792453
-26,Aurora-Licton Springs,101,326.9585992,2010,10_year_frac_growth_kids,0.08559782608695653
-27,Morgan Junction,206,113.3093773,2010,10_year_frac_growth_kids,0.102880658436214
-28,Eastlake,107,199.2559558,2010,10_year_frac_growth_kids,0.7413793103448276
-29,Wallingford,203,258.0056129,2010,10_year_frac_growth_kids,0.469601677148847
-30,Ballard,303,495.4763052,2010,10_year_frac_growth_kids,0.08071748878923767
-31,South Park,128,263.7986201,2010,10_year_frac_growth_kids,0.0
-32,Othello,123,498.9632413,2010,10_year_frac_growth_kids,0.321360153256705
-1,Upper Queen Anne,106,52.65872029,2020,10_year_frac_growth_kids,0.47794117647058826
-2,Fremont,302,214.511083,2020,10_year_frac_growth_kids,0.5767441860465117
-3,West Seattle Junction,205,270.4170255,2020,10_year_frac_growth_kids,0.545662100456621
-4,Columbia City,111,334.5433404,2020,10_year_frac_growth_kids,0.5268595041322314
-5,First Hill/Capitol Hill,414,916.2218015,2020,10_year_frac_growth_kids,0.060470324748040316
-6,Roosevelt,202,170.2117761,2020,10_year_frac_growth_kids,0.3963963963963964
-7,South Lake Union,312,339.886927,2020,10_year_frac_growth_kids,2.4746835443037973
-8,University District,401,751.9638778,2020,10_year_frac_growth_kids,1.0707964601769913
-9,Crown Hill,103,270.9887543,2020,10_year_frac_growth_kids,0.24096385542168675
-10,Westwood-Highland Park,127,275.0621961,2020,10_year_frac_growth_kids,-0.13357731015553523
-11,Lake City,201,142.2670425,2020,10_year_frac_growth_kids,0.22682445759368836
-13,Madison-Miller,131,145.3234203,2020,10_year_frac_growth_kids,0.07111111111111111
-14,Green Lake,207,107.4446385,2020,10_year_frac_growth_kids,0.6257668711656442
-15,Northgate,301,412.2911233,2020,10_year_frac_growth_kids,0.043583535108958835
-16,North Beacon Hill,110,266.8762908,2020,10_year_frac_growth_kids,0.06724782067247821
-18,Greenwood-Phinney Ridge,102,94.15764497,2020,10_year_frac_growth_kids,0.0962566844919786
-19,Downtown,413,953.2817465,2020,10_year_frac_growth_kids,1.1923601637107777
-20,Uptown,412,333.000698,2020,10_year_frac_growth_kids,1.6846846846846846
-21,Rainier Beach,204,346.1438736,2020,10_year_frac_growth_kids,0.17755289788408463
-22,23rd & Union-Jackson,109,625.2664128,2020,10_year_frac_growth_kids,0.049089906232763374
-23,Bitter Lake Village,114,363.7795662,2020,10_year_frac_growth_kids,0.5561139028475712
-24,Mt Baker,305,491.0180584,2020,10_year_frac_growth_kids,0.0248565965583174
-25,Admiral,113,98.24835065,2020,10_year_frac_growth_kids,0.08585858585858586
-26,Aurora-Licton Springs,101,326.9585992,2020,10_year_frac_growth_kids,0.03629536921151439
-27,Morgan Junction,206,113.3093773,2020,10_year_frac_growth_kids,0.09701492537313433
-28,Eastlake,107,199.2559558,2020,10_year_frac_growth_kids,0.6831683168316832
-29,Wallingford,203,258.0056129,2020,10_year_frac_growth_kids,0.19686162624821682
-30,Ballard,303,495.4763052,2020,10_year_frac_growth_kids,0.39315352697095435
-31,South Park,128,263.7986201,2020,10_year_frac_growth_kids,-0.19883040935672514
-32,Othello,123,498.9632413,2020,10_year_frac_growth_kids,0.021022109459949256
+,neighborhood,neighborhood_no,area,Year,Indicator Name,Value
+0,Upper Queen Anne,106,52.65872029,1990,population_kids,125.0
+1,Fremont,302,214.511083,1990,population_kids,266.0
+2,West Seattle Junction,205,270.4170255,1990,population_kids,413.0
+3,Columbia City,111,334.5433404,1990,population_kids,1335.0
+4,First Hill/Capitol Hill,414,916.2218015,1990,population_kids,1729.0
+5,Roosevelt,202,170.2117761,1990,population_kids,295.0
+6,South Lake Union,312,339.886927,1990,population_kids,80.0
+7,University District,401,751.9638778,1990,population_kids,592.0
+8,Crown Hill,103,270.9887543,1990,population_kids,579.0
+9,Westwood-Highland Park,127,275.0621961,1990,population_kids,970.0
+10,Lake City,201,142.2670425,1990,population_kids,253.0
+11,Greater Duwamish,502,4953.281793,1990,population_kids,148.0
+12,Madison-Miller,131,145.3234203,1990,population_kids,480.0
+13,Green Lake,207,107.4446385,1990,population_kids,103.0
+14,Northgate,301,412.2911233,1990,population_kids,439.0
+15,North Beacon Hill,110,266.8762908,1990,population_kids,1001.0
+16,Ballard-Interbay-Northend,501,931.9728637,1990,population_kids,107.0
+17,Greenwood-Phinney Ridge,102,94.15764497,1990,population_kids,260.0
+18,Downtown,413,953.2817465,1990,population_kids,276.0
+19,Uptown,412,333.000698,1990,population_kids,172.0
+20,Rainier Beach,204,346.1438736,1990,population_kids,1159.0
+21,23rd & Union-Jackson,109,625.2664128,1990,population_kids,2036.0
+22,Bitter Lake Village,114,363.7795662,1990,population_kids,379.0
+23,Mt Baker,305,491.0180584,1990,population_kids,931.0
+24,Admiral,113,98.24835065,1990,population_kids,145.0
+25,Aurora-Licton Springs,101,326.9585992,1990,population_kids,745.0
+26,Morgan Junction,206,113.3093773,1990,population_kids,191.0
+27,Eastlake,107,199.2559558,1990,population_kids,142.0
+28,Wallingford,203,258.0056129,1990,population_kids,448.0
+29,Ballard,303,495.4763052,1990,population_kids,951.0
+30,South Park,128,263.7986201,1990,population_kids,638.0
+31,Othello,123,498.9632413,1990,population_kids,2338.0
+0,Upper Queen Anne,106,52.65872029,2000,population_kids,126.0
+1,Fremont,302,214.511083,2000,population_kids,171.0
+2,West Seattle Junction,205,270.4170255,2000,population_kids,434.0
+3,Columbia City,111,334.5433404,2000,population_kids,1423.0
+4,First Hill/Capitol Hill,414,916.2218015,2000,population_kids,1881.0
+5,Roosevelt,202,170.2117761,2000,population_kids,281.0
+6,South Lake Union,312,339.886927,2000,population_kids,122.0
+7,University District,401,751.9638778,2000,population_kids,559.0
+8,Crown Hill,103,270.9887543,2000,population_kids,644.0
+9,Westwood-Highland Park,127,275.0621961,2000,population_kids,1091.0
+10,Lake City,201,142.2670425,2000,population_kids,394.0
+11,Greater Duwamish,502,4953.281793,2000,population_kids,213.0
+12,Madison-Miller,131,145.3234203,2000,population_kids,334.0
+13,Green Lake,207,107.4446385,2000,population_kids,94.0
+14,Northgate,301,412.2911233,2000,population_kids,685.0
+15,North Beacon Hill,110,266.8762908,2000,population_kids,992.0
+16,Ballard-Interbay-Northend,501,931.9728637,2000,population_kids,66.0
+17,Greenwood-Phinney Ridge,102,94.15764497,2000,population_kids,355.0
+18,Downtown,413,953.2817465,2000,population_kids,755.0
+19,Uptown,412,333.000698,2000,population_kids,147.0
+20,Rainier Beach,204,346.1438736,2000,population_kids,1193.0
+21,23rd & Union-Jackson,109,625.2664128,2000,population_kids,2103.0
+22,Bitter Lake Village,114,363.7795662,2000,population_kids,396.0
+23,Mt Baker,305,491.0180584,2000,population_kids,1016.0
+24,Admiral,113,98.24835065,2000,population_kids,159.0
+25,Aurora-Licton Springs,101,326.9585992,2000,population_kids,736.0
+26,Morgan Junction,206,113.3093773,2000,population_kids,243.0
+27,Eastlake,107,199.2559558,2000,population_kids,116.0
+28,Wallingford,203,258.0056129,2000,population_kids,477.0
+29,Ballard,303,495.4763052,2000,population_kids,892.0
+30,South Park,128,263.7986201,2000,population_kids,855.0
+31,Othello,123,498.9632413,2000,population_kids,2088.0
+0,Upper Queen Anne,106,52.65872029,2010,population_kids,136.0
+1,Fremont,302,214.511083,2010,population_kids,215.0
+2,West Seattle Junction,205,270.4170255,2010,population_kids,438.0
+3,Columbia City,111,334.5433404,2010,population_kids,968.0
+4,First Hill/Capitol Hill,414,916.2218015,2010,population_kids,1786.0
+5,Roosevelt,202,170.2117761,2010,population_kids,333.0
+6,South Lake Union,312,339.886927,2010,population_kids,158.0
+7,University District,401,751.9638778,2010,population_kids,452.0
+8,Crown Hill,103,270.9887543,2010,population_kids,747.0
+9,Westwood-Highland Park,127,275.0621961,2010,population_kids,1093.0
+10,Lake City,201,142.2670425,2010,population_kids,507.0
+11,Greater Duwamish,502,4953.281793,2010,population_kids,135.0
+12,Madison-Miller,131,145.3234203,2010,population_kids,450.0
+13,Green Lake,207,107.4446385,2010,population_kids,163.0
+14,Northgate,301,412.2911233,2010,population_kids,826.0
+15,North Beacon Hill,110,266.8762908,2010,population_kids,803.0
+16,Ballard-Interbay-Northend,501,931.9728637,2010,population_kids,67.0
+17,Greenwood-Phinney Ridge,102,94.15764497,2010,population_kids,374.0
+18,Downtown,413,953.2817465,2010,population_kids,733.0
+19,Uptown,412,333.000698,2010,population_kids,222.0
+20,Rainier Beach,204,346.1438736,2010,population_kids,1087.0
+21,23rd & Union-Jackson,109,625.2664128,2010,population_kids,1813.0
+22,Bitter Lake Village,114,363.7795662,2010,population_kids,597.0
+23,Mt Baker,305,491.0180584,2010,population_kids,1046.0
+24,Admiral,113,98.24835065,2010,population_kids,198.0
+25,Aurora-Licton Springs,101,326.9585992,2010,population_kids,799.0
+26,Morgan Junction,206,113.3093773,2010,population_kids,268.0
+27,Eastlake,107,199.2559558,2010,population_kids,202.0
+28,Wallingford,203,258.0056129,2010,population_kids,701.0
+29,Ballard,303,495.4763052,2010,population_kids,964.0
+30,South Park,128,263.7986201,2010,population_kids,855.0
+31,Othello,123,498.9632413,2010,population_kids,2759.0
+0,Upper Queen Anne,106,52.65872029,2020,population_kids,201.0
+1,Fremont,302,214.511083,2020,population_kids,339.0
+2,West Seattle Junction,205,270.4170255,2020,population_kids,677.0
+3,Columbia City,111,334.5433404,2020,population_kids,1478.0
+4,First Hill/Capitol Hill,414,916.2218015,2020,population_kids,1894.0
+5,Roosevelt,202,170.2117761,2020,population_kids,465.0
+6,South Lake Union,312,339.886927,2020,population_kids,549.0
+7,University District,401,751.9638778,2020,population_kids,936.0
+8,Crown Hill,103,270.9887543,2020,population_kids,927.0
+9,Westwood-Highland Park,127,275.0621961,2020,population_kids,947.0
+10,Lake City,201,142.2670425,2020,population_kids,622.0
+11,Greater Duwamish,502,4953.281793,2020,population_kids,245.0
+12,Madison-Miller,131,145.3234203,2020,population_kids,482.0
+13,Green Lake,207,107.4446385,2020,population_kids,265.0
+14,Northgate,301,412.2911233,2020,population_kids,862.0
+15,North Beacon Hill,110,266.8762908,2020,population_kids,857.0
+16,Ballard-Interbay-Northend,501,931.9728637,2020,population_kids,205.0
+17,Greenwood-Phinney Ridge,102,94.15764497,2020,population_kids,410.0
+18,Downtown,413,953.2817465,2020,population_kids,1607.0
+19,Uptown,412,333.000698,2020,population_kids,596.0
+20,Rainier Beach,204,346.1438736,2020,population_kids,1280.0
+21,23rd & Union-Jackson,109,625.2664128,2020,population_kids,1902.0
+22,Bitter Lake Village,114,363.7795662,2020,population_kids,929.0
+23,Mt Baker,305,491.0180584,2020,population_kids,1072.0
+24,Admiral,113,98.24835065,2020,population_kids,215.0
+25,Aurora-Licton Springs,101,326.9585992,2020,population_kids,828.0
+26,Morgan Junction,206,113.3093773,2020,population_kids,294.0
+27,Eastlake,107,199.2559558,2020,population_kids,340.0
+28,Wallingford,203,258.0056129,2020,population_kids,839.0
+29,Ballard,303,495.4763052,2020,population_kids,1343.0
+30,South Park,128,263.7986201,2020,population_kids,685.0
+31,Othello,123,498.9632413,2020,population_kids,2817.0
+0,Upper Queen Anne,106,52.65872029,1990,density_kids,2.3737758781756373
+1,Fremont,302,214.511083,1990,density_kids,1.240029169028996
+2,West Seattle Junction,205,270.4170255,1990,density_kids,1.5272707006386326
+3,Columbia City,111,334.5433404,1990,density_kids,3.9905143483167063
+4,First Hill/Capitol Hill,414,916.2218015,1990,density_kids,1.8870976407343218
+5,Roosevelt,202,170.2117761,1990,density_kids,1.7331350788954019
+6,South Lake Union,312,339.886927,1990,density_kids,0.23537239489061018
+7,University District,401,751.9638778,1990,density_kids,0.7872718590313116
+8,Crown Hill,103,270.9887543,1990,density_kids,2.1366200287374806
+9,Westwood-Highland Park,127,275.0621961,1990,density_kids,3.526475152722741
+10,Lake City,201,142.2670425,1990,density_kids,1.7783458175142708
+11,Greater Duwamish,502,4953.281793,1990,density_kids,0.02987918034648347
+12,Madison-Miller,131,145.3234203,1990,density_kids,3.3029775861943427
+13,Green Lake,207,107.4446385,1990,density_kids,0.9586332220755716
+14,Northgate,301,412.2911233,1990,density_kids,1.06478159531115
+15,North Beacon Hill,110,266.8762908,1990,density_kids,3.7508015305494498
+16,Ballard-Interbay-Northend,501,931.9728637,1990,density_kids,0.11481020979001709
+17,Greenwood-Phinney Ridge,102,94.15764497,1990,density_kids,2.7613264975227425
+18,Downtown,413,953.2817465,1990,density_kids,0.2895261563680848
+19,Uptown,412,333.000698,1990,density_kids,0.516515433850532
+20,Rainier Beach,204,346.1438736,1990,density_kids,3.348318685944237
+21,23rd & Union-Jackson,109,625.2664128,1990,density_kids,3.2562120055075505
+22,Bitter Lake Village,114,363.7795662,1990,density_kids,1.0418397161748005
+23,Mt Baker,305,491.0180584,1990,density_kids,1.896060611362639
+24,Admiral,113,98.24835065,1990,density_kids,1.475851747542797
+25,Aurora-Licton Springs,101,326.9585992,1990,density_kids,2.278575947605785
+26,Morgan Junction,206,113.3093773,1990,density_kids,1.6856504249803164
+27,Eastlake,107,199.2559558,1990,density_kids,0.7126512200344477
+28,Wallingford,203,258.0056129,1990,density_kids,1.7363963324845944
+29,Ballard,303,495.4763052,1990,density_kids,1.9193652451576406
+30,South Park,128,263.7986201,1990,density_kids,2.418511513662008
+31,Othello,123,498.9632413,1990,density_kids,4.685715913478053
+0,Upper Queen Anne,106,52.65872029,2000,density_kids,2.3927660852010426
+1,Fremont,302,214.511083,2000,density_kids,0.7971616086614974
+2,West Seattle Junction,205,270.4170255,2000,density_kids,1.6049285328744953
+3,Columbia City,111,334.5433404,2000,density_kids,4.253559488879905
+4,First Hill/Capitol Hill,414,916.2218015,2000,density_kids,2.0529963344252513
+5,Roosevelt,202,170.2117761,2000,density_kids,1.6508846005749422
+6,South Lake Union,312,339.886927,2000,density_kids,0.35894290220818054
+7,University District,401,751.9638778,2000,density_kids,0.7433867722947689
+8,Crown Hill,103,270.9887543,2000,density_kids,2.376482380840997
+9,Westwood-Highland Park,127,275.0621961,2000,density_kids,3.966375661464444
+10,Lake City,201,142.2670425,2000,density_kids,2.7694397316230144
+11,Greater Duwamish,502,4953.281793,2000,density_kids,0.0430017933364931
+12,Madison-Miller,131,145.3234203,2000,density_kids,2.298321903726897
+13,Green Lake,207,107.4446385,2000,density_kids,0.8748691541272207
+14,Northgate,301,412.2911233,2000,density_kids,1.6614473639820904
+15,North Beacon Hill,110,266.8762908,2000,density_kids,3.717078040264789
+16,Ballard-Interbay-Northend,501,931.9728637,2000,density_kids,0.0708175125807582
+17,Greenwood-Phinney Ridge,102,94.15764497,2000,density_kids,3.770272717771437
+18,Downtown,413,953.2817465,2000,density_kids,0.7920008987605218
+19,Uptown,412,333.000698,2000,density_kids,0.4414405161396989
+20,Rainier Beach,204,346.1438736,2000,density_kids,3.4465437379909183
+21,23rd & Union-Jackson,109,625.2664128,2000,density_kids,3.363366329853821
+22,Bitter Lake Village,114,363.7795662,2000,density_kids,1.0885713129425356
+23,Mt Baker,305,491.0180584,2000,density_kids,2.0691703342045558
+24,Admiral,113,98.24835065,2000,density_kids,1.6183477783400326
+25,Aurora-Licton Springs,101,326.9585992,2000,density_kids,2.251049526762225
+26,Morgan Junction,206,113.3093773,2000,density_kids,2.1445709595299314
+27,Eastlake,107,199.2559558,2000,density_kids,0.5821657853802531
+28,Wallingford,203,258.0056129,2000,density_kids,1.848796987935606
+29,Ballard,303,495.4763052,2000,density_kids,1.80028790607846
+30,South Park,128,263.7986201,2000,density_kids,3.241108689938898
+31,Othello,123,498.9632413,2000,density_kids,4.18467700057407
+0,Upper Queen Anne,106,52.65872029,2010,density_kids,2.5826681554550937
+1,Fremont,302,214.511083,2010,density_kids,1.0022792155685494
+2,West Seattle Junction,205,270.4170255,2010,density_kids,1.6197205009194215
+3,Columbia City,111,334.5433404,2010,density_kids,2.893496546195185
+4,First Hill/Capitol Hill,414,916.2218015,2010,density_kids,1.9493096508684202
+5,Roosevelt,202,170.2117761,2010,density_kids,1.9563863771937926
+6,South Lake Union,312,339.886927,2010,density_kids,0.4648604799089551
+7,University District,401,751.9638778,2010,density_kids,0.6010927031793122
+8,Crown Hill,103,270.9887543,2010,density_kids,2.7565719541742624
+9,Westwood-Highland Park,127,275.0621961,2010,density_kids,3.973646744253563
+10,Lake City,201,142.2670425,2010,density_kids,3.5637206698803765
+11,Greater Duwamish,502,4953.281793,2010,density_kids,0.027254657748481542
+12,Madison-Miller,131,145.3234203,2010,density_kids,3.0965414870571966
+13,Green Lake,207,107.4446385,2010,density_kids,1.5170603417312443
+14,Northgate,301,412.2911233,2010,density_kids,2.0034387191959224
+15,North Beacon Hill,110,266.8762908,2010,density_kids,3.008884744286921
+16,Ballard-Interbay-Northend,501,931.9728637,2010,density_kids,0.07189050519561818
+17,Greenwood-Phinney Ridge,102,94.15764497,2010,density_kids,3.9720619618211757
+18,Downtown,413,953.2817465,2010,density_kids,0.7689227268761093
+19,Uptown,412,333.000698,2010,density_kids,0.6666652692721984
+20,Rainier Beach,204,346.1438736,2010,density_kids,3.1403126933747934
+21,23rd & Union-Jackson,109,625.2664128,2010,density_kids,2.899564030444592
+22,Bitter Lake Village,114,363.7795662,2010,density_kids,1.64110372178458
+23,Mt Baker,305,491.0180584,2010,density_kids,2.130267883442879
+24,Admiral,113,98.24835065,2010,density_kids,2.0153010069894743
+25,Aurora-Licton Springs,101,326.9585992,2010,density_kids,2.4437344726671437
+26,Morgan Junction,206,113.3093773,2010,density_kids,2.3652058319095537
+27,Eastlake,107,199.2559558,2010,density_kids,1.01377145385182
+28,Wallingford,203,258.0056129,2010,density_kids,2.716995154177903
+29,Ballard,303,495.4763052,2010,density_kids,1.9456026249547482
+30,South Park,128,263.7986201,2010,density_kids,3.241108689938898
+31,Othello,123,498.9632413,2010,density_kids,5.529465442808362
+0,Upper Queen Anne,106,52.65872029,2020,density_kids,3.8170316121064247
+1,Fremont,302,214.511083,2020,density_kids,1.5803379259429686
+2,West Seattle Junction,205,270.4170255,2020,density_kids,2.5035405916037634
+3,Columbia City,111,334.5433404,2020,density_kids,4.417962701731904
+4,First Hill/Capitol Hill,414,916.2218015,2020,density_kids,2.0671850384909227
+5,Roosevelt,202,170.2117761,2020,density_kids,2.7318908870724132
+6,South Lake Union,312,339.886927,2020,density_kids,1.6152430599368124
+7,University District,401,751.9638778,2020,density_kids,1.2447406419819387
+8,Crown Hill,103,270.9887543,2020,density_kids,3.420806159999386
+9,Westwood-Highland Park,127,275.0621961,2020,density_kids,3.4428577006478718
+10,Lake City,201,142.2670425,2020,density_kids,4.372059677841409
+11,Greater Duwamish,502,4953.281793,2020,density_kids,0.04946215665465169
+12,Madison-Miller,131,145.3234203,2020,density_kids,3.316739992803486
+13,Green Lake,207,107.4446385,2020,density_kids,2.466386445145888
+14,Northgate,301,412.2911233,2020,density_kids,2.090755660952645
+15,North Beacon Hill,110,266.8762908,2020,density_kids,3.2112256859948833
+16,Ballard-Interbay-Northend,501,931.9728637,2020,density_kids,0.21996348604629443
+17,Greenwood-Phinney Ridge,102,94.15764497,2020,density_kids,4.3543994768627865
+18,Downtown,413,953.2817465,2020,density_kids,1.6857555553750445
+19,Uptown,412,333.000698,2020,density_kids,1.7897860382262623
+20,Rainier Beach,204,346.1438736,2020,density_kids,3.697884312345663
+21,23rd & Union-Jackson,109,625.2664128,2020,density_kids,3.0419033568150105
+22,Bitter Lake Village,114,363.7795662,2020,density_kids,2.5537443174838774
+23,Mt Baker,305,491.0180584,2020,density_kids,2.1832190927827595
+24,Admiral,113,98.24835065,2020,density_kids,2.188331901528975
+25,Aurora-Licton Springs,101,326.9585992,2020,density_kids,2.5324307176075034
+26,Morgan Junction,206,113.3093773,2020,density_kids,2.5946660991843613
+27,Eastlake,107,199.2559558,2020,density_kids,1.7063479916317763
+28,Wallingford,203,258.0056129,2020,density_kids,3.25186723873789
+29,Ballard,303,495.4763052,2020,density_kids,2.7105231590396546
+30,South Park,128,263.7986201,2020,density_kids,2.5966777223487076
+31,Othello,123,498.9632413,2020,density_kids,5.645706470602086
+0,Upper Queen Anne,106,52.65872029,1990,10_year_growth_kids,
+1,Fremont,302,214.511083,1990,10_year_growth_kids,
+2,West Seattle Junction,205,270.4170255,1990,10_year_growth_kids,
+3,Columbia City,111,334.5433404,1990,10_year_growth_kids,
+4,First Hill/Capitol Hill,414,916.2218015,1990,10_year_growth_kids,
+5,Roosevelt,202,170.2117761,1990,10_year_growth_kids,
+6,South Lake Union,312,339.886927,1990,10_year_growth_kids,
+7,University District,401,751.9638778,1990,10_year_growth_kids,
+8,Crown Hill,103,270.9887543,1990,10_year_growth_kids,
+9,Westwood-Highland Park,127,275.0621961,1990,10_year_growth_kids,
+10,Lake City,201,142.2670425,1990,10_year_growth_kids,
+11,Greater Duwamish,502,4953.281793,1990,10_year_growth_kids,
+12,Madison-Miller,131,145.3234203,1990,10_year_growth_kids,
+13,Green Lake,207,107.4446385,1990,10_year_growth_kids,
+14,Northgate,301,412.2911233,1990,10_year_growth_kids,
+15,North Beacon Hill,110,266.8762908,1990,10_year_growth_kids,
+16,Ballard-Interbay-Northend,501,931.9728637,1990,10_year_growth_kids,
+17,Greenwood-Phinney Ridge,102,94.15764497,1990,10_year_growth_kids,
+18,Downtown,413,953.2817465,1990,10_year_growth_kids,
+19,Uptown,412,333.000698,1990,10_year_growth_kids,
+20,Rainier Beach,204,346.1438736,1990,10_year_growth_kids,
+21,23rd & Union-Jackson,109,625.2664128,1990,10_year_growth_kids,
+22,Bitter Lake Village,114,363.7795662,1990,10_year_growth_kids,
+23,Mt Baker,305,491.0180584,1990,10_year_growth_kids,
+24,Admiral,113,98.24835065,1990,10_year_growth_kids,
+25,Aurora-Licton Springs,101,326.9585992,1990,10_year_growth_kids,
+26,Morgan Junction,206,113.3093773,1990,10_year_growth_kids,
+27,Eastlake,107,199.2559558,1990,10_year_growth_kids,
+28,Wallingford,203,258.0056129,1990,10_year_growth_kids,
+29,Ballard,303,495.4763052,1990,10_year_growth_kids,
+30,South Park,128,263.7986201,1990,10_year_growth_kids,
+31,Othello,123,498.9632413,1990,10_year_growth_kids,
+0,Upper Queen Anne,106,52.65872029,2000,10_year_growth_kids,1.0
+1,Fremont,302,214.511083,2000,10_year_growth_kids,-95.0
+2,West Seattle Junction,205,270.4170255,2000,10_year_growth_kids,21.0
+3,Columbia City,111,334.5433404,2000,10_year_growth_kids,88.0
+4,First Hill/Capitol Hill,414,916.2218015,2000,10_year_growth_kids,152.0
+5,Roosevelt,202,170.2117761,2000,10_year_growth_kids,-14.0
+6,South Lake Union,312,339.886927,2000,10_year_growth_kids,42.0
+7,University District,401,751.9638778,2000,10_year_growth_kids,-33.0
+8,Crown Hill,103,270.9887543,2000,10_year_growth_kids,65.0
+9,Westwood-Highland Park,127,275.0621961,2000,10_year_growth_kids,121.0
+10,Lake City,201,142.2670425,2000,10_year_growth_kids,141.0
+11,Greater Duwamish,502,4953.281793,2000,10_year_growth_kids,65.0
+12,Madison-Miller,131,145.3234203,2000,10_year_growth_kids,-146.0
+13,Green Lake,207,107.4446385,2000,10_year_growth_kids,-9.0
+14,Northgate,301,412.2911233,2000,10_year_growth_kids,246.0
+15,North Beacon Hill,110,266.8762908,2000,10_year_growth_kids,-9.0
+16,Ballard-Interbay-Northend,501,931.9728637,2000,10_year_growth_kids,-41.0
+17,Greenwood-Phinney Ridge,102,94.15764497,2000,10_year_growth_kids,95.0
+18,Downtown,413,953.2817465,2000,10_year_growth_kids,479.0
+19,Uptown,412,333.000698,2000,10_year_growth_kids,-25.0
+20,Rainier Beach,204,346.1438736,2000,10_year_growth_kids,34.0
+21,23rd & Union-Jackson,109,625.2664128,2000,10_year_growth_kids,67.0
+22,Bitter Lake Village,114,363.7795662,2000,10_year_growth_kids,17.0
+23,Mt Baker,305,491.0180584,2000,10_year_growth_kids,85.0
+24,Admiral,113,98.24835065,2000,10_year_growth_kids,14.0
+25,Aurora-Licton Springs,101,326.9585992,2000,10_year_growth_kids,-9.0
+26,Morgan Junction,206,113.3093773,2000,10_year_growth_kids,52.0
+27,Eastlake,107,199.2559558,2000,10_year_growth_kids,-26.0
+28,Wallingford,203,258.0056129,2000,10_year_growth_kids,29.0
+29,Ballard,303,495.4763052,2000,10_year_growth_kids,-59.0
+30,South Park,128,263.7986201,2000,10_year_growth_kids,217.0
+31,Othello,123,498.9632413,2000,10_year_growth_kids,-250.0
+0,Upper Queen Anne,106,52.65872029,2010,10_year_growth_kids,10.0
+1,Fremont,302,214.511083,2010,10_year_growth_kids,44.0
+2,West Seattle Junction,205,270.4170255,2010,10_year_growth_kids,4.0
+3,Columbia City,111,334.5433404,2010,10_year_growth_kids,-455.0
+4,First Hill/Capitol Hill,414,916.2218015,2010,10_year_growth_kids,-95.0
+5,Roosevelt,202,170.2117761,2010,10_year_growth_kids,52.0
+6,South Lake Union,312,339.886927,2010,10_year_growth_kids,36.0
+7,University District,401,751.9638778,2010,10_year_growth_kids,-107.0
+8,Crown Hill,103,270.9887543,2010,10_year_growth_kids,103.0
+9,Westwood-Highland Park,127,275.0621961,2010,10_year_growth_kids,2.0
+10,Lake City,201,142.2670425,2010,10_year_growth_kids,113.0
+11,Greater Duwamish,502,4953.281793,2010,10_year_growth_kids,-78.0
+12,Madison-Miller,131,145.3234203,2010,10_year_growth_kids,116.0
+13,Green Lake,207,107.4446385,2010,10_year_growth_kids,69.0
+14,Northgate,301,412.2911233,2010,10_year_growth_kids,141.0
+15,North Beacon Hill,110,266.8762908,2010,10_year_growth_kids,-189.0
+16,Ballard-Interbay-Northend,501,931.9728637,2010,10_year_growth_kids,1.0
+17,Greenwood-Phinney Ridge,102,94.15764497,2010,10_year_growth_kids,19.0
+18,Downtown,413,953.2817465,2010,10_year_growth_kids,-22.0
+19,Uptown,412,333.000698,2010,10_year_growth_kids,75.0
+20,Rainier Beach,204,346.1438736,2010,10_year_growth_kids,-106.0
+21,23rd & Union-Jackson,109,625.2664128,2010,10_year_growth_kids,-290.0
+22,Bitter Lake Village,114,363.7795662,2010,10_year_growth_kids,201.0
+23,Mt Baker,305,491.0180584,2010,10_year_growth_kids,30.0
+24,Admiral,113,98.24835065,2010,10_year_growth_kids,39.0
+25,Aurora-Licton Springs,101,326.9585992,2010,10_year_growth_kids,63.0
+26,Morgan Junction,206,113.3093773,2010,10_year_growth_kids,25.0
+27,Eastlake,107,199.2559558,2010,10_year_growth_kids,86.0
+28,Wallingford,203,258.0056129,2010,10_year_growth_kids,224.0
+29,Ballard,303,495.4763052,2010,10_year_growth_kids,72.0
+30,South Park,128,263.7986201,2010,10_year_growth_kids,0.0
+31,Othello,123,498.9632413,2010,10_year_growth_kids,671.0
+0,Upper Queen Anne,106,52.65872029,2020,10_year_growth_kids,65.0
+1,Fremont,302,214.511083,2020,10_year_growth_kids,124.0
+2,West Seattle Junction,205,270.4170255,2020,10_year_growth_kids,239.0
+3,Columbia City,111,334.5433404,2020,10_year_growth_kids,510.0
+4,First Hill/Capitol Hill,414,916.2218015,2020,10_year_growth_kids,108.0
+5,Roosevelt,202,170.2117761,2020,10_year_growth_kids,132.0
+6,South Lake Union,312,339.886927,2020,10_year_growth_kids,391.0
+7,University District,401,751.9638778,2020,10_year_growth_kids,484.0
+8,Crown Hill,103,270.9887543,2020,10_year_growth_kids,180.0
+9,Westwood-Highland Park,127,275.0621961,2020,10_year_growth_kids,-146.0
+10,Lake City,201,142.2670425,2020,10_year_growth_kids,115.0
+11,Greater Duwamish,502,4953.281793,2020,10_year_growth_kids,110.0
+12,Madison-Miller,131,145.3234203,2020,10_year_growth_kids,32.0
+13,Green Lake,207,107.4446385,2020,10_year_growth_kids,102.0
+14,Northgate,301,412.2911233,2020,10_year_growth_kids,36.0
+15,North Beacon Hill,110,266.8762908,2020,10_year_growth_kids,54.0
+16,Ballard-Interbay-Northend,501,931.9728637,2020,10_year_growth_kids,138.0
+17,Greenwood-Phinney Ridge,102,94.15764497,2020,10_year_growth_kids,36.0
+18,Downtown,413,953.2817465,2020,10_year_growth_kids,874.0
+19,Uptown,412,333.000698,2020,10_year_growth_kids,374.0
+20,Rainier Beach,204,346.1438736,2020,10_year_growth_kids,193.0
+21,23rd & Union-Jackson,109,625.2664128,2020,10_year_growth_kids,89.0
+22,Bitter Lake Village,114,363.7795662,2020,10_year_growth_kids,332.0
+23,Mt Baker,305,491.0180584,2020,10_year_growth_kids,26.0
+24,Admiral,113,98.24835065,2020,10_year_growth_kids,17.0
+25,Aurora-Licton Springs,101,326.9585992,2020,10_year_growth_kids,29.0
+26,Morgan Junction,206,113.3093773,2020,10_year_growth_kids,26.0
+27,Eastlake,107,199.2559558,2020,10_year_growth_kids,138.0
+28,Wallingford,203,258.0056129,2020,10_year_growth_kids,138.0
+29,Ballard,303,495.4763052,2020,10_year_growth_kids,379.0
+30,South Park,128,263.7986201,2020,10_year_growth_kids,-170.0
+31,Othello,123,498.9632413,2020,10_year_growth_kids,58.0
+0,Upper Queen Anne,106,52.65872029,1990,10_year_frac_growth_kids,
+1,Fremont,302,214.511083,1990,10_year_frac_growth_kids,
+2,West Seattle Junction,205,270.4170255,1990,10_year_frac_growth_kids,
+3,Columbia City,111,334.5433404,1990,10_year_frac_growth_kids,
+4,First Hill/Capitol Hill,414,916.2218015,1990,10_year_frac_growth_kids,
+5,Roosevelt,202,170.2117761,1990,10_year_frac_growth_kids,
+6,South Lake Union,312,339.886927,1990,10_year_frac_growth_kids,
+7,University District,401,751.9638778,1990,10_year_frac_growth_kids,
+8,Crown Hill,103,270.9887543,1990,10_year_frac_growth_kids,
+9,Westwood-Highland Park,127,275.0621961,1990,10_year_frac_growth_kids,
+10,Lake City,201,142.2670425,1990,10_year_frac_growth_kids,
+11,Greater Duwamish,502,4953.281793,1990,10_year_frac_growth_kids,
+12,Madison-Miller,131,145.3234203,1990,10_year_frac_growth_kids,
+13,Green Lake,207,107.4446385,1990,10_year_frac_growth_kids,
+14,Northgate,301,412.2911233,1990,10_year_frac_growth_kids,
+15,North Beacon Hill,110,266.8762908,1990,10_year_frac_growth_kids,
+16,Ballard-Interbay-Northend,501,931.9728637,1990,10_year_frac_growth_kids,
+17,Greenwood-Phinney Ridge,102,94.15764497,1990,10_year_frac_growth_kids,
+18,Downtown,413,953.2817465,1990,10_year_frac_growth_kids,
+19,Uptown,412,333.000698,1990,10_year_frac_growth_kids,
+20,Rainier Beach,204,346.1438736,1990,10_year_frac_growth_kids,
+21,23rd & Union-Jackson,109,625.2664128,1990,10_year_frac_growth_kids,
+22,Bitter Lake Village,114,363.7795662,1990,10_year_frac_growth_kids,
+23,Mt Baker,305,491.0180584,1990,10_year_frac_growth_kids,
+24,Admiral,113,98.24835065,1990,10_year_frac_growth_kids,
+25,Aurora-Licton Springs,101,326.9585992,1990,10_year_frac_growth_kids,
+26,Morgan Junction,206,113.3093773,1990,10_year_frac_growth_kids,
+27,Eastlake,107,199.2559558,1990,10_year_frac_growth_kids,
+28,Wallingford,203,258.0056129,1990,10_year_frac_growth_kids,
+29,Ballard,303,495.4763052,1990,10_year_frac_growth_kids,
+30,South Park,128,263.7986201,1990,10_year_frac_growth_kids,
+31,Othello,123,498.9632413,1990,10_year_frac_growth_kids,
+0,Upper Queen Anne,106,52.65872029,2000,10_year_frac_growth_kids,0.008
+1,Fremont,302,214.511083,2000,10_year_frac_growth_kids,-0.35714285714285715
+2,West Seattle Junction,205,270.4170255,2000,10_year_frac_growth_kids,0.05084745762711865
+3,Columbia City,111,334.5433404,2000,10_year_frac_growth_kids,0.06591760299625468
+4,First Hill/Capitol Hill,414,916.2218015,2000,10_year_frac_growth_kids,0.08791208791208792
+5,Roosevelt,202,170.2117761,2000,10_year_frac_growth_kids,-0.04745762711864407
+6,South Lake Union,312,339.886927,2000,10_year_frac_growth_kids,0.525
+7,University District,401,751.9638778,2000,10_year_frac_growth_kids,-0.05574324324324324
+8,Crown Hill,103,270.9887543,2000,10_year_frac_growth_kids,0.11226252158894647
+9,Westwood-Highland Park,127,275.0621961,2000,10_year_frac_growth_kids,0.12474226804123711
+10,Lake City,201,142.2670425,2000,10_year_frac_growth_kids,0.5573122529644269
+11,Greater Duwamish,502,4953.281793,2000,10_year_frac_growth_kids,0.4391891891891892
+12,Madison-Miller,131,145.3234203,2000,10_year_frac_growth_kids,-0.30416666666666664
+13,Green Lake,207,107.4446385,2000,10_year_frac_growth_kids,-0.08737864077669903
+14,Northgate,301,412.2911233,2000,10_year_frac_growth_kids,0.5603644646924829
+15,North Beacon Hill,110,266.8762908,2000,10_year_frac_growth_kids,-0.008991008991008992
+16,Ballard-Interbay-Northend,501,931.9728637,2000,10_year_frac_growth_kids,-0.38317757009345793
+17,Greenwood-Phinney Ridge,102,94.15764497,2000,10_year_frac_growth_kids,0.36538461538461536
+18,Downtown,413,953.2817465,2000,10_year_frac_growth_kids,1.7355072463768115
+19,Uptown,412,333.000698,2000,10_year_frac_growth_kids,-0.14534883720930233
+20,Rainier Beach,204,346.1438736,2000,10_year_frac_growth_kids,0.029335634167385678
+21,23rd & Union-Jackson,109,625.2664128,2000,10_year_frac_growth_kids,0.032907662082514735
+22,Bitter Lake Village,114,363.7795662,2000,10_year_frac_growth_kids,0.044854881266490766
+23,Mt Baker,305,491.0180584,2000,10_year_frac_growth_kids,0.09129967776584318
+24,Admiral,113,98.24835065,2000,10_year_frac_growth_kids,0.09655172413793103
+25,Aurora-Licton Springs,101,326.9585992,2000,10_year_frac_growth_kids,-0.012080536912751677
+26,Morgan Junction,206,113.3093773,2000,10_year_frac_growth_kids,0.27225130890052357
+27,Eastlake,107,199.2559558,2000,10_year_frac_growth_kids,-0.18309859154929578
+28,Wallingford,203,258.0056129,2000,10_year_frac_growth_kids,0.06473214285714286
+29,Ballard,303,495.4763052,2000,10_year_frac_growth_kids,-0.06203995793901157
+30,South Park,128,263.7986201,2000,10_year_frac_growth_kids,0.3401253918495298
+31,Othello,123,498.9632413,2000,10_year_frac_growth_kids,-0.10692899914456801
+0,Upper Queen Anne,106,52.65872029,2010,10_year_frac_growth_kids,0.07936507936507936
+1,Fremont,302,214.511083,2010,10_year_frac_growth_kids,0.2573099415204678
+2,West Seattle Junction,205,270.4170255,2010,10_year_frac_growth_kids,0.009216589861751152
+3,Columbia City,111,334.5433404,2010,10_year_frac_growth_kids,-0.31974701335207306
+4,First Hill/Capitol Hill,414,916.2218015,2010,10_year_frac_growth_kids,-0.050505050505050504
+5,Roosevelt,202,170.2117761,2010,10_year_frac_growth_kids,0.18505338078291814
+6,South Lake Union,312,339.886927,2010,10_year_frac_growth_kids,0.29508196721311475
+7,University District,401,751.9638778,2010,10_year_frac_growth_kids,-0.19141323792486584
+8,Crown Hill,103,270.9887543,2010,10_year_frac_growth_kids,0.15993788819875776
+9,Westwood-Highland Park,127,275.0621961,2010,10_year_frac_growth_kids,0.0018331805682859762
+10,Lake City,201,142.2670425,2010,10_year_frac_growth_kids,0.2868020304568528
+11,Greater Duwamish,502,4953.281793,2010,10_year_frac_growth_kids,-0.36619718309859156
+12,Madison-Miller,131,145.3234203,2010,10_year_frac_growth_kids,0.3473053892215569
+13,Green Lake,207,107.4446385,2010,10_year_frac_growth_kids,0.7340425531914894
+14,Northgate,301,412.2911233,2010,10_year_frac_growth_kids,0.20583941605839415
+15,North Beacon Hill,110,266.8762908,2010,10_year_frac_growth_kids,-0.1905241935483871
+16,Ballard-Interbay-Northend,501,931.9728637,2010,10_year_frac_growth_kids,0.015151515151515152
+17,Greenwood-Phinney Ridge,102,94.15764497,2010,10_year_frac_growth_kids,0.05352112676056338
+18,Downtown,413,953.2817465,2010,10_year_frac_growth_kids,-0.02913907284768212
+19,Uptown,412,333.000698,2010,10_year_frac_growth_kids,0.5102040816326531
+20,Rainier Beach,204,346.1438736,2010,10_year_frac_growth_kids,-0.08885163453478626
+21,23rd & Union-Jackson,109,625.2664128,2010,10_year_frac_growth_kids,-0.1378982406086543
+22,Bitter Lake Village,114,363.7795662,2010,10_year_frac_growth_kids,0.5075757575757576
+23,Mt Baker,305,491.0180584,2010,10_year_frac_growth_kids,0.02952755905511811
+24,Admiral,113,98.24835065,2010,10_year_frac_growth_kids,0.24528301886792453
+25,Aurora-Licton Springs,101,326.9585992,2010,10_year_frac_growth_kids,0.08559782608695653
+26,Morgan Junction,206,113.3093773,2010,10_year_frac_growth_kids,0.102880658436214
+27,Eastlake,107,199.2559558,2010,10_year_frac_growth_kids,0.7413793103448276
+28,Wallingford,203,258.0056129,2010,10_year_frac_growth_kids,0.469601677148847
+29,Ballard,303,495.4763052,2010,10_year_frac_growth_kids,0.08071748878923767
+30,South Park,128,263.7986201,2010,10_year_frac_growth_kids,0.0
+31,Othello,123,498.9632413,2010,10_year_frac_growth_kids,0.321360153256705
+0,Upper Queen Anne,106,52.65872029,2020,10_year_frac_growth_kids,0.47794117647058826
+1,Fremont,302,214.511083,2020,10_year_frac_growth_kids,0.5767441860465117
+2,West Seattle Junction,205,270.4170255,2020,10_year_frac_growth_kids,0.545662100456621
+3,Columbia City,111,334.5433404,2020,10_year_frac_growth_kids,0.5268595041322314
+4,First Hill/Capitol Hill,414,916.2218015,2020,10_year_frac_growth_kids,0.060470324748040316
+5,Roosevelt,202,170.2117761,2020,10_year_frac_growth_kids,0.3963963963963964
+6,South Lake Union,312,339.886927,2020,10_year_frac_growth_kids,2.4746835443037973
+7,University District,401,751.9638778,2020,10_year_frac_growth_kids,1.0707964601769913
+8,Crown Hill,103,270.9887543,2020,10_year_frac_growth_kids,0.24096385542168675
+9,Westwood-Highland Park,127,275.0621961,2020,10_year_frac_growth_kids,-0.13357731015553523
+10,Lake City,201,142.2670425,2020,10_year_frac_growth_kids,0.22682445759368836
+11,Greater Duwamish,502,4953.281793,2020,10_year_frac_growth_kids,0.8148148148148148
+12,Madison-Miller,131,145.3234203,2020,10_year_frac_growth_kids,0.07111111111111111
+13,Green Lake,207,107.4446385,2020,10_year_frac_growth_kids,0.6257668711656442
+14,Northgate,301,412.2911233,2020,10_year_frac_growth_kids,0.043583535108958835
+15,North Beacon Hill,110,266.8762908,2020,10_year_frac_growth_kids,0.06724782067247821
+16,Ballard-Interbay-Northend,501,931.9728637,2020,10_year_frac_growth_kids,2.0597014925373136
+17,Greenwood-Phinney Ridge,102,94.15764497,2020,10_year_frac_growth_kids,0.0962566844919786
+18,Downtown,413,953.2817465,2020,10_year_frac_growth_kids,1.1923601637107777
+19,Uptown,412,333.000698,2020,10_year_frac_growth_kids,1.6846846846846846
+20,Rainier Beach,204,346.1438736,2020,10_year_frac_growth_kids,0.17755289788408463
+21,23rd & Union-Jackson,109,625.2664128,2020,10_year_frac_growth_kids,0.049089906232763374
+22,Bitter Lake Village,114,363.7795662,2020,10_year_frac_growth_kids,0.5561139028475712
+23,Mt Baker,305,491.0180584,2020,10_year_frac_growth_kids,0.0248565965583174
+24,Admiral,113,98.24835065,2020,10_year_frac_growth_kids,0.08585858585858586
+25,Aurora-Licton Springs,101,326.9585992,2020,10_year_frac_growth_kids,0.03629536921151439
+26,Morgan Junction,206,113.3093773,2020,10_year_frac_growth_kids,0.09701492537313433
+27,Eastlake,107,199.2559558,2020,10_year_frac_growth_kids,0.6831683168316832
+28,Wallingford,203,258.0056129,2020,10_year_frac_growth_kids,0.19686162624821682
+29,Ballard,303,495.4763052,2020,10_year_frac_growth_kids,0.39315352697095435
+30,South Park,128,263.7986201,2020,10_year_frac_growth_kids,-0.19883040935672514
+31,Othello,123,498.9632413,2020,10_year_frac_growth_kids,0.021022109459949256
