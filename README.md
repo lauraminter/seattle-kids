@@ -1,4 +1,4 @@
-# Changing Seattle Demographics: Kids in Urban Environments
+# Seattle kids: changing demographics and the implications for public schools
 # L. Minter December 2021
 
 ## Problem Statement
@@ -48,8 +48,6 @@ The total grade level enrollment, however, was provided only in graphical format
 
 
 ## Key EDA Findings
-
-# Key EDA Findings
 
 Over the last 10 years the child population growth has been more concentrated in the highly urban, less dense UCV portions of the city.  In these areas the fractional growth in child population significantly outpaces the city-wide fractional growth.  UCVs will continue to play a major role in city growth with 14% of children currently living in UCVs and higher fractional growth in population than the rest of the city.  UCVs will continue to play an important role in driving school enrollments.  
 
