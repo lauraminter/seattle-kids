@@ -1,4 +1,4 @@
-# Seattle kids: hanging demographics and the implications for public schools
+# Seattle kids: changing demographics and the implications for public schools
 # L. Minter December 2021
 
 ## Problem Statement
