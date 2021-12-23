@@ -2,7 +2,6 @@
 # based on the dash tutorial: https://dash.plotly.com/interactive-graphing
 # modified by L. Minter
 
-
 import dash
 from dash import dcc
 from dash import html

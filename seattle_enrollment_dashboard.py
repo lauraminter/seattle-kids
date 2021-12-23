@@ -1,10 +1,6 @@
-# seattle_population_dashboard.py
+# seattle_enrollment_dashboard.py
 # based on the dash tutorial: https://dash.plotly.com/interactive-graphing
 # modified by L. Minter
-
-# to do:
-# rename variables to be more readable (jupyter)
-# make it pretty!
 
 import dash
 from dash import dcc
@@ -67,7 +63,7 @@ app.layout = html.Div([
     html.Div([
         dcc.Graph(
             id='crossfilter-indicator-scatter',
-            hoverData={'points': [{'customdata': 'MLK Jr'}]}
+            hoverData={'points': [{'customdata': 'Downtown'}]}
         )
     ], style={'width': '49%', 'display': 'inline-block', 'padding': '0 20'}),
     html.Div([

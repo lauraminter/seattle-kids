@@ -1,4 +1,4 @@
-# Seattle kids:changing demographics and the implications for public schools
+# Seattle kids: hanging demographics and the implications for public schools
 # L. Minter December 2021
 
 ## Problem Statement
@@ -6,10 +6,10 @@ What role does density play in the distribution of children in Seattle's Urban C
 
 What role do Urban Centers and Villages play in changing enrollments in Seattle Public Schools?
 
-Can we model enrollment using population data alone?  Does density help us with modeling?
+Can we model enrollment using population data?  
 
 ## Technical Requirements
-Python with pandas, seaborn, numpy, matplotlib, sklearn
+Python with jupyter, pandas, seaborn, numpy, matplotlib, and sklearn
 
 ## Background
 Welcome to Seattle, the tiniest big city you'll ever visit!  Though Seattle is by all acounts a major metropolitan area, the layout of the city lends itself to focus on the indivudal neighborhoods, resulting in a small town feel.  Across the city there are 32 'urban centers and villages' which act as miniature downtown areas.  These higher-density urban areas within the city are not accidental but rather the result of policies that focus development in specific areas of the city ([CityOfSeattle2021](http://www.seattle.gov/opcd/ongoing-initiatives/comprehensive-plan)).  The city-designated 'Urban Centers and Villages' (UCV) are subject to different zoning than the surrounding neighborhoods and are considered targets for dense development, including multi-family (e.g, high-rise apartments) as well as mixed-used residential/commercial. The areas targeted for development are typically along major corridors with transportation.  This approach allows for growth while avoiding rezoning significant portions of residential land currently slated for single-family housing ([Urbanist2019](https://www.theurbanist.org/2019/03/18/how-we-got-here-a-brief-history-of-mandatory-housing-affordability-in-seattle/)).  Today, most of the residential land in the city remains zoned exclusively for single-family homes and nearly all developable land in these residential areas has been used.  
@@ -45,7 +45,12 @@ The total grade level enrollment, however, was provided only in graphical format
 
 ## Dashboards
 
+Interactive dashboards using the Dash/Plotly library allow for exploratory data analysis.  They are development servers that run on the local machine at http://127.0.0.1:8050.  To run the dashboards, first run the python scripts and use your favorite web browser to navigate to the url [http://127.0.0.1:8050](http://127.0.0.1:8050).
 
+Three data dashboards for looking at different data:
+ 1. [seattle_population_dashboard.py](Population data only):  Allows selection of population related variables (density, fractional growth, etc.) for each axis and displays time series for each selected variable for the selected neighborhood.  Neighborhood is selected by hovering over points on the population chart.
+ 2. [Enrollment data only](seattle_enrollment_dashboard.py):  Allows selection of enrollment data and displays time series for school enrollment and total district enrollment.  School is selected by hovering mouse over data in the full enrollment chart.
+ 3. [Combined population and enrollment data (seattle_full_dashboard.py):  Allows selection of population related variables for each axis and displays the enrollment time series for the school associated with the selected neighborhood.  Neighborhood is selected by hovering mouse over points on the population chart.  
 
 ## Key EDA Findings
 
@@ -57,11 +62,12 @@ UCVs are subject to being broken up by school boundaries.  While this can help s
 
 Enrollment at schools near dense UCVs did not see consistent rise or fall in enrollment.  Upon examination this may be the result of splitting of the UCV across multiple schools as well as adjustments to school attendance boundaries.  The overall impact of UCVs on schools remains difficult to quantify due to moving boundaries.  
 
+Density varies wildly across the various UCVs.  The differences in how the boundaries of the UCVs are defined makes density a complex variable to use.  For exampl,e Upper Queen Anne is the second densest UCV despite being one of the least urban areas.  Thus, density will not be a good variable for modeling.  
 
 
 ## Modeling
 
-Target model: linear regression relating enrollment data to the child population data.
+Planned model: linear regression relating enrollment data to the child population data.
 
 In order to model annual enrollment, yearly population estimates were obtained by interpolating between census years.  While this is certainly not an exact value for the true population it provides a reasonable estimate for years in between the decennial census data.  Population lags will be considered to account for typical delays of 5, 10 and 15 years between birth and enrollment in elementary, middle, and high school, respectively.  Alternatively, data from the American Community Survey could be used but would require aggregating census tract data to arrive at UCV-level population.  
 
@@ -76,7 +82,7 @@ Averages for the null models are computed alongside each linear regression to en
 The null model consists of using the average enrollment from the training set to determine the predicted enrollment.  This is sensitive to the way the data is split but should give a reasonable comparison.  The R2 score is relative to this averaged model so this is expected to be 0.  The RMSE, on the other hand, gives a sense of overall how much error there is in the model.
 
 ### Model Evaluation
-The time-lagged population data improved the linear models from around 69% explained variation to approximately 90% explained variation.  All of the models showed signficant improvement over the null model in terms of RMSE.  
+The time-lagged population data improved the linear models from around 69% explained variation to approximately 90% explained variation.  All of the models showed significant improvement over the null model in terms of RMSE.  
 
 The best model we were able to make used the population and 5-year lag of population to predict total enrollment.  This model had an R2 of 0.913 and an RMSE of 846 for unseen data.  This represents a factor of 5 decrease from the RMSE for the null model (average).  The model explains 91% of the variation in the enrollment using just two pieces of population data: current population and 5-year lagged population.
 
