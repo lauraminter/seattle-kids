@@ -86,6 +86,13 @@ The time-lagged population data improved the linear models from around 69% expla
 
 The best model we were able to make used the population and 5-year lag of population to predict total enrollment.  This model had an R2 of 0.913 and an RMSE of 846 for unseen data.  This represents a factor of 5 decrease from the RMSE for the null model (average).  The model explains 91% of the variation in the enrollment using just two pieces of population data: current population and 5-year lagged population.
 
+## Results
+
+Density is a complex variable that is related to boundary definitions for the urban centers and villages.  This makes it impractical to use for modeling.  The most dense UCVs do not necessarily have high density of children.  Dense UCVs have historically not had high density of children but have seen immense growth in child populations in the last 10 years.  
+
+The relationships between Seattle Public Schools and the urban centers and villages is complex and varies across the city.  UCVs in the wealthier parts of town appear to have explicit carveouts to allow the UCV and its entire catchment to attend the same school.  UCVs in less wealthy portions of town are split across different schools.  When these split UCVs see growth in child population the increase in enrollment is split across a variety of schools, meaning that an individual schools are not as strongly affected.  While this may help balance school enrollments it indicates that the schools are not considering it as a community.  
+
+Modeling total enrollment with just current population explains 69% of the variation from an average model.  Modeling total enrollment with current population and the 5-year lagged population explains 91% of the variation.  This supports the notion that birth data can be helpful in determining future enrollment as used by the Seattle Public School as 5-year is the age gap between birth and typical school enrollment.   
 
 ## Recommendations
 
