@@ -1,4 +1,4 @@
-# Seattle kids: changing demographics and the implications for public schools
+# Seattle kids:changing demographics and the implications for public schools
 # L. Minter December 2021
 
 ## Problem Statement
@@ -78,12 +78,18 @@ The null model consists of using the average enrollment from the training set to
 ### Model Evaluation
 The time-lagged population data improved the linear models from around 69% explained variation to approximately 90% explained variation.  All of the models showed signficant improvement over the null model in terms of RMSE.  
 
-The best model we were able to make used the population and 5-year lag of population to predict total enrollment.  This model had an R2 of 0.913 and an RMSE of 846 for unseen data.  This represents a factor of 5 decrease from the RMSE for the null model (average).  The model explains 91% of the variation in the enrollment using just two pieces of population data.  
-
-## Results
+The best model we were able to make used the population and 5-year lag of population to predict total enrollment.  This model had an R2 of 0.913 and an RMSE of 846 for unseen data.  This represents a factor of 5 decrease from the RMSE for the null model (average).  The model explains 91% of the variation in the enrollment using just two pieces of population data: current population and 5-year lagged population.
 
 
 ## Recommendations
 
+Re-examine how we define school assignments in relation to urban centers and villages, particularly Othello and Lake City
+
+Consider rising population of children in urban centers and villages when determining how to manage school assignments and plan for capital investments.  
 
 ## Next Steps
+
+Improvements to the analysis could be made by:
+- Adding housing and economic data from the American Community Survey.  This would require aggregating the census tract data to form UCV level data.
+- Breaking down by child age.  Again, this data is not reported by the city but could be obtained from the federal government.
+- Including distance information.  This would require domain area knowledge.  How far do students travel for school and what explains any differences across the city?  
